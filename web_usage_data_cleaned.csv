@@ -1,0 +1,351 @@
+User ID,Product ID,Action,Count
+1,17,view,1
+1,19,view,1
+1,36,add to cart,1
+2,10,view,1
+2,13,purchase,1
+2,23,purchase,1
+2,25,add to cart,1
+3,2,view,1
+3,33,add to cart,1
+3,33,purchase,1
+3,41,add to cart,1
+3,44,purchase,1
+4,12,add to cart,1
+4,20,view,1
+4,37,view,1
+5,16,add to cart,1
+5,20,add to cart,1
+5,30,purchase,1
+5,35,add to cart,1
+7,4,view,1
+7,36,add to cart,1
+7,41,view,1
+8,5,purchase,1
+8,20,add to cart,1
+8,22,purchase,1
+8,24,view,1
+8,44,add to cart,1
+8,46,view,1
+9,1,purchase,1
+9,5,view,1
+9,18,view,1
+9,28,view,1
+10,3,purchase,1
+10,5,purchase,1
+10,19,view,1
+10,48,add to cart,1
+10,50,view,1
+11,2,add to cart,1
+11,6,view,1
+11,15,purchase,1
+11,29,view,1
+11,40,add to cart,1
+11,43,view,1
+12,18,view,1
+12,28,view,1
+12,31,add to cart,1
+12,45,purchase,1
+12,46,view,1
+13,5,purchase,1
+13,35,purchase,1
+13,36,view,1
+13,48,purchase,1
+14,5,view,1
+14,34,view,1
+15,15,purchase,1
+16,14,add to cart,1
+16,21,add to cart,1
+16,31,purchase,1
+16,48,add to cart,1
+17,2,purchase,1
+17,25,purchase,1
+17,32,add to cart,1
+17,32,purchase,1
+17,37,purchase,1
+17,40,purchase,1
+18,25,view,1
+18,32,view,1
+18,36,view,1
+18,46,add to cart,1
+19,19,view,1
+19,31,purchase,1
+20,12,purchase,1
+20,13,purchase,1
+20,24,purchase,1
+20,34,add to cart,1
+20,37,view,1
+20,41,add to cart,1
+20,48,add to cart,1
+21,18,view,1
+21,21,add to cart,1
+22,2,view,1
+22,3,add to cart,1
+22,12,purchase,1
+22,13,add to cart,1
+22,22,view,1
+22,36,view,1
+23,36,purchase,1
+24,2,add to cart,1
+24,17,view,1
+24,28,view,1
+24,29,view,1
+24,35,add to cart,1
+24,39,view,1
+25,31,view,1
+25,38,add to cart,1
+25,43,purchase,1
+26,3,purchase,1
+26,7,view,1
+26,8,add to cart,1
+26,35,purchase,1
+26,40,view,1
+26,47,add to cart,1
+26,47,purchase,1
+27,6,view,1
+27,27,purchase,1
+27,47,purchase,1
+27,49,add to cart,1
+28,6,purchase,1
+28,7,add to cart,1
+28,25,purchase,1
+28,28,add to cart,1
+28,39,add to cart,1
+29,2,view,1
+29,4,view,1
+29,16,purchase,1
+29,21,add to cart,1
+30,17,purchase,1
+31,2,purchase,1
+31,41,view,1
+32,22,view,1
+32,29,add to cart,1
+32,37,view,1
+32,49,add to cart,1
+33,8,view,1
+33,15,view,1
+33,16,purchase,1
+33,21,purchase,1
+33,50,add to cart,1
+34,11,purchase,1
+34,49,add to cart,1
+35,15,purchase,1
+36,10,purchase,1
+36,29,add to cart,1
+37,9,add to cart,1
+37,17,add to cart,1
+37,20,view,1
+37,24,purchase,1
+37,28,view,1
+37,34,add to cart,1
+38,14,purchase,1
+38,15,add to cart,1
+38,32,add to cart,1
+38,41,purchase,1
+38,47,purchase,1
+39,11,purchase,1
+39,35,purchase,1
+40,7,purchase,1
+40,37,purchase,1
+41,2,purchase,1
+41,23,add to cart,1
+41,23,purchase,1
+41,32,view,1
+41,37,add to cart,1
+41,38,view,1
+41,45,view,1
+42,6,add to cart,1
+42,9,add to cart,1
+42,11,add to cart,1
+42,27,view,1
+42,36,add to cart,1
+43,32,add to cart,1
+43,47,purchase,1
+44,2,view,1
+44,3,purchase,1
+44,17,view,1
+44,45,view,1
+44,46,add to cart,1
+45,2,add to cart,1
+45,4,purchase,1
+45,7,add to cart,1
+45,29,purchase,1
+45,31,view,1
+45,50,add to cart,1
+46,5,add to cart,1
+46,18,purchase,1
+46,28,view,1
+47,19,purchase,1
+47,45,view,1
+47,46,purchase,1
+47,50,view,1
+48,36,view,1
+48,38,purchase,1
+48,38,view,1
+48,41,purchase,1
+49,1,purchase,1
+49,12,view,1
+49,28,view,1
+49,40,purchase,1
+50,47,view,1
+51,6,purchase,1
+51,9,add to cart,1
+51,42,view,1
+52,2,add to cart,1
+52,12,purchase,1
+52,16,add to cart,1
+52,42,purchase,1
+53,2,view,1
+53,4,add to cart,1
+53,7,add to cart,1
+53,20,view,1
+53,22,add to cart,1
+54,5,purchase,1
+54,7,purchase,1
+54,20,add to cart,1
+54,47,purchase,1
+55,3,add to cart,1
+55,37,add to cart,1
+55,46,add to cart,1
+56,28,add to cart,1
+57,7,view,1
+57,11,add to cart,1
+57,17,purchase,1
+57,18,add to cart,1
+57,19,view,1
+57,20,purchase,1
+57,35,purchase,1
+57,40,add to cart,1
+57,40,view,1
+58,4,purchase,1
+58,6,view,1
+58,8,view,1
+58,36,view,1
+58,38,add to cart,1
+58,38,purchase,1
+58,39,add to cart,1
+58,46,add to cart,1
+59,3,add to cart,1
+59,41,purchase,1
+60,22,purchase,1
+60,26,view,1
+60,32,add to cart,1
+60,39,add to cart,1
+61,1,add to cart,1
+61,2,purchase,2
+61,9,purchase,1
+61,26,purchase,1
+62,23,purchase,1
+62,25,purchase,1
+63,5,add to cart,1
+63,17,add to cart,1
+63,19,view,1
+63,22,view,1
+63,30,add to cart,1
+63,40,view,1
+63,44,add to cart,1
+65,28,purchase,1
+65,45,view,1
+66,10,view,1
+66,29,purchase,1
+67,19,view,1
+67,48,add to cart,1
+68,15,purchase,1
+68,20,purchase,1
+68,43,purchase,1
+68,44,view,1
+68,48,view,1
+69,4,view,1
+69,16,add to cart,1
+70,5,add to cart,1
+70,14,purchase,1
+70,17,purchase,1
+70,20,view,1
+70,31,view,1
+70,46,add to cart,1
+71,33,purchase,1
+71,35,view,1
+72,1,add to cart,1
+72,15,view,1
+72,22,add to cart,1
+72,28,view,1
+72,31,purchase,1
+72,41,view,1
+72,43,add to cart,1
+72,45,view,1
+72,49,view,1
+73,14,purchase,1
+73,19,view,1
+73,35,view,1
+73,48,purchase,1
+74,7,add to cart,1
+74,10,purchase,1
+74,22,purchase,1
+74,25,add to cart,1
+75,5,view,1
+75,22,view,1
+75,29,purchase,1
+75,33,add to cart,1
+76,15,purchase,1
+76,19,view,1
+77,3,purchase,1
+77,5,add to cart,1
+77,16,view,1
+77,22,add to cart,1
+77,31,view,1
+77,37,add to cart,1
+77,46,purchase,1
+77,49,add to cart,1
+78,13,add to cart,1
+78,25,view,1
+78,43,add to cart,1
+79,4,add to cart,1
+79,14,add to cart,1
+79,39,view,1
+80,13,add to cart,1
+80,17,purchase,1
+80,34,view,1
+80,39,view,1
+80,41,view,1
+81,47,add to cart,1
+82,13,add to cart,1
+82,18,purchase,1
+82,26,view,1
+82,30,purchase,1
+82,33,view,1
+82,37,add to cart,1
+82,49,add to cart,1
+83,12,purchase,1
+83,44,purchase,1
+83,46,view,1
+84,4,purchase,1
+84,12,view,1
+84,16,view,1
+84,20,view,1
+84,43,view,1
+85,14,purchase,1
+85,20,add to cart,1
+85,33,add to cart,1
+85,35,purchase,1
+86,10,add to cart,1
+86,16,add to cart,1
+86,27,view,1
+86,28,add to cart,1
+87,25,add to cart,1
+87,30,purchase,1
+88,1,view,1
+88,13,view,1
+88,15,add to cart,1
+88,22,add to cart,1
+88,31,add to cart,1
+88,34,purchase,1
+88,43,add to cart,1
+88,48,add to cart,1
+89,10,add to cart,1
+89,10,purchase,1
+89,41,purchase,1
+90,35,purchase,1
+90,41,purchase,1
+90,41,view,1
+91,2,view,1
+91,6,add to cart,1
