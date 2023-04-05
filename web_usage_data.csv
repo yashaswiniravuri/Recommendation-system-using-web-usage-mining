@@ -1,0 +1,1001 @@
+user_id,product_id,category,feature1,feature2,feature3,feature4,feature5,action,count,rating,product_name,product_category
+u36,p17,cover,33,0.71,type,True,0.001,add to cart,6,1,total,beat
+u49,p6,soldier,73,0.14,former,True,0.098,add to cart,5,1,trip,decade
+u15,p16,method,64,0.46,sign,False,0.073,purchase,2,3,season,letter
+u96,p2,husband,86,0.34,main,False,0.078,view,8,3,science,age
+u30,p3,group,36,0.61,environment,True,0.061,purchase,2,4,thought,mouth
+u20,p4,piece,44,0.09,several,False,0.01,purchase,9,4,apply,people
+u35,p19,quality,58,0.38,check,False,0.051,view,7,1,unit,collection
+u8,p13,during,37,0.56,physical,True,0.036,purchase,7,5,major,everything
+u3,p1,smile,40,0.54,international,True,0.068,add to cart,9,2,we,very
+u96,p2,less,7,0.84,item,False,0.083,purchase,3,2,science,age
+u64,p13,management,81,0.3,term,False,0.005,view,4,2,major,everything
+u53,p12,success,93,0.9,series,True,0.08,add to cart,4,4,wish,treat
+u87,p3,some,63,0.86,music,False,0.049,view,9,3,thought,mouth
+u83,p8,turn,30,0.24,far,False,0.035,view,10,2,energy,newspaper
+u19,p3,smile,48,0.42,stage,True,0.04,add to cart,4,4,thought,mouth
+u14,p14,watch,78,0.75,power,False,0.093,add to cart,4,3,begin,fine
+u44,p8,order,89,0.09,field,False,0.002,add to cart,8,1,energy,newspaper
+u28,p15,pull,52,0.19,market,True,0.097,purchase,4,1,throw,family
+u59,p17,newspaper,27,0.63,direction,False,0.064,add to cart,5,3,total,beat
+u22,p3,order,69,0.7,deal,False,0.045,purchase,8,1,thought,mouth
+u46,p1,national,82,0.83,argue,True,0.052,add to cart,5,3,we,very
+u7,p12,on,38,0.05,question,True,0.09,add to cart,2,1,wish,treat
+u23,p2,southern,99,0.3,growth,True,0.024,purchase,9,2,science,age
+u5,p14,apply,62,0.24,we,False,0.023,purchase,1,1,begin,fine
+u21,p13,range,50,0.12,total,False,0.05,view,10,3,major,everything
+u7,p16,particularly,39,0.15,one,False,0.083,add to cart,5,5,season,letter
+u91,p8,admit,71,0.98,American,False,0.006,purchase,5,4,energy,newspaper
+u84,p11,present,23,0.55,research,True,0.088,add to cart,4,1,she,cell
+u84,p16,exist,63,0.49,teacher,True,0.003,view,3,1,season,letter
+u23,p12,social,1,0.88,someone,True,0.047,purchase,8,1,wish,treat
+u90,p5,bit,45,0.15,focus,True,0.085,view,3,2,leave,bill
+u66,p17,particularly,94,0.08,sea,False,0.043,view,1,5,total,beat
+u59,p8,stay,45,0.97,better,True,0.054,purchase,8,3,energy,newspaper
+u85,p2,agree,79,0.92,move,True,0.031,view,3,5,science,age
+u69,p12,spend,97,1.0,new,True,0.095,view,8,2,wish,treat
+u54,p12,impact,61,0.94,than,False,0.063,purchase,5,3,wish,treat
+u63,p3,month,18,0.27,data,False,0.093,add to cart,4,3,thought,mouth
+u88,p10,window,8,0.44,debate,True,0.026,add to cart,5,2,public,bit
+u39,p14,smile,23,0.57,necessary,True,0.095,view,1,3,begin,fine
+u72,p19,writer,14,0.21,various,True,0.075,view,4,1,unit,collection
+u83,p6,democratic,57,0.26,win,True,0.078,view,3,5,trip,decade
+u66,p5,there,77,0.49,century,True,0.042,view,9,2,leave,bill
+u86,p1,affect,56,0.9,million,True,0.052,add to cart,9,4,we,very
+u29,p13,miss,63,0.63,also,False,0.007,add to cart,4,5,major,everything
+u31,p18,free,79,0.85,natural,False,0.064,view,5,2,develop,fly
+u37,p15,ago,57,0.14,admit,False,0.078,purchase,9,5,throw,family
+u60,p17,small,88,0.26,party,True,0.099,view,7,4,total,beat
+u86,p19,Democrat,29,0.8,happy,False,0.086,purchase,6,1,unit,collection
+u82,p5,avoid,27,0.87,better,False,0.062,view,3,5,leave,bill
+u26,p12,them,6,0.16,physical,True,0.026,purchase,7,3,wish,treat
+u85,p9,cut,68,0.52,agreement,False,0.02,purchase,9,5,subject,skill
+u55,p1,value,46,0.63,Democrat,True,0.054,purchase,3,4,we,very
+u20,p20,land,61,0.15,explain,True,0.004,purchase,8,2,then,hospital
+u22,p3,accept,77,1.0,group,True,0.009,view,10,5,thought,mouth
+u68,p13,identify,61,0.52,such,True,0.05,purchase,5,3,major,everything
+u96,p18,participant,59,0.97,edge,True,0.035,add to cart,4,1,develop,fly
+u67,p8,down,72,0.73,every,False,0.004,view,10,5,energy,newspaper
+u48,p11,line,70,0.25,do,False,0.074,view,10,4,she,cell
+u19,p7,local,80,0.46,clear,True,0.014,view,4,2,space,yeah
+u32,p9,sure,11,0.72,issue,True,0.069,view,9,1,subject,skill
+u57,p9,plant,14,0.36,court,True,0.086,purchase,10,2,subject,skill
+u7,p17,coach,61,0.42,article,True,0.007,view,2,1,total,beat
+u47,p19,community,57,0.11,federal,False,0.018,add to cart,9,1,unit,collection
+u82,p16,perhaps,55,0.75,customer,False,0.045,purchase,5,5,season,letter
+u19,p11,about,54,0.4,identify,False,0.028,view,4,2,she,cell
+u18,p10,television,12,0.7,without,False,0.046,view,4,5,public,bit
+u89,p6,act,81,0.86,then,True,0.016,add to cart,1,4,trip,decade
+u54,p4,visit,20,0.69,say,False,0.015,view,4,4,apply,people
+u8,p16,campaign,13,0.53,keep,False,0.035,purchase,5,4,season,letter
+u1,p19,operation,46,0.92,experience,False,0.021,add to cart,10,4,unit,collection
+u10,p12,indicate,77,0.41,without,False,0.043,add to cart,2,2,wish,treat
+u74,p8,design,98,0.71,bit,True,0.096,purchase,7,1,energy,newspaper
+u28,p8,century,54,0.72,last,False,0.052,view,9,1,energy,newspaper
+u56,p17,bring,51,0.78,money,True,0.054,add to cart,6,2,total,beat
+u73,p14,with,23,0.75,protect,False,0.041,add to cart,5,4,begin,fine
+u99,p8,community,38,0.12,strong,True,0.069,purchase,2,3,energy,newspaper
+u77,p19,card,18,0.8,bit,False,0.072,add to cart,5,3,unit,collection
+u13,p15,each,38,0.58,human,False,0.022,purchase,9,2,throw,family
+u32,p16,thought,10,0.51,picture,True,0.012,purchase,10,2,season,letter
+u64,p9,dog,97,0.54,crime,True,0.054,purchase,9,3,subject,skill
+u65,p3,stay,45,0.07,decision,False,0.009,view,7,2,thought,mouth
+u23,p16,we,41,0.66,push,False,0.017,purchase,2,3,season,letter
+u27,p9,we,95,0.82,source,False,0.02,view,7,1,subject,skill
+u99,p20,seven,92,0.84,we,False,0.033,view,9,3,then,hospital
+u77,p12,plant,20,0.05,allow,True,0.032,view,1,4,wish,treat
+u14,p8,during,89,0.32,space,True,0.079,view,2,1,energy,newspaper
+u4,p9,action,27,0.63,store,False,0.042,view,8,3,subject,skill
+u97,p10,debate,93,0.71,hospital,True,0.016,add to cart,9,2,public,bit
+u45,p17,trial,78,0.64,interesting,False,0.017,view,6,4,total,beat
+u89,p1,form,14,0.36,stuff,False,0.047,view,3,5,we,very
+u19,p10,those,52,0.48,rule,False,0.03,add to cart,7,1,public,bit
+u100,p20,contain,7,0.83,add,True,0.084,purchase,8,3,then,hospital
+u8,p2,specific,59,0.48,opportunity,True,0.012,view,1,5,science,age
+u38,p17,member,61,0.45,simply,False,0.064,purchase,4,2,total,beat
+u75,p14,billion,8,0.58,morning,True,0.001,view,9,1,begin,fine
+u10,p18,spring,40,0.35,you,False,0.01,purchase,1,3,develop,fly
+u85,p11,describe,76,0.67,special,False,0.097,view,2,5,she,cell
+u35,p9,travel,33,0.28,exactly,True,0.051,view,1,5,subject,skill
+u40,p10,relate,95,0.2,wish,False,0.087,purchase,1,1,public,bit
+u26,p13,career,5,0.48,four,True,0.074,purchase,9,4,major,everything
+u87,p18,teach,39,0.59,stock,True,0.06,purchase,2,3,develop,fly
+u5,p14,effect,77,0.02,project,False,0.063,add to cart,7,5,begin,fine
+u57,p20,name,31,0.71,clearly,False,0.016,view,4,1,then,hospital
+u53,p16,herself,13,0.35,try,False,0.071,view,1,1,season,letter
+u40,p18,top,98,0.68,she,False,0.012,add to cart,10,2,develop,fly
+u85,p11,including,22,0.98,idea,False,0.043,view,9,5,she,cell
+u50,p16,note,100,0.91,speech,True,0.089,add to cart,2,1,season,letter
+u94,p2,arrive,91,0.22,blood,False,0.096,add to cart,3,4,science,age
+u79,p5,information,48,0.21,raise,True,0.02,add to cart,3,4,leave,bill
+u40,p3,name,56,0.66,management,True,0.048,purchase,9,3,thought,mouth
+u53,p16,lose,8,0.76,reach,True,0.055,purchase,5,5,season,letter
+u57,p3,paper,17,0.74,notice,False,0.019,view,10,2,thought,mouth
+u12,p20,pull,13,0.63,according,True,0.03,purchase,2,2,then,hospital
+u61,p7,give,15,0.75,usually,False,0.007,view,4,2,space,yeah
+u46,p2,bag,96,0.42,responsibility,True,0.003,add to cart,10,5,science,age
+u94,p12,north,23,0.96,bad,True,0.051,purchase,10,3,wish,treat
+u86,p19,little,50,0.54,under,True,0.057,view,9,4,unit,collection
+u30,p1,similar,64,0.02,suffer,True,0.016,add to cart,10,4,we,very
+u84,p20,indeed,1,0.48,radio,True,0.022,view,6,2,then,hospital
+u68,p8,hear,95,0.47,maybe,False,0.01,add to cart,6,1,energy,newspaper
+u48,p2,surface,40,0.77,military,True,0.042,add to cart,8,5,science,age
+u56,p15,finish,76,0.66,wrong,False,0.061,view,10,5,throw,family
+u54,p7,box,51,0.68,a,False,0.032,purchase,4,2,space,yeah
+u21,p10,whom,9,0.79,city,True,0.051,purchase,2,5,public,bit
+u39,p2,player,60,0.5,even,False,0.073,view,4,3,science,age
+u86,p16,be,90,0.99,hair,True,0.07,view,9,3,season,letter
+u20,p14,author,26,0.19,here,True,0.086,view,8,2,begin,fine
+u53,p6,purpose,76,0.97,ahead,False,0.034,add to cart,3,5,trip,decade
+u85,p9,field,90,0.42,nothing,True,0.005,add to cart,1,1,subject,skill
+u48,p10,admit,93,0.41,effort,False,0.001,add to cart,2,4,public,bit
+u92,p1,well,35,0.63,become,True,0.004,view,7,3,we,very
+u1,p6,color,29,0.52,front,True,0.061,add to cart,5,1,trip,decade
+u23,p2,arrive,95,0.68,tonight,False,0.079,purchase,4,5,science,age
+u95,p20,couple,88,0.68,address,False,0.054,add to cart,5,4,then,hospital
+u23,p18,enter,33,0.24,quickly,False,0.099,view,6,1,develop,fly
+u44,p5,step,86,0.62,win,False,0.093,purchase,8,2,leave,bill
+u44,p7,goal,81,0.69,team,False,0.051,purchase,1,2,space,yeah
+u4,p17,business,53,0.13,project,True,0.028,add to cart,7,1,total,beat
+u39,p17,but,2,0.61,resource,True,0.096,purchase,4,1,total,beat
+u10,p20,somebody,24,0.31,such,True,0.098,purchase,6,5,then,hospital
+u32,p18,fund,86,0.86,memory,True,0.002,view,8,5,develop,fly
+u68,p17,think,31,0.09,region,False,0.029,purchase,1,2,total,beat
+u29,p1,heart,1,0.74,next,False,0.084,add to cart,10,4,we,very
+u2,p12,happen,33,0.65,those,True,0.07,view,3,1,wish,treat
+u100,p16,pattern,9,0.55,memory,False,0.037,view,9,1,season,letter
+u74,p11,style,9,0.57,fine,False,0.063,view,4,2,she,cell
+u55,p13,bill,30,0.27,however,True,0.079,view,5,1,major,everything
+u65,p18,history,17,0.93,create,True,0.074,add to cart,1,3,develop,fly
+u66,p2,security,24,0.76,move,False,0.025,view,2,4,science,age
+u13,p8,major,39,0.88,build,True,0.014,view,7,3,energy,newspaper
+u71,p11,onto,2,0.13,magazine,False,0.06,add to cart,5,3,she,cell
+u96,p19,everyone,36,0.77,than,False,0.009,purchase,4,4,unit,collection
+u73,p3,security,77,0.95,war,True,0.072,view,10,1,thought,mouth
+u62,p1,theory,64,0.08,region,True,0.072,view,7,5,we,very
+u92,p6,throughout,91,0.74,public,False,0.033,purchase,2,3,trip,decade
+u10,p18,discuss,62,0.3,research,True,0.082,purchase,2,3,develop,fly
+u4,p19,past,64,0.47,identify,False,0.1,add to cart,10,4,unit,collection
+u25,p12,imagine,18,0.85,industry,True,0.067,add to cart,4,1,wish,treat
+u99,p17,hand,67,0.84,ten,True,0.037,view,8,3,total,beat
+u85,p19,so,23,0.39,take,False,0.039,add to cart,2,2,unit,collection
+u26,p14,painting,82,0.95,modern,True,0.067,add to cart,7,4,begin,fine
+u39,p15,nice,38,0.52,born,False,0.004,view,9,2,throw,family
+u78,p6,return,3,0.7,little,False,0.098,purchase,3,3,trip,decade
+u42,p19,value,38,0.26,receive,True,0.059,add to cart,8,5,unit,collection
+u65,p11,could,56,0.3,movement,False,0.094,add to cart,8,5,she,cell
+u19,p3,million,84,0.89,century,True,0.005,add to cart,10,2,thought,mouth
+u45,p8,citizen,100,0.6,box,True,0.018,add to cart,9,1,energy,newspaper
+u22,p11,full,60,0.45,store,False,0.077,view,6,1,she,cell
+u7,p5,various,89,0.49,edge,False,0.03,view,9,5,leave,bill
+u47,p3,find,59,0.36,federal,True,0.096,add to cart,2,2,thought,mouth
+u77,p5,much,91,0.85,impact,False,0.019,add to cart,2,2,leave,bill
+u33,p13,project,75,0.11,certain,True,0.038,purchase,3,1,major,everything
+u60,p14,these,61,0.34,many,True,0.1,view,2,5,begin,fine
+u51,p2,agent,38,0.7,produce,False,0.036,view,2,5,science,age
+u22,p4,throughout,39,0.44,program,True,0.065,add to cart,8,2,apply,people
+u34,p17,try,6,0.87,job,False,0.028,purchase,7,3,total,beat
+u63,p3,area,73,0.86,mean,False,0.007,view,6,4,thought,mouth
+u21,p7,game,55,0.83,receive,True,0.075,view,1,5,space,yeah
+u68,p20,least,3,0.27,return,False,0.013,add to cart,8,5,then,hospital
+u45,p5,put,53,0.54,during,False,0.011,add to cart,5,5,leave,bill
+u1,p16,former,75,0.47,state,True,0.028,purchase,5,2,season,letter
+u10,p18,wide,71,0.97,assume,True,0.002,view,1,2,develop,fly
+u80,p6,read,51,0.81,check,True,0.032,purchase,5,4,trip,decade
+u50,p17,game,97,0.41,everything,False,0.032,view,6,1,total,beat
+u67,p13,face,86,0.15,other,True,0.01,view,8,2,major,everything
+u9,p18,in,83,0.98,so,False,0.073,add to cart,5,3,develop,fly
+u10,p5,challenge,76,0.53,treatment,True,0.039,add to cart,7,1,leave,bill
+u15,p8,difficult,99,0.31,mean,False,0.076,purchase,5,2,energy,newspaper
+u49,p2,attorney,21,0.47,notice,False,0.003,add to cart,9,1,science,age
+u79,p1,college,80,0.33,fear,True,0.006,purchase,6,1,we,very
+u55,p7,important,25,0.24,tell,False,0.047,purchase,6,2,space,yeah
+u43,p10,loss,33,0.18,bar,True,0.066,add to cart,9,3,public,bit
+u57,p1,service,45,0.26,practice,False,0.082,view,4,4,we,very
+u76,p2,radio,96,0.71,seek,False,0.045,add to cart,7,4,science,age
+u35,p17,capital,69,0.1,voice,True,0.095,purchase,5,2,total,beat
+u27,p17,national,34,0.46,how,True,0.05,add to cart,10,5,total,beat
+u88,p16,chair,76,0.72,season,False,0.018,view,8,4,season,letter
+u28,p3,learn,84,0.76,raise,False,0.091,add to cart,10,5,thought,mouth
+u26,p2,imagine,70,0.51,Congress,True,0.011,view,6,5,science,age
+u6,p2,such,98,0.27,accept,True,0.093,view,7,3,science,age
+u28,p18,far,46,0.2,sell,True,0.06,view,8,5,develop,fly
+u88,p2,report,96,0.1,will,True,0.081,view,3,4,science,age
+u93,p5,cut,12,0.88,statement,True,0.082,purchase,10,3,leave,bill
+u23,p12,computer,100,0.98,each,False,0.015,view,1,5,wish,treat
+u40,p19,old,52,0.78,hair,False,0.063,view,9,4,unit,collection
+u96,p10,school,8,0.05,marriage,False,0.064,view,8,3,public,bit
+u75,p4,town,48,0.12,just,True,0.02,purchase,9,4,apply,people
+u60,p8,per,86,0.5,bad,False,0.047,purchase,4,4,energy,newspaper
+u59,p1,about,74,0.21,social,True,0.082,add to cart,5,3,we,very
+u6,p12,until,20,0.54,heart,True,0.044,add to cart,1,4,wish,treat
+u26,p20,sometimes,9,0.36,choice,True,0.039,add to cart,4,5,then,hospital
+u2,p1,agree,11,0.5,something,True,0.028,purchase,7,5,we,very
+u82,p2,score,26,0.86,kind,True,0.001,purchase,2,1,science,age
+u39,p19,cell,46,0.62,visit,False,0.016,purchase,1,2,unit,collection
+u14,p13,happen,98,0.35,exactly,True,0.006,add to cart,3,4,major,everything
+u64,p19,risk,77,0.66,employee,True,0.031,purchase,4,3,unit,collection
+u10,p19,party,53,0.63,air,False,0.009,purchase,5,4,unit,collection
+u61,p3,list,31,0.46,minute,True,0.037,add to cart,6,3,thought,mouth
+u39,p11,newspaper,45,0.96,focus,True,0.078,purchase,7,2,she,cell
+u31,p11,reality,41,0.59,real,True,0.022,view,3,4,she,cell
+u62,p20,born,14,0.32,drop,False,0.045,add to cart,4,5,then,hospital
+u39,p9,group,37,0.65,seven,True,0.085,purchase,4,1,subject,skill
+u28,p19,since,95,0.61,red,True,0.016,add to cart,1,2,unit,collection
+u46,p18,around,42,0.71,policy,True,0.006,purchase,10,4,develop,fly
+u39,p3,rise,24,0.64,final,False,0.059,add to cart,7,5,thought,mouth
+u94,p5,speech,72,0.64,north,False,0.029,add to cart,10,3,leave,bill
+u88,p16,light,40,0.57,everything,False,0.028,purchase,8,1,season,letter
+u17,p5,appear,27,0.23,describe,True,0.004,view,5,2,leave,bill
+u81,p18,interesting,64,0.66,at,False,0.047,add to cart,5,2,develop,fly
+u78,p15,everybody,73,0.09,weight,True,0.022,purchase,2,3,throw,family
+u38,p6,possible,19,0.86,present,True,0.026,view,4,5,trip,decade
+u31,p19,fast,100,0.33,research,False,0.048,add to cart,10,4,unit,collection
+u2,p9,what,8,0.28,speech,False,0.071,add to cart,6,3,subject,skill
+u75,p16,produce,59,0.47,measure,True,0.073,add to cart,2,2,season,letter
+u5,p19,election,15,0.1,believe,False,0.079,purchase,6,5,unit,collection
+u6,p13,then,13,0.55,rule,False,0.044,add to cart,7,2,major,everything
+u25,p13,policy,93,0.38,have,True,0.069,view,7,2,major,everything
+u54,p6,itself,66,0.01,become,True,0.043,view,4,1,trip,decade
+u33,p8,feeling,99,0.57,clearly,True,0.083,view,8,1,energy,newspaper
+u29,p5,large,26,0.15,such,False,0.036,add to cart,8,4,leave,bill
+u33,p17,four,14,0.71,list,False,0.099,add to cart,7,5,total,beat
+u34,p3,arm,57,0.34,consider,False,0.053,view,10,4,thought,mouth
+u79,p12,beyond,13,0.06,draw,True,0.058,purchase,5,3,wish,treat
+u84,p6,enjoy,23,0.93,list,True,0.043,view,7,2,trip,decade
+u22,p14,case,96,0.35,ball,True,0.025,view,9,3,begin,fine
+u98,p10,wish,37,0.56,vote,True,0.068,view,5,4,public,bit
+u82,p1,happen,37,0.03,tonight,False,0.092,add to cart,6,1,we,very
+u4,p18,pass,36,0.73,science,True,0.01,purchase,2,5,develop,fly
+u98,p10,time,26,0.78,like,False,0.026,view,5,4,public,bit
+u65,p9,last,44,0.18,those,False,0.07,purchase,4,2,subject,skill
+u32,p19,collection,51,0.32,little,False,0.011,add to cart,7,5,unit,collection
+u16,p19,however,61,0.86,face,False,0.05,add to cart,9,2,unit,collection
+u41,p16,individual,6,0.37,kitchen,False,0.089,view,2,3,season,letter
+u47,p20,ok,50,0.58,arm,True,0.079,purchase,3,5,then,hospital
+u72,p14,building,66,0.27,real,True,0.019,purchase,2,3,begin,fine
+u87,p7,usually,26,1.0,discuss,True,0.002,purchase,3,4,space,yeah
+u19,p10,near,88,0.17,send,False,0.054,view,4,3,public,bit
+u60,p15,tend,53,0.86,fly,False,0.034,purchase,9,1,throw,family
+u99,p19,audience,83,0.6,source,False,0.001,view,7,3,unit,collection
+u6,p4,investment,73,0.03,single,False,0.032,add to cart,6,5,apply,people
+u82,p19,several,98,0.01,cultural,False,0.03,purchase,10,4,unit,collection
+u57,p11,under,34,0.78,age,False,0.039,purchase,5,3,she,cell
+u32,p15,sound,1,0.38,likely,False,0.071,purchase,6,1,throw,family
+u75,p2,rather,43,0.54,guess,False,0.025,purchase,9,5,science,age
+u41,p11,mention,10,0.01,less,True,0.058,add to cart,4,2,she,cell
+u40,p11,cut,86,0.98,where,True,0.079,add to cart,1,2,she,cell
+u15,p16,skin,55,0.33,time,True,0.03,purchase,2,1,season,letter
+u6,p6,there,78,0.5,arm,False,0.02,view,2,2,trip,decade
+u53,p9,compare,48,0.84,itself,True,0.059,add to cart,10,2,subject,skill
+u74,p14,right,49,0.45,reveal,True,0.01,view,8,3,begin,fine
+u20,p1,book,91,0.8,another,False,0.07,add to cart,1,5,we,very
+u53,p13,various,49,0.11,already,False,0.033,view,9,5,major,everything
+u24,p17,employee,18,0.42,experience,True,0.061,view,1,2,total,beat
+u95,p14,friend,62,0.69,board,False,0.049,purchase,5,3,begin,fine
+u77,p17,decide,98,0.95,alone,False,0.016,view,5,1,total,beat
+u96,p15,project,65,0.33,morning,False,0.062,view,3,1,throw,family
+u27,p5,relate,43,0.69,many,True,0.08,add to cart,1,5,leave,bill
+u49,p3,six,45,0.99,score,True,0.09,add to cart,9,3,thought,mouth
+u86,p19,item,7,0.42,join,True,0.093,add to cart,8,1,unit,collection
+u95,p20,same,94,0.78,development,True,0.02,view,9,3,then,hospital
+u49,p11,structure,45,0.3,over,True,0.009,view,2,4,she,cell
+u5,p9,respond,72,0.48,particular,False,0.002,purchase,5,3,subject,skill
+u54,p14,head,1,0.34,one,False,0.03,view,3,1,begin,fine
+u9,p16,myself,7,0.71,thus,False,0.091,add to cart,7,2,season,letter
+u7,p14,value,77,0.45,degree,False,0.066,purchase,9,2,begin,fine
+u11,p10,of,10,0.45,market,False,0.032,view,9,5,public,bit
+u62,p5,begin,84,0.73,walk,True,0.021,view,4,3,leave,bill
+u22,p12,difference,82,0.97,own,False,0.038,view,10,3,wish,treat
+u56,p19,TV,45,0.87,discussion,False,0.006,view,9,3,unit,collection
+u5,p10,movement,61,0.2,several,True,0.034,view,1,4,public,bit
+u48,p17,seven,68,0.27,able,True,0.076,add to cart,4,1,total,beat
+u16,p10,try,43,0.96,arm,False,0.077,view,4,3,public,bit
+u8,p15,kind,51,0.56,stage,True,0.036,purchase,8,1,throw,family
+u90,p18,particular,49,0.98,why,False,0.077,purchase,8,5,develop,fly
+u8,p14,fact,76,0.4,scientist,True,0.083,add to cart,4,4,begin,fine
+u62,p18,executive,98,0.53,production,True,0.034,purchase,4,3,develop,fly
+u67,p13,write,74,0.84,pattern,True,0.059,purchase,8,1,major,everything
+u15,p4,international,23,0.85,amount,True,0.039,purchase,1,4,apply,people
+u56,p8,space,8,0.55,business,True,0.073,add to cart,5,3,energy,newspaper
+u7,p4,over,33,0.95,buy,True,0.057,purchase,6,4,apply,people
+u81,p8,occur,23,0.93,beautiful,True,0.08,add to cart,3,4,energy,newspaper
+u63,p5,believe,97,0.4,real,False,0.087,purchase,9,1,leave,bill
+u62,p4,seat,44,0.64,million,False,0.022,purchase,2,2,apply,people
+u27,p3,on,58,0.09,government,True,0.091,add to cart,5,5,thought,mouth
+u9,p6,score,55,0.15,specific,True,0.045,purchase,2,1,trip,decade
+u30,p20,according,54,0.52,door,True,0.016,view,6,4,then,hospital
+u49,p14,free,89,0.66,eat,False,0.009,add to cart,7,4,begin,fine
+u63,p5,Mrs,52,0.17,down,False,0.093,purchase,5,5,leave,bill
+u19,p13,service,10,0.71,behavior,False,0.01,purchase,1,3,major,everything
+u70,p3,instead,34,0.44,then,True,0.011,add to cart,4,1,thought,mouth
+u100,p10,politics,96,0.5,president,False,0.075,add to cart,7,2,public,bit
+u35,p11,involve,28,0.18,building,True,0.093,purchase,2,4,she,cell
+u96,p19,wind,2,0.27,base,False,0.071,view,4,5,unit,collection
+u42,p15,expect,40,0.45,necessary,False,0.096,purchase,4,5,throw,family
+u65,p9,account,49,0.84,way,True,0.093,add to cart,10,2,subject,skill
+u69,p2,anyone,84,0.96,computer,False,0.011,view,9,3,science,age
+u88,p19,politics,28,1.0,likely,True,0.017,view,10,4,unit,collection
+u20,p2,that,40,0.01,first,True,0.029,purchase,7,2,science,age
+u43,p7,let,83,0.04,event,False,0.086,add to cart,9,3,space,yeah
+u5,p7,yeah,36,0.43,clear,False,0.04,purchase,5,1,space,yeah
+u41,p12,film,46,0.9,ability,True,0.034,purchase,2,2,wish,treat
+u55,p6,artist,24,0.22,particularly,True,0.002,purchase,9,5,trip,decade
+u81,p18,determine,77,0.49,director,False,0.06,purchase,2,1,develop,fly
+u62,p11,probably,82,0.65,staff,True,0.029,add to cart,3,1,she,cell
+u76,p5,thank,65,0.62,nice,True,0.054,view,3,1,leave,bill
+u42,p2,few,63,0.16,need,False,0.004,add to cart,7,2,science,age
+u67,p8,PM,18,0.03,interest,False,0.05,purchase,9,2,energy,newspaper
+u30,p20,one,21,0.71,despite,False,0.063,add to cart,8,5,then,hospital
+u50,p4,collection,10,0.44,write,False,0.041,purchase,8,1,apply,people
+u22,p5,investment,88,0.56,chair,True,0.061,purchase,5,5,leave,bill
+u26,p19,result,34,0.01,which,False,0.084,purchase,7,4,unit,collection
+u48,p3,pretty,94,0.15,especially,True,0.033,view,6,4,thought,mouth
+u3,p6,area,88,1.0,camera,True,0.069,purchase,10,4,trip,decade
+u90,p17,expert,50,0.51,little,True,0.019,add to cart,4,1,total,beat
+u18,p11,police,8,0.77,other,False,0.026,purchase,2,4,she,cell
+u19,p1,something,33,0.21,Congress,False,0.053,add to cart,2,1,we,very
+u41,p5,child,77,0.84,market,False,0.061,view,10,1,leave,bill
+u35,p10,list,18,0.49,leg,False,0.02,purchase,8,5,public,bit
+u22,p13,item,31,0.68,plan,False,0.084,view,9,3,major,everything
+u95,p16,city,79,0.93,watch,False,0.083,view,3,4,season,letter
+u38,p9,seven,25,0.77,seven,False,0.012,view,4,5,subject,skill
+u100,p1,outside,80,0.48,support,True,0.088,purchase,10,3,we,very
+u61,p5,detail,2,0.43,interesting,True,0.008,add to cart,1,1,leave,bill
+u24,p7,opportunity,72,0.14,maybe,False,0.089,view,3,2,space,yeah
+u82,p1,himself,27,0.96,probably,False,0.061,add to cart,3,2,we,very
+u71,p4,fast,4,0.02,officer,True,0.032,purchase,10,4,apply,people
+u40,p19,three,83,0.58,a,True,0.003,add to cart,6,2,unit,collection
+u52,p1,hot,88,0.16,top,False,0.072,add to cart,7,1,we,very
+u21,p20,possible,46,0.27,and,False,0.049,purchase,3,1,then,hospital
+u69,p4,economic,39,0.54,effect,True,0.065,purchase,10,3,apply,people
+u49,p7,popular,94,0.01,hit,False,0.097,add to cart,1,2,space,yeah
+u88,p12,tree,95,0.91,task,True,0.003,view,4,5,wish,treat
+u95,p7,major,95,1.0,recently,False,0.028,add to cart,4,1,space,yeah
+u83,p8,make,72,0.06,option,False,0.008,add to cart,10,3,energy,newspaper
+u22,p8,position,69,0.78,consumer,True,0.046,view,1,5,energy,newspaper
+u31,p4,all,84,0.09,ready,False,0.091,add to cart,7,5,apply,people
+u11,p18,exist,75,0.96,give,True,0.058,view,8,4,develop,fly
+u66,p14,early,30,0.52,current,True,0.01,purchase,10,3,begin,fine
+u87,p16,ten,56,0.45,section,True,0.047,purchase,4,4,season,letter
+u10,p8,establish,25,0.17,relate,True,0.029,add to cart,9,2,energy,newspaper
+u32,p5,hospital,53,0.25,ago,True,0.079,purchase,4,2,leave,bill
+u97,p19,many,23,0.9,start,False,0.095,purchase,9,2,unit,collection
+u65,p3,soon,30,0.93,daughter,True,0.048,view,7,1,thought,mouth
+u64,p16,affect,65,0.89,such,False,0.086,add to cart,6,4,season,letter
+u73,p1,quality,77,0.21,pull,True,0.051,add to cart,2,4,we,very
+u1,p13,when,89,0.88,particularly,False,0.018,add to cart,9,4,major,everything
+u93,p20,create,63,0.65,though,True,0.066,view,8,1,then,hospital
+u29,p3,chance,9,0.98,political,False,0.049,view,4,3,thought,mouth
+u74,p15,prevent,15,0.96,cut,False,0.006,add to cart,7,1,throw,family
+u77,p10,hand,31,0.07,century,True,0.087,view,4,3,public,bit
+u11,p7,forward,21,0.1,ready,False,0.026,view,9,1,space,yeah
+u34,p10,deep,16,0.79,only,False,0.057,add to cart,4,3,public,bit
+u28,p2,pay,64,0.79,good,False,0.085,purchase,8,4,science,age
+u69,p16,list,48,0.8,even,True,0.011,purchase,8,5,season,letter
+u33,p15,race,37,0.95,not,True,0.052,purchase,5,5,throw,family
+u90,p15,sense,87,0.38,development,True,0.015,add to cart,5,4,throw,family
+u59,p17,discover,92,0.13,generation,True,0.035,purchase,3,2,total,beat
+u83,p16,little,32,0.79,movie,False,0.047,add to cart,6,1,season,letter
+u95,p14,since,78,0.02,may,True,0.01,view,9,2,begin,fine
+u63,p15,sometimes,36,0.57,sport,True,0.036,purchase,7,5,throw,family
+u88,p4,to,69,0.36,thought,False,0.015,view,1,4,apply,people
+u94,p20,resource,79,0.37,society,False,0.068,purchase,1,2,then,hospital
+u22,p12,all,51,0.28,heart,False,0.027,view,3,5,wish,treat
+u57,p3,cause,44,0.61,themselves,False,0.051,view,1,2,thought,mouth
+u28,p9,level,87,0.79,morning,True,0.014,add to cart,4,4,subject,skill
+u49,p5,provide,76,0.78,nor,False,0.015,purchase,8,4,leave,bill
+u49,p4,road,39,0.05,actually,True,0.02,purchase,1,1,apply,people
+u30,p18,fight,31,0.17,campaign,True,0.029,add to cart,6,1,develop,fly
+u86,p4,they,71,0.11,store,True,0.009,purchase,4,3,apply,people
+u75,p5,view,98,0.29,this,False,0.039,purchase,9,3,leave,bill
+u19,p12,whose,52,0.51,particular,False,0.09,view,7,1,wish,treat
+u78,p1,if,19,0.13,address,False,0.068,purchase,4,4,we,very
+u19,p10,item,54,0.54,notice,True,0.034,purchase,1,4,public,bit
+u18,p3,few,84,0.25,hour,False,0.054,view,5,5,thought,mouth
+u81,p6,reality,60,0.07,eat,True,0.028,purchase,7,5,trip,decade
+u46,p6,wife,71,0.82,provide,True,0.031,purchase,4,3,trip,decade
+u30,p16,sister,17,0.52,first,False,0.052,view,8,4,season,letter
+u48,p1,fill,17,0.62,operation,True,0.039,add to cart,7,1,we,very
+u69,p8,tax,77,0.51,perform,True,0.052,view,2,4,energy,newspaper
+u34,p11,church,93,0.89,national,True,0.012,add to cart,9,1,she,cell
+u24,p11,woman,12,0.22,son,False,0.089,view,1,3,she,cell
+u82,p4,analysis,30,0.5,old,False,0.004,view,9,5,apply,people
+u80,p20,force,3,0.13,set,True,0.027,purchase,6,1,then,hospital
+u96,p6,read,55,0.83,despite,True,0.1,view,10,3,trip,decade
+u87,p4,paper,24,0.17,mind,False,0.057,add to cart,6,5,apply,people
+u69,p16,manager,1,0.54,treatment,False,0.034,add to cart,5,3,season,letter
+u70,p16,school,37,0.18,relationship,False,0.032,add to cart,3,3,season,letter
+u73,p8,what,50,0.13,early,True,0.003,view,8,2,energy,newspaper
+u56,p17,relate,7,0.34,whether,True,0.048,add to cart,7,3,total,beat
+u5,p8,clear,95,0.81,reality,False,0.017,view,2,1,energy,newspaper
+u29,p13,wide,79,0.22,citizen,False,0.035,add to cart,8,2,major,everything
+u50,p4,such,70,0.03,more,True,0.047,view,10,2,apply,people
+u10,p13,second,23,0.16,father,False,0.014,purchase,6,1,major,everything
+u74,p5,hour,60,0.41,arrive,True,0.065,purchase,7,5,leave,bill
+u36,p2,alone,40,0.25,goal,False,0.02,view,6,2,science,age
+u51,p9,current,7,0.13,table,True,0.019,view,9,4,subject,skill
+u16,p14,red,30,0.9,model,False,0.069,purchase,5,5,begin,fine
+u67,p13,will,63,0.65,value,False,0.1,view,10,3,major,everything
+u57,p12,growth,98,0.51,police,False,0.084,purchase,8,2,wish,treat
+u90,p16,but,52,0.78,sea,False,0.094,add to cart,5,1,season,letter
+u55,p20,indicate,33,0.2,bag,False,0.067,view,5,4,then,hospital
+u98,p6,color,77,0.9,radio,False,0.043,purchase,6,3,trip,decade
+u29,p15,professional,46,0.98,establish,True,0.07,purchase,10,4,throw,family
+u17,p2,this,33,0.04,build,False,0.095,view,3,1,science,age
+u88,p7,south,3,0.15,whom,True,0.073,purchase,9,3,space,yeah
+u26,p8,enough,89,0.37,show,False,0.031,view,1,2,energy,newspaper
+u33,p13,apply,86,0.36,performance,True,0.038,add to cart,2,3,major,everything
+u57,p7,relationship,16,0.25,surface,False,0.066,add to cart,10,1,space,yeah
+u16,p5,our,5,0.63,case,True,0.014,view,5,2,leave,bill
+u59,p7,teach,38,0.89,trial,False,0.062,purchase,8,4,space,yeah
+u67,p14,race,14,0.51,institution,False,0.072,purchase,8,2,begin,fine
+u64,p20,finally,64,0.76,former,False,0.035,view,1,5,then,hospital
+u13,p8,will,84,0.32,stop,True,0.088,add to cart,4,2,energy,newspaper
+u45,p7,enter,13,0.27,perform,True,0.067,add to cart,1,4,space,yeah
+u4,p2,street,5,0.72,leader,False,0.087,add to cart,2,1,science,age
+u78,p3,Mr,42,0.83,billion,False,0.015,view,2,4,thought,mouth
+u63,p20,speak,36,0.08,open,False,0.052,add to cart,9,2,then,hospital
+u65,p4,room,39,0.85,many,False,0.076,view,9,3,apply,people
+u44,p7,only,63,0.07,check,True,0.04,purchase,6,5,space,yeah
+u25,p19,federal,40,0.6,see,True,0.036,purchase,4,1,unit,collection
+u5,p6,two,100,0.05,drive,True,0.004,view,8,3,trip,decade
+u86,p8,series,79,0.89,type,False,0.099,purchase,9,1,energy,newspaper
+u23,p4,avoid,14,0.33,material,True,0.096,purchase,9,2,apply,people
+u9,p10,term,11,0.77,general,False,0.055,purchase,5,4,public,bit
+u55,p19,movement,66,0.31,remain,False,0.001,add to cart,5,3,unit,collection
+u9,p13,her,94,0.26,everything,True,0.025,purchase,2,2,major,everything
+u87,p9,meet,50,0.49,rather,True,0.03,view,10,5,subject,skill
+u95,p3,child,51,0.45,heavy,True,0.064,view,7,4,thought,mouth
+u39,p1,station,8,0.21,affect,True,0.075,view,2,2,we,very
+u31,p9,expect,14,0.12,imagine,True,0.085,purchase,5,3,subject,skill
+u2,p4,very,86,0.55,condition,True,0.012,purchase,4,1,apply,people
+u41,p15,area,16,0.71,cultural,True,0.001,view,9,5,throw,family
+u36,p10,dark,47,0.03,for,True,0.085,add to cart,4,1,public,bit
+u43,p13,hundred,13,0.92,particularly,True,0.021,purchase,2,4,major,everything
+u60,p11,bring,21,0.13,age,False,0.074,add to cart,5,3,she,cell
+u78,p17,five,36,0.68,statement,True,0.08,purchase,3,5,total,beat
+u91,p7,sport,93,0.85,civil,True,0.088,view,6,4,space,yeah
+u87,p13,door,75,0.07,town,True,0.072,add to cart,8,5,major,everything
+u72,p3,step,71,0.63,bed,True,0.07,view,1,2,thought,mouth
+u38,p3,why,18,0.31,treat,False,0.081,add to cart,10,2,thought,mouth
+u71,p6,if,75,0.55,right,True,0.097,add to cart,2,4,trip,decade
+u30,p8,yourself,12,0.14,important,True,0.033,view,1,4,energy,newspaper
+u54,p6,lead,94,0.16,control,True,0.05,add to cart,9,2,trip,decade
+u35,p15,describe,82,0.19,student,False,0.052,view,5,1,throw,family
+u19,p16,between,40,0.78,often,False,0.079,view,2,4,season,letter
+u88,p13,generation,70,0.78,different,True,0.056,add to cart,6,5,major,everything
+u44,p7,step,64,0.02,sing,True,0.039,purchase,3,3,space,yeah
+u54,p15,his,74,0.29,financial,False,0.047,view,7,5,throw,family
+u30,p8,test,67,0.37,attack,True,0.063,view,2,4,energy,newspaper
+u93,p10,food,68,0.65,line,True,0.012,add to cart,1,4,public,bit
+u8,p18,offer,8,0.34,design,True,0.03,view,7,3,develop,fly
+u93,p10,form,57,0.91,modern,True,0.019,add to cart,7,2,public,bit
+u17,p5,health,15,0.74,from,False,0.076,view,3,5,leave,bill
+u56,p9,seven,71,0.51,indeed,False,0.066,view,6,3,subject,skill
+u14,p15,tonight,42,0.37,against,False,0.009,view,8,1,throw,family
+u91,p9,bad,76,0.34,discussion,True,0.039,purchase,3,4,subject,skill
+u22,p15,cost,29,0.4,produce,False,0.098,view,5,1,throw,family
+u70,p3,type,82,0.14,than,False,0.087,add to cart,4,3,thought,mouth
+u73,p20,car,79,0.08,ahead,True,0.028,add to cart,9,4,then,hospital
+u84,p20,fall,8,0.5,form,True,0.081,purchase,4,4,then,hospital
+u100,p1,carry,85,0.38,specific,False,0.057,add to cart,2,2,we,very
+u6,p18,author,68,0.19,parent,True,0.041,add to cart,8,4,develop,fly
+u99,p9,learn,17,0.97,arrive,True,0.068,view,9,3,subject,skill
+u12,p9,day,5,0.74,responsibility,True,0.036,view,4,1,subject,skill
+u47,p6,point,46,0.61,partner,True,0.024,add to cart,9,2,trip,decade
+u56,p17,above,25,0.8,above,True,0.041,add to cart,5,3,total,beat
+u38,p1,great,93,0.58,senior,False,0.018,add to cart,7,3,we,very
+u18,p20,while,54,0.1,body,True,0.014,view,1,1,then,hospital
+u87,p5,himself,2,0.89,project,False,0.025,add to cart,5,3,leave,bill
+u25,p11,beautiful,33,0.28,enough,False,0.09,add to cart,10,4,she,cell
+u14,p12,national,13,0.64,special,False,0.05,purchase,9,5,wish,treat
+u88,p5,wrong,51,0.17,recognize,False,0.023,add to cart,2,1,leave,bill
+u47,p1,tell,73,0.45,suffer,True,0.051,purchase,3,2,we,very
+u7,p12,everybody,83,0.99,town,True,0.068,add to cart,10,3,wish,treat
+u41,p20,tree,58,0.87,order,False,0.092,add to cart,7,5,then,hospital
+u93,p19,over,7,0.62,could,True,0.015,add to cart,9,2,unit,collection
+u76,p3,fall,41,0.92,could,False,0.092,view,1,1,thought,mouth
+u65,p7,low,25,0.71,determine,True,0.015,purchase,8,1,space,yeah
+u97,p2,material,43,0.1,wish,True,0.024,view,10,5,science,age
+u47,p8,be,65,0.93,soon,True,0.057,purchase,9,3,energy,newspaper
+u78,p3,in,16,0.55,culture,False,0.008,add to cart,5,4,thought,mouth
+u36,p7,night,73,0.14,his,False,0.044,view,10,5,space,yeah
+u81,p2,apply,50,0.96,enjoy,False,0.003,view,7,2,science,age
+u40,p6,feeling,49,0.74,effort,True,0.087,purchase,6,2,trip,decade
+u96,p12,occur,47,0.54,rather,True,0.096,add to cart,3,1,wish,treat
+u23,p15,same,6,0.17,table,True,0.028,view,2,1,throw,family
+u90,p7,exactly,35,0.79,well,False,0.026,add to cart,4,2,space,yeah
+u95,p6,authority,4,0.64,collection,True,0.095,view,4,4,trip,decade
+u84,p14,too,86,0.89,past,False,0.029,purchase,6,5,begin,fine
+u33,p8,although,56,0.37,raise,True,0.056,view,8,4,energy,newspaper
+u86,p4,history,50,0.35,camera,True,0.093,purchase,7,5,apply,people
+u54,p10,suggest,33,0.29,growth,True,0.08,view,9,1,public,bit
+u99,p20,continue,21,0.07,test,False,0.074,view,1,4,then,hospital
+u21,p3,plan,94,0.63,walk,True,0.019,add to cart,2,4,thought,mouth
+u39,p2,sort,84,0.06,our,False,0.031,purchase,6,4,science,age
+u52,p16,significant,43,0.77,occur,False,0.086,add to cart,2,2,season,letter
+u43,p19,office,72,0.8,sister,True,0.027,add to cart,2,1,unit,collection
+u7,p17,sense,84,0.67,test,False,0.099,view,5,2,total,beat
+u95,p4,evidence,38,0.63,war,True,0.028,view,9,2,apply,people
+u88,p8,talk,85,0.18,investment,True,0.018,purchase,10,5,energy,newspaper
+u91,p20,similar,17,0.22,better,False,0.079,purchase,1,4,then,hospital
+u43,p14,sense,57,0.71,small,True,0.09,add to cart,6,2,begin,fine
+u99,p19,research,71,0.49,difficult,True,0.066,view,1,5,unit,collection
+u60,p16,free,67,0.18,forward,True,0.028,purchase,2,4,season,letter
+u31,p20,baby,91,0.87,until,True,0.032,view,1,1,then,hospital
+u3,p19,four,30,0.93,prevent,True,0.044,purchase,2,5,unit,collection
+u3,p6,boy,34,0.6,plan,False,0.042,view,5,5,trip,decade
+u34,p18,important,88,0.76,amount,False,0.046,view,2,2,develop,fly
+u84,p3,general,41,0.12,certain,False,0.04,add to cart,2,1,thought,mouth
+u17,p15,operation,45,0.69,describe,False,0.09,view,4,4,throw,family
+u79,p14,kind,88,0.25,moment,False,0.1,view,1,2,begin,fine
+u49,p14,design,88,0.61,physical,False,0.075,purchase,2,4,begin,fine
+u13,p2,off,82,0.4,skin,False,0.054,purchase,4,3,science,age
+u45,p18,pressure,73,0.7,good,False,0.068,purchase,6,5,develop,fly
+u33,p18,top,26,0.01,throughout,False,0.048,view,9,1,develop,fly
+u21,p10,hold,56,0.89,keep,False,0.028,purchase,9,1,public,bit
+u99,p8,heavy,18,0.3,could,False,0.011,purchase,9,2,energy,newspaper
+u60,p6,above,56,0.64,single,True,0.095,add to cart,5,4,trip,decade
+u47,p3,nation,65,0.76,computer,False,0.067,add to cart,10,4,thought,mouth
+u64,p14,less,44,0.26,president,False,0.038,view,2,3,begin,fine
+u59,p20,make,89,0.63,responsibility,True,0.092,purchase,8,3,then,hospital
+u8,p11,public,67,0.68,push,True,0.033,add to cart,10,2,she,cell
+u64,p16,help,93,0.38,discussion,False,0.054,view,3,2,season,letter
+u1,p1,pay,54,0.84,job,True,0.066,add to cart,1,1,we,very
+u71,p12,manager,35,0.7,art,True,0.003,purchase,2,4,wish,treat
+u24,p8,computer,75,0.09,option,False,0.092,add to cart,7,1,energy,newspaper
+u35,p10,different,21,0.44,such,False,0.045,purchase,1,4,public,bit
+u35,p5,country,38,0.64,focus,True,0.03,add to cart,7,2,leave,bill
+u43,p14,trip,65,0.84,radio,False,0.08,purchase,7,4,begin,fine
+u58,p15,range,31,0.27,game,True,0.038,add to cart,4,3,throw,family
+u90,p4,shoulder,69,0.47,spend,True,0.098,purchase,10,3,apply,people
+u84,p16,station,72,0.01,cold,True,0.013,view,1,5,season,letter
+u1,p5,outside,9,0.62,factor,True,0.02,add to cart,7,2,leave,bill
+u65,p8,yard,60,0.96,likely,False,0.068,add to cart,5,5,energy,newspaper
+u43,p18,director,32,0.43,energy,False,0.062,add to cart,7,2,develop,fly
+u86,p13,hotel,28,0.22,station,False,0.005,purchase,2,4,major,everything
+u83,p14,face,84,0.49,card,False,0.084,purchase,4,3,begin,fine
+u40,p19,north,42,0.36,risk,True,0.06,purchase,10,5,unit,collection
+u48,p4,throughout,69,0.65,receive,False,0.028,add to cart,4,5,apply,people
+u13,p16,like,54,0.59,him,True,0.073,view,1,3,season,letter
+u40,p8,ahead,4,0.99,than,True,0.043,purchase,8,5,energy,newspaper
+u54,p12,blue,62,0.32,likely,False,0.1,add to cart,2,3,wish,treat
+u16,p20,personal,25,0.24,medical,False,0.074,view,2,4,then,hospital
+u14,p11,blue,53,0.78,low,True,0.035,add to cart,9,3,she,cell
+u96,p12,rich,64,0.84,exist,True,0.024,purchase,6,2,wish,treat
+u39,p13,event,13,0.05,program,True,0.009,purchase,7,4,major,everything
+u1,p3,media,30,0.83,simply,True,0.025,add to cart,6,2,thought,mouth
+u6,p7,space,99,0.6,eight,True,0.085,add to cart,2,5,space,yeah
+u86,p19,look,42,0.64,because,False,0.05,view,4,5,unit,collection
+u72,p12,full,87,0.67,share,False,0.02,add to cart,4,3,wish,treat
+u15,p4,civil,70,0.01,capital,False,0.097,add to cart,1,1,apply,people
+u78,p2,model,46,0.32,matter,False,0.08,view,5,1,science,age
+u37,p10,present,74,0.53,suffer,True,0.044,add to cart,8,2,public,bit
+u37,p11,beautiful,66,0.83,recognize,True,0.064,purchase,5,5,she,cell
+u23,p1,send,37,0.07,night,False,0.005,purchase,7,4,we,very
+u52,p2,group,83,0.33,small,True,0.09,view,3,5,science,age
+u9,p4,agent,7,0.41,drug,False,0.044,view,4,3,apply,people
+u91,p5,maintain,19,0.16,however,True,0.096,view,9,4,leave,bill
+u19,p9,control,14,0.87,same,False,0.096,view,3,4,subject,skill
+u45,p17,bring,29,0.59,within,False,0.093,purchase,6,1,total,beat
+u66,p5,station,77,0.72,they,False,0.081,add to cart,5,5,leave,bill
+u42,p20,value,76,0.81,prepare,False,0.041,view,2,1,then,hospital
+u7,p1,which,56,0.56,which,False,0.057,view,1,2,we,very
+u65,p17,hold,95,0.78,continue,True,0.015,view,1,5,total,beat
+u17,p20,sell,41,0.83,usually,False,0.034,purchase,3,1,then,hospital
+u5,p11,great,31,0.39,window,False,0.075,add to cart,3,3,she,cell
+u90,p5,early,69,0.91,he,False,0.056,purchase,9,5,leave,bill
+u41,p1,also,98,0.5,go,False,0.038,view,2,2,we,very
+u13,p9,effort,56,0.33,second,False,0.079,add to cart,7,2,subject,skill
+u30,p18,bring,10,0.54,peace,True,0.069,purchase,3,1,develop,fly
+u36,p14,hear,75,0.12,away,False,0.01,purchase,9,1,begin,fine
+u3,p10,but,57,0.98,head,False,0.078,view,10,4,public,bit
+u58,p8,she,40,1.0,more,False,0.072,purchase,8,1,energy,newspaper
+u46,p2,policy,77,0.93,value,True,0.09,add to cart,8,2,science,age
+u17,p19,cause,19,0.98,rule,True,0.059,view,10,1,unit,collection
+u97,p13,eat,20,0.86,relationship,True,0.068,view,5,2,major,everything
+u51,p13,size,61,0.43,sense,False,0.098,purchase,4,1,major,everything
+u49,p7,go,89,0.76,meet,False,0.094,add to cart,7,2,space,yeah
+u88,p16,series,5,0.68,feel,True,0.095,view,8,3,season,letter
+u77,p11,low,82,0.91,themselves,True,0.049,purchase,9,2,she,cell
+u65,p10,bring,100,0.54,friend,False,0.04,add to cart,1,2,public,bit
+u96,p11,help,98,0.67,almost,True,0.034,view,6,2,she,cell
+u6,p4,exist,52,0.78,three,False,0.051,purchase,1,4,apply,people
+u11,p8,law,4,0.46,light,False,0.036,purchase,6,2,energy,newspaper
+u42,p12,rate,6,0.15,choose,False,0.067,purchase,4,1,wish,treat
+u51,p14,talk,3,0.81,first,False,0.011,view,5,5,begin,fine
+u54,p15,support,6,0.43,half,True,0.092,purchase,9,5,throw,family
+u72,p12,nothing,65,0.08,leave,True,0.06,view,8,1,wish,treat
+u72,p17,man,77,0.02,those,False,0.065,add to cart,8,4,total,beat
+u96,p3,despite,53,0.48,affect,False,0.097,purchase,6,4,thought,mouth
+u81,p18,sound,3,0.35,quickly,True,0.085,purchase,10,3,develop,fly
+u62,p3,east,47,0.09,current,True,0.048,add to cart,8,5,thought,mouth
+u89,p2,article,11,0.94,figure,True,0.053,add to cart,10,1,science,age
+u53,p20,season,18,0.81,similar,True,0.076,add to cart,8,2,then,hospital
+u58,p9,debate,24,0.12,yet,True,0.01,add to cart,5,2,subject,skill
+u27,p15,process,19,0.88,article,False,0.082,view,10,1,throw,family
+u40,p10,citizen,39,0.45,success,True,0.09,purchase,1,3,public,bit
+u92,p4,certain,62,0.58,still,True,0.028,purchase,2,3,apply,people
+u32,p1,score,8,0.06,she,True,0.082,view,10,2,we,very
+u85,p9,lot,52,0.68,lay,True,0.063,add to cart,7,2,subject,skill
+u55,p3,low,86,0.42,realize,True,0.047,add to cart,10,3,thought,mouth
+u51,p9,thing,85,0.76,benefit,True,0.045,purchase,2,3,subject,skill
+u78,p14,find,14,0.85,leave,False,0.076,add to cart,5,3,begin,fine
+u5,p1,individual,13,0.43,because,True,0.01,add to cart,8,2,we,very
+u19,p13,factor,61,0.07,agreement,True,0.076,view,10,1,major,everything
+u29,p20,any,80,0.91,medical,True,0.097,view,3,5,then,hospital
+u86,p5,them,94,0.44,memory,False,0.042,view,1,5,leave,bill
+u78,p15,worker,44,0.17,major,False,0.03,add to cart,7,1,throw,family
+u54,p2,purpose,10,0.37,oil,False,0.064,purchase,4,5,science,age
+u46,p11,citizen,42,0.47,after,True,0.098,add to cart,1,1,she,cell
+u23,p17,close,15,0.67,exactly,False,0.083,purchase,2,1,total,beat
+u67,p9,need,59,0.47,provide,False,0.034,add to cart,9,2,subject,skill
+u64,p9,then,69,1.0,research,False,0.073,add to cart,5,4,subject,skill
+u54,p6,level,25,0.61,low,True,0.033,view,2,4,trip,decade
+u32,p16,another,56,0.28,ground,True,0.01,view,4,4,season,letter
+u43,p5,sometimes,76,0.5,three,True,0.043,add to cart,4,3,leave,bill
+u18,p4,rule,40,0.89,behavior,False,0.044,add to cart,10,2,apply,people
+u77,p1,direction,80,0.48,almost,True,0.053,add to cart,2,4,we,very
+u58,p5,break,53,0.92,think,True,0.093,view,2,3,leave,bill
+u56,p16,become,49,0.51,loss,True,0.001,purchase,9,3,season,letter
+u32,p7,newspaper,23,0.34,different,False,0.069,purchase,1,3,space,yeah
+u13,p3,police,30,0.46,unit,True,0.057,purchase,5,4,thought,mouth
+u90,p13,religious,12,0.35,the,False,0.091,add to cart,7,3,major,everything
+u2,p20,north,57,0.23,page,False,0.029,purchase,2,4,then,hospital
+u88,p19,agency,55,0.48,factor,False,0.074,view,5,2,unit,collection
+u13,p3,scientist,2,0.31,trip,True,0.061,add to cart,6,3,thought,mouth
+u32,p20,fear,4,0.81,wear,False,0.03,add to cart,5,5,then,hospital
+u34,p3,like,89,0.29,class,False,0.078,view,10,2,thought,mouth
+u21,p16,there,7,0.56,culture,True,0.064,view,5,5,season,letter
+u15,p5,next,79,0.8,consumer,True,0.068,purchase,5,4,leave,bill
+u53,p15,position,21,0.13,executive,False,0.037,add to cart,1,2,throw,family
+u64,p15,worker,92,0.44,data,False,0.047,view,8,5,throw,family
+u18,p14,conference,95,0.68,share,False,0.024,add to cart,4,2,begin,fine
+u25,p19,maintain,3,0.18,staff,True,0.027,purchase,1,3,unit,collection
+u80,p13,size,84,0.66,goal,True,0.085,view,2,3,major,everything
+u50,p11,concern,46,0.26,baby,False,0.009,add to cart,6,3,she,cell
+u91,p18,suddenly,75,0.41,talk,True,0.026,purchase,5,3,develop,fly
+u94,p5,there,83,0.24,why,True,0.01,add to cart,10,1,leave,bill
+u84,p11,character,29,0.45,always,False,0.014,add to cart,3,2,she,cell
+u85,p5,food,7,0.57,be,True,0.001,view,9,2,leave,bill
+u52,p20,class,55,0.72,notice,False,0.081,view,7,2,then,hospital
+u52,p5,those,47,0.17,raise,True,0.016,add to cart,10,3,leave,bill
+u87,p6,today,48,0.83,until,True,0.064,purchase,10,1,trip,decade
+u90,p8,blood,91,0.09,morning,True,0.097,add to cart,1,2,energy,newspaper
+u57,p16,student,91,0.81,manage,False,0.024,view,1,4,season,letter
+u58,p2,building,94,0.03,career,True,0.035,view,5,5,science,age
+u66,p6,line,60,0.33,know,True,0.072,purchase,9,1,trip,decade
+u97,p1,news,41,0.38,seek,False,0.064,add to cart,1,3,we,very
+u98,p7,reveal,59,0.39,him,False,0.016,add to cart,10,1,space,yeah
+u67,p14,body,73,0.28,west,True,0.026,add to cart,7,1,begin,fine
+u93,p12,Mrs,37,0.06,Democrat,False,0.081,view,10,3,wish,treat
+u56,p18,point,12,0.45,other,True,0.053,purchase,6,4,develop,fly
+u37,p17,number,3,0.04,worker,True,0.058,view,9,4,total,beat
+u84,p19,house,47,0.43,we,False,0.04,view,6,1,unit,collection
+u94,p5,matter,97,0.25,coach,False,0.042,purchase,10,2,leave,bill
+u95,p16,section,93,0.48,stock,True,0.006,add to cart,3,4,season,letter
+u5,p15,budget,29,0.5,health,True,0.029,view,8,3,throw,family
+u80,p9,without,12,0.44,off,True,0.008,purchase,3,5,subject,skill
+u69,p5,bill,97,0.52,common,True,0.012,view,8,1,leave,bill
+u94,p2,production,90,0.28,plant,True,0.042,purchase,3,1,science,age
+u95,p14,yourself,17,0.44,everyone,True,0.043,view,6,5,begin,fine
+u42,p20,argue,32,0.99,industry,True,0.042,purchase,4,2,then,hospital
+u34,p12,something,89,0.58,push,True,0.012,view,6,3,wish,treat
+u98,p18,player,94,0.53,truth,True,0.061,add to cart,7,3,develop,fly
+u3,p3,exactly,95,0.73,get,True,0.064,purchase,8,5,thought,mouth
+u88,p15,professor,29,0.7,strategy,True,0.054,view,8,4,throw,family
+u72,p8,science,25,0.17,administration,True,0.033,purchase,10,5,energy,newspaper
+u8,p3,discuss,10,0.73,seat,False,0.015,view,2,3,thought,mouth
+u16,p6,believe,94,0.61,door,True,0.063,view,2,5,trip,decade
+u76,p14,pass,60,0.23,see,True,0.029,add to cart,7,4,begin,fine
+u100,p11,national,73,0.71,fear,True,0.088,purchase,4,2,she,cell
+u14,p4,explain,44,0.87,authority,False,0.076,view,4,5,apply,people
+u62,p12,probably,37,0.31,on,False,0.003,add to cart,2,1,wish,treat
+u84,p20,book,42,0.8,man,True,0.015,add to cart,10,5,then,hospital
+u11,p10,great,27,0.23,you,True,0.04,add to cart,10,5,public,bit
+u83,p15,interesting,57,0.69,million,False,0.072,purchase,7,4,throw,family
+u70,p2,strong,8,0.51,rest,True,0.086,add to cart,7,5,science,age
+u29,p20,including,88,0.69,town,True,0.094,add to cart,6,2,then,hospital
+u30,p17,least,3,0.84,them,True,0.056,add to cart,5,5,total,beat
+u92,p14,citizen,52,0.1,center,False,0.098,view,6,2,begin,fine
+u37,p9,however,48,0.22,onto,False,0.082,view,1,3,subject,skill
+u23,p15,art,73,0.78,strong,False,0.091,purchase,7,2,throw,family
+u74,p18,use,27,0.12,war,True,0.053,view,6,3,develop,fly
+u11,p10,beautiful,13,0.23,contain,False,0.021,add to cart,7,3,public,bit
+u28,p19,practice,68,0.84,tax,False,0.018,purchase,5,2,unit,collection
+u85,p2,under,8,0.25,fill,True,0.099,purchase,9,3,science,age
+u80,p12,public,54,0.7,stock,True,0.021,view,5,4,wish,treat
+u71,p2,expert,13,0.75,cup,True,0.024,purchase,8,2,science,age
+u18,p16,west,8,0.67,especially,True,0.005,purchase,5,4,season,letter
+u47,p13,economy,73,0.22,across,False,0.015,add to cart,5,2,major,everything
+u63,p1,activity,37,0.07,history,False,0.046,purchase,4,2,we,very
+u28,p15,level,92,0.51,plan,True,0.023,purchase,9,1,throw,family
+u94,p1,stock,83,0.24,chair,False,0.05,view,5,5,we,very
+u17,p12,buy,1,0.57,Mrs,False,0.014,purchase,7,2,wish,treat
+u41,p6,rich,18,0.89,short,True,0.09,purchase,4,4,trip,decade
+u7,p6,space,69,0.42,cell,False,0.073,view,8,2,trip,decade
+u98,p20,out,43,0.7,top,True,0.057,purchase,2,3,then,hospital
+u14,p8,feeling,73,0.37,candidate,False,0.017,purchase,1,5,energy,newspaper
+u13,p8,put,23,0.29,interview,False,0.009,view,8,5,energy,newspaper
+u45,p12,information,12,0.28,begin,True,0.041,purchase,5,4,wish,treat
+u19,p4,together,39,0.29,but,False,0.054,add to cart,4,5,apply,people
+u11,p14,late,5,0.69,really,True,0.089,add to cart,4,1,begin,fine
+u23,p10,reflect,86,0.6,fall,False,0.006,purchase,8,4,public,bit
+u15,p12,hope,84,0.22,him,True,0.094,view,1,5,wish,treat
+u33,p19,clear,13,0.17,policy,True,0.043,add to cart,10,2,unit,collection
+u47,p8,especially,42,1.0,thus,False,0.095,view,4,1,energy,newspaper
+u56,p13,work,98,0.93,leg,True,0.057,purchase,9,3,major,everything
+u47,p5,thing,82,0.31,us,False,0.053,view,7,3,leave,bill
+u4,p13,ok,40,0.03,note,True,0.039,view,3,1,major,everything
+u67,p7,act,44,0.3,early,False,0.033,view,4,5,space,yeah
+u53,p17,technology,97,0.3,mention,True,0.018,add to cart,2,1,total,beat
+u40,p13,brother,55,0.84,hear,True,0.09,view,10,1,major,everything
+u6,p1,son,9,0.02,threat,False,0.054,purchase,10,3,we,very
+u54,p18,poor,19,0.3,huge,True,0.053,view,3,2,develop,fly
+u62,p18,something,80,0.23,political,False,0.025,view,3,4,develop,fly
+u7,p15,the,96,0.79,spring,True,0.035,add to cart,10,2,throw,family
+u62,p12,help,48,0.95,story,True,0.099,purchase,7,2,wish,treat
+u6,p8,activity,57,0.63,owner,True,0.047,purchase,5,5,energy,newspaper
+u78,p15,my,28,0.52,relationship,False,0.095,add to cart,1,1,throw,family
+u88,p15,treatment,69,0.99,short,True,0.06,purchase,1,2,throw,family
+u96,p15,free,59,1.0,fact,True,0.082,purchase,3,4,throw,family
+u92,p1,include,42,0.76,ever,False,0.096,add to cart,7,1,we,very
+u14,p2,appear,6,0.46,price,False,0.089,add to cart,2,5,science,age
+u91,p6,too,75,0.86,assume,True,0.082,view,4,4,trip,decade
+u1,p8,some,79,0.31,value,False,0.063,purchase,6,4,energy,newspaper
+u12,p4,home,33,0.8,television,False,0.04,view,1,1,apply,people
+u24,p5,staff,83,0.13,resource,True,0.007,purchase,10,3,leave,bill
+u29,p7,least,45,0.17,something,True,0.009,purchase,2,1,space,yeah
+u4,p8,garden,97,0.44,above,True,0.016,purchase,9,5,energy,newspaper
+u94,p11,for,81,0.57,citizen,False,0.05,purchase,8,5,she,cell
+u48,p12,reflect,4,0.08,how,False,0.039,view,1,3,wish,treat
+u12,p14,rich,85,0.22,media,True,0.088,purchase,1,3,begin,fine
+u35,p4,effort,72,0.47,bill,False,0.084,purchase,2,3,apply,people
+u13,p2,job,70,0.91,bit,False,0.028,view,10,3,science,age
+u50,p14,play,96,0.85,apply,True,0.073,purchase,4,2,begin,fine
+u81,p16,anything,43,0.01,threat,False,0.078,purchase,4,3,season,letter
+u70,p12,something,72,0.7,produce,False,0.038,add to cart,5,1,wish,treat
+u3,p3,news,76,0.67,son,False,0.077,purchase,5,2,thought,mouth
+u45,p2,special,2,0.25,able,True,0.082,add to cart,9,2,science,age
+u34,p6,must,20,0.8,painting,True,0.045,view,4,2,trip,decade
+u82,p7,air,54,0.14,within,False,0.024,purchase,9,2,space,yeah
+u36,p19,into,61,0.28,bad,False,0.092,add to cart,2,2,unit,collection
+u84,p15,case,66,0.93,pay,False,0.016,purchase,5,5,throw,family
+u49,p11,face,62,0.54,bag,False,0.032,add to cart,6,4,she,cell
+u29,p5,tough,65,0.37,her,True,0.057,add to cart,8,4,leave,bill
+u96,p14,magazine,2,0.61,author,False,0.099,purchase,8,2,begin,fine
+u25,p11,foot,94,0.67,instead,False,0.097,view,4,4,she,cell
+u15,p12,thousand,80,0.7,cold,True,0.043,view,8,5,wish,treat
+u50,p15,tree,55,0.28,sign,False,0.057,view,7,4,throw,family
+u72,p7,training,28,0.29,strategy,True,0.056,add to cart,5,5,space,yeah
+u21,p15,modern,12,0.54,business,True,0.071,view,10,1,throw,family
+u82,p1,seem,59,0.1,range,False,0.099,purchase,8,4,we,very
+u11,p2,deal,57,0.38,worry,False,0.044,add to cart,5,1,science,age
+u67,p15,decide,40,0.77,available,True,0.054,view,4,1,throw,family
+u61,p17,kind,30,0.99,Mr,False,0.019,purchase,4,1,total,beat
+u93,p18,energy,30,0.99,memory,False,0.023,view,2,2,develop,fly
+u3,p6,road,94,0.9,husband,False,0.075,view,6,1,trip,decade
+u74,p17,move,34,0.45,rate,True,0.036,purchase,5,1,total,beat
+u34,p10,authority,64,0.23,enjoy,False,0.013,add to cart,5,4,public,bit
+u79,p2,forward,40,0.57,debate,True,0.056,add to cart,2,5,science,age
+u17,p8,particular,60,0.56,response,True,0.042,purchase,10,5,energy,newspaper
+u11,p9,when,1,0.86,writer,False,0.081,add to cart,1,2,subject,skill
+u98,p20,quickly,90,0.43,least,False,0.02,purchase,8,1,then,hospital
+u72,p18,training,76,0.56,player,False,0.053,purchase,10,3,develop,fly
+u5,p7,amount,67,0.89,decision,False,0.023,purchase,1,3,space,yeah
+u33,p16,increase,52,0.04,heart,False,0.012,purchase,4,5,season,letter
+u70,p6,use,68,0.93,involve,False,0.083,purchase,9,1,trip,decade
+u64,p1,worry,90,0.01,while,False,0.049,add to cart,8,1,we,very
+u39,p18,agency,30,0.46,could,False,0.033,purchase,2,1,develop,fly
+u43,p6,human,76,0.4,president,True,0.067,purchase,7,4,trip,decade
+u19,p16,response,38,0.5,play,False,0.089,view,7,2,season,letter
+u36,p6,detail,57,0.52,bad,False,0.061,purchase,1,1,trip,decade
+u56,p18,size,99,0.43,detail,True,0.099,purchase,10,3,develop,fly
+u47,p16,down,84,0.95,painting,False,0.096,view,2,5,season,letter
+u45,p8,run,46,0.3,relationship,True,0.011,add to cart,3,1,energy,newspaper
+u63,p10,choice,98,0.31,American,False,0.026,add to cart,10,2,public,bit
+u28,p11,bag,79,0.16,course,True,0.064,view,5,1,she,cell
+u86,p13,factor,83,0.69,Congress,True,0.052,purchase,9,3,major,everything
+u49,p20,my,55,0.49,security,False,0.006,purchase,8,4,then,hospital
+u63,p7,enter,52,0.89,story,False,0.055,add to cart,5,1,space,yeah
+u76,p20,send,9,0.28,help,False,0.018,purchase,9,2,then,hospital
+u25,p15,among,29,0.34,eye,True,0.039,add to cart,4,3,throw,family
+u29,p17,everybody,68,0.73,pass,True,0.048,purchase,7,2,total,beat
+u56,p20,son,88,0.71,history,True,0.089,purchase,3,3,then,hospital
+u78,p1,best,45,0.88,garden,False,0.084,add to cart,10,5,we,very
+u35,p12,authority,40,0.41,speech,True,0.009,add to cart,4,4,wish,treat
+u36,p15,design,31,0.78,ball,True,0.081,view,3,1,throw,family
+u41,p12,do,36,0.44,gun,False,0.027,view,7,3,wish,treat
+u15,p6,air,93,0.09,investment,False,0.074,view,9,4,trip,decade
+u92,p18,region,72,0.61,continue,True,0.076,add to cart,2,4,develop,fly
+u1,p11,major,4,0.24,these,False,0.082,add to cart,8,5,she,cell
+u49,p1,if,46,0.22,probably,False,0.1,view,9,3,we,very
+u60,p3,might,10,0.87,message,True,0.012,purchase,10,1,thought,mouth
+u27,p13,who,76,0.53,simple,True,0.092,view,5,1,major,everything
+u5,p17,lose,68,0.45,thousand,False,0.082,add to cart,9,3,total,beat
+u63,p4,arrive,69,0.08,outside,False,0.021,purchase,7,1,apply,people
+u64,p12,site,90,0.82,sit,True,0.038,view,3,5,wish,treat
+u50,p14,oil,39,0.11,reveal,True,0.024,purchase,5,2,begin,fine
+u56,p3,hand,4,0.97,morning,False,0.04,purchase,3,1,thought,mouth
+u60,p13,challenge,19,0.54,force,False,0.014,purchase,7,4,major,everything
+u92,p13,former,74,0.7,win,True,0.027,add to cart,7,1,major,everything
+u95,p10,general,6,0.45,south,True,0.055,add to cart,1,3,public,bit
+u31,p12,those,91,0.57,develop,False,0.055,purchase,10,4,wish,treat
+u67,p11,style,14,0.86,popular,True,0.099,view,10,1,she,cell
+u82,p3,democratic,71,0.08,because,True,0.011,view,2,1,thought,mouth
+u24,p5,center,30,0.13,leave,False,0.099,view,8,4,leave,bill
+u28,p6,appear,5,0.79,green,True,0.083,view,5,1,trip,decade
+u68,p16,close,7,0.54,while,False,0.077,purchase,4,5,season,letter
+u22,p11,hundred,47,0.45,push,False,0.002,view,7,1,she,cell
+u15,p3,technology,67,0.24,goal,True,0.078,add to cart,2,2,thought,mouth
+u69,p8,them,2,0.19,parent,True,0.03,add to cart,3,1,energy,newspaper
+u40,p13,beyond,60,0.33,cover,True,0.003,purchase,3,2,major,everything
+u34,p20,your,1,0.69,low,False,0.067,purchase,5,5,then,hospital
+u38,p9,data,70,0.34,song,False,0.013,add to cart,5,3,subject,skill
+u67,p19,film,70,0.92,television,False,0.035,add to cart,10,3,unit,collection
+u30,p20,pay,77,0.45,stop,True,0.049,purchase,3,4,then,hospital
+u48,p4,serious,54,0.55,far,True,0.052,view,7,5,apply,people
+u51,p17,admit,77,0.33,sell,False,0.015,purchase,6,5,total,beat
+u70,p15,how,39,0.6,material,True,0.054,add to cart,6,1,throw,family
+u45,p3,move,19,0.43,movie,False,0.003,view,5,2,thought,mouth
+u28,p3,soon,99,0.82,by,True,0.098,view,1,5,thought,mouth
+u33,p17,leave,19,0.36,huge,True,0.093,view,5,5,total,beat
+u26,p17,what,60,0.89,bring,False,0.023,view,10,5,total,beat
+u87,p4,short,33,0.09,simple,True,0.022,purchase,2,3,apply,people
+u94,p1,task,68,0.92,page,False,0.038,add to cart,6,2,we,very
+u82,p17,west,33,0.88,make,False,0.003,add to cart,3,1,total,beat
+u10,p1,shoulder,68,0.42,end,False,0.076,add to cart,9,3,we,very
+u17,p2,really,94,0.31,fish,True,0.032,add to cart,8,2,science,age
+u98,p7,floor,36,0.58,year,False,0.033,view,3,5,space,yeah
+u58,p14,market,86,0.2,far,False,0.089,view,1,1,begin,fine
+u11,p15,science,8,0.72,response,False,0.1,purchase,2,4,throw,family
+u12,p6,plant,91,0.17,century,False,0.066,view,3,1,trip,decade
+u31,p8,board,40,0.6,thing,False,0.048,purchase,2,1,energy,newspaper
+u7,p20,necessary,70,0.25,staff,True,0.003,add to cart,10,1,then,hospital
+u7,p18,nor,59,0.07,blood,False,0.006,purchase,3,5,develop,fly
+u66,p6,summer,86,0.79,law,False,0.069,add to cart,3,1,trip,decade
+u10,p17,worker,47,0.77,impact,False,0.036,purchase,1,2,total,beat
+u8,p16,reveal,17,0.63,large,False,0.018,add to cart,1,2,season,letter
+u75,p7,authority,50,0.69,present,False,0.001,add to cart,6,2,space,yeah
+u48,p1,purpose,32,0.65,play,False,0.034,add to cart,5,2,we,very
+u20,p19,anything,31,0.21,herself,False,0.032,add to cart,4,3,unit,collection
+u91,p9,although,90,0.95,heart,True,0.076,add to cart,2,2,subject,skill
+u91,p16,air,75,0.82,drop,True,0.084,view,10,5,season,letter
+u94,p8,degree,60,0.81,person,True,0.038,purchase,1,5,energy,newspaper
+u58,p20,relate,46,0.16,fire,True,0.025,add to cart,4,3,then,hospital
+u42,p9,able,92,0.99,let,True,0.022,view,1,2,subject,skill
+u22,p10,style,16,0.43,carry,False,0.051,view,10,4,public,bit
+u15,p9,community,92,0.7,history,False,0.063,view,5,3,subject,skill
+u49,p11,record,14,0.05,factor,True,0.087,purchase,5,5,she,cell
+u28,p7,another,5,0.82,concern,True,0.03,view,1,4,space,yeah
+u97,p13,spring,75,0.21,almost,True,0.012,add to cart,4,4,major,everything
+u50,p2,action,8,0.08,major,False,0.025,add to cart,4,5,science,age
+u51,p14,painting,27,0.86,road,True,0.011,add to cart,5,2,begin,fine
+u100,p20,agreement,40,0.99,couple,True,0.072,view,9,2,then,hospital
+u9,p6,view,100,0.1,particular,False,0.093,add to cart,5,2,trip,decade
+u66,p16,college,95,0.78,approach,False,0.041,purchase,5,4,season,letter
+u39,p2,his,58,0.56,those,False,0.097,purchase,2,2,science,age
+u46,p13,suddenly,30,0.36,suddenly,True,0.01,view,5,4,major,everything
+u48,p8,that,42,0.18,response,True,0.068,purchase,4,4,energy,newspaper
+u23,p9,wait,27,0.71,drop,False,0.074,view,9,2,subject,skill
+u48,p17,green,89,0.93,wide,False,0.073,add to cart,10,5,total,beat
+u33,p7,hard,63,0.64,over,False,0.038,add to cart,7,4,space,yeah
+u29,p1,find,95,0.21,price,False,0.01,view,7,2,we,very
+u40,p5,despite,16,0.36,few,True,0.006,add to cart,5,1,leave,bill
+u24,p7,doctor,27,0.84,magazine,True,0.031,view,9,5,space,yeah
+u17,p2,represent,39,0.79,race,True,0.026,view,5,2,science,age
+u45,p16,trial,24,0.03,value,True,0.064,view,7,4,season,letter
+u31,p5,whether,43,0.84,operation,False,0.079,add to cart,5,5,leave,bill
+u16,p15,difference,42,0.8,already,False,0.021,view,5,1,throw,family
+u50,p12,fish,64,0.73,piece,True,0.059,view,5,1,wish,treat
+u40,p10,provide,13,0.01,return,False,0.064,add to cart,5,3,public,bit
+u3,p7,worry,46,0.98,plan,False,0.068,purchase,10,5,space,yeah
+u74,p6,nature,95,0.33,eye,True,0.034,purchase,8,3,trip,decade
+u74,p8,next,22,0.45,evening,False,0.029,add to cart,1,4,energy,newspaper
+u16,p18,easy,4,0.14,different,True,0.056,purchase,5,2,develop,fly
+u48,p15,level,36,0.99,administration,True,0.004,view,8,4,throw,family
+u63,p14,his,37,0.6,moment,True,0.024,view,3,2,begin,fine
+u9,p20,yet,26,0.2,care,False,0.08,add to cart,1,4,then,hospital
+u10,p14,she,17,0.11,arrive,True,0.038,add to cart,5,1,begin,fine
+u33,p10,rock,90,0.19,name,True,0.029,add to cart,4,4,public,bit
+u83,p15,apply,4,0.41,woman,False,0.07,view,9,4,throw,family
+u26,p13,field,87,0.63,account,True,0.076,view,6,3,major,everything
+u90,p20,do,13,0.12,form,False,0.049,purchase,6,2,then,hospital
+u35,p14,building,16,0.53,finish,False,0.097,purchase,5,1,begin,fine
+u22,p11,director,36,0.08,personal,True,0.053,view,6,2,she,cell
+u48,p17,stand,85,0.69,best,True,0.045,add to cart,4,1,total,beat
+u57,p16,teacher,21,0.83,street,False,0.046,purchase,7,2,season,letter
+u15,p11,their,60,0.82,body,True,0.086,view,9,4,she,cell
+u17,p13,agency,69,0.65,stock,False,0.01,add to cart,6,5,major,everything
+u35,p14,use,76,0.3,practice,True,0.017,add to cart,4,5,begin,fine
+u36,p15,simple,61,0.66,measure,True,0.001,view,7,2,throw,family
+u21,p2,player,42,0.09,answer,True,0.006,view,7,4,science,age
+u23,p9,wind,1,0.69,level,True,0.047,purchase,2,2,subject,skill
+u48,p17,star,39,0.6,whether,False,0.068,view,8,3,total,beat
+u81,p14,political,70,0.74,down,False,0.045,purchase,8,1,begin,fine
+u13,p4,agree,92,0.11,enough,True,0.012,view,5,5,apply,people
+u87,p5,culture,59,0.52,sort,True,0.057,purchase,6,2,leave,bill
+u27,p9,behind,37,0.24,firm,True,0.06,purchase,4,1,subject,skill
+u91,p13,lot,24,0.64,answer,True,0.046,add to cart,7,5,major,everything
+u48,p20,class,1,1.0,life,True,0.032,add to cart,7,4,then,hospital
+u49,p2,space,66,0.65,road,True,0.038,add to cart,9,1,science,age
+u48,p2,story,47,0.06,image,False,0.063,add to cart,7,1,science,age
+u79,p4,would,62,0.9,year,True,0.02,add to cart,6,5,apply,people
+u95,p11,million,34,0.06,agree,False,0.077,view,10,1,she,cell
+u53,p18,high,96,0.54,finally,True,0.1,purchase,8,3,develop,fly
+u48,p1,real,22,0.19,cup,True,0.01,view,4,5,we,very
+u56,p4,soldier,62,0.88,either,False,0.006,purchase,3,5,apply,people
+u58,p19,often,44,0.33,per,True,0.039,view,9,3,unit,collection
+u27,p4,news,32,0.24,occur,True,0.041,purchase,6,2,apply,people
+u57,p3,light,37,0.78,goal,False,0.029,purchase,9,1,thought,mouth
+u59,p1,painting,92,0.87,bag,False,0.099,view,3,2,we,very
+u48,p9,by,2,0.8,firm,False,0.088,view,3,3,subject,skill
+u53,p13,successful,97,0.09,article,False,0.05,view,6,5,major,everything
+u64,p12,relationship,46,0.22,speech,True,0.062,purchase,4,2,wish,treat
+u15,p16,now,60,0.98,event,False,0.055,add to cart,4,5,season,letter
+u89,p13,behind,17,0.5,once,True,0.097,view,4,3,major,everything
+u31,p15,relationship,67,0.32,article,True,0.002,view,9,2,throw,family
+u54,p18,generation,27,0.38,evidence,False,0.013,view,3,2,develop,fly
+u9,p2,share,30,0.84,plant,True,0.031,add to cart,5,1,science,age
+u45,p4,rich,61,0.84,cup,False,0.023,view,1,1,apply,people
+u61,p16,position,71,0.99,bit,True,0.067,view,7,4,season,letter
+u50,p9,coach,28,0.63,early,False,0.081,view,7,2,subject,skill
+u21,p18,matter,7,0.1,husband,False,0.03,purchase,4,4,develop,fly
+u52,p15,recent,65,0.21,life,False,0.073,add to cart,10,5,throw,family
+u49,p13,drop,56,0.05,pick,False,0.029,purchase,6,2,major,everything
+u89,p10,name,23,0.51,effect,False,0.033,add to cart,4,2,public,bit
+u95,p14,make,80,0.73,senior,False,0.035,purchase,2,1,begin,fine
+u88,p13,my,96,0.68,woman,False,0.062,view,5,1,major,everything
+u51,p3,mind,4,0.77,course,True,0.039,add to cart,10,5,thought,mouth
+u15,p7,brother,61,0.75,tell,True,0.099,add to cart,4,2,space,yeah
+u65,p20,keep,1,0.87,seek,True,0.04,purchase,1,5,then,hospital
+u43,p8,language,9,0.97,certainly,True,0.045,view,9,4,energy,newspaper
+u27,p12,cultural,30,0.7,music,False,0.081,purchase,4,5,wish,treat
+u60,p14,staff,36,0.71,sing,True,0.022,purchase,10,1,begin,fine
+u62,p13,billion,4,0.17,most,False,0.016,purchase,10,1,major,everything
+u89,p9,friend,36,0.6,generation,False,0.073,add to cart,3,1,subject,skill
+u43,p16,or,62,0.73,any,True,0.032,view,6,3,season,letter
+u36,p19,conference,100,0.5,call,False,0.053,view,7,1,unit,collection
+u85,p13,charge,29,0.79,spring,True,0.041,add to cart,5,4,major,everything
+u37,p17,middle,94,0.27,what,False,0.069,add to cart,5,5,total,beat
+u91,p15,compare,46,0.58,at,True,0.051,purchase,3,1,throw,family
+u85,p7,us,90,0.06,recently,True,0.004,purchase,1,4,space,yeah
+u48,p15,us,91,0.69,third,False,0.08,purchase,6,3,throw,family
+u29,p17,church,28,0.76,they,False,0.09,purchase,8,1,total,beat
+u12,p9,to,61,0.73,majority,False,0.09,view,9,2,subject,skill
+u23,p1,new,17,0.22,specific,False,0.098,purchase,3,4,we,very
+u43,p4,network,60,0.27,this,False,0.03,view,3,2,apply,people
+u96,p1,turn,2,0.15,nothing,False,0.032,purchase,8,4,we,very
+u1,p16,road,81,0.45,man,False,0.024,add to cart,9,4,season,letter
+u58,p20,seven,27,0.37,throw,False,0.051,add to cart,2,2,then,hospital
+u7,p8,raise,77,0.89,certainly,False,0.019,purchase,8,4,energy,newspaper
+u67,p11,feeling,1,0.24,best,False,0.023,purchase,1,2,she,cell
+u88,p2,that,80,0.59,including,True,0.076,purchase,2,2,science,age
+u57,p6,follow,57,0.1,evening,False,0.059,view,5,4,trip,decade
+u87,p4,treat,3,0.53,keep,False,0.071,view,6,3,apply,people
+u34,p14,agency,54,0.84,size,True,0.03,add to cart,7,2,begin,fine
+u48,p19,mind,73,0.8,care,False,0.084,purchase,2,4,unit,collection
+u8,p2,enter,94,0.31,direction,False,0.061,add to cart,10,3,science,age
+u10,p18,conference,30,0.08,compare,True,0.049,view,3,3,develop,fly
+u29,p12,might,98,0.86,worry,True,0.035,add to cart,1,2,wish,treat
+u94,p4,amount,56,0.15,tax,True,0.066,purchase,6,1,apply,people
+u21,p2,thus,41,0.7,later,False,0.065,purchase,3,2,science,age
+u95,p9,seat,39,0.87,should,False,0.051,view,1,2,subject,skill
+u28,p8,seven,14,0.13,until,True,0.078,add to cart,10,2,energy,newspaper
+u75,p16,on,83,0.07,upon,False,0.096,purchase,1,5,season,letter
+u61,p8,how,23,0.7,tonight,True,0.027,purchase,9,3,energy,newspaper
+u59,p9,sell,95,0.13,certain,True,0.002,add to cart,10,4,subject,skill
+u74,p18,white,61,0.66,respond,True,0.038,view,4,4,develop,fly
+u30,p18,when,96,0.93,career,False,0.027,view,1,3,develop,fly
+u90,p20,trip,70,0.74,can,True,0.094,add to cart,10,1,then,hospital
+u29,p10,ball,71,0.63,style,False,0.021,add to cart,10,2,public,bit
+u53,p9,common,73,0.31,dinner,False,0.006,add to cart,2,5,subject,skill
+u63,p10,thousand,54,0.78,impact,False,0.077,view,8,3,public,bit
+u37,p19,join,11,0.08,hear,False,0.078,view,10,5,unit,collection
+u8,p6,game,66,0.99,school,False,0.019,add to cart,9,4,trip,decade
+u30,p19,news,79,0.46,certainly,True,0.072,view,10,3,unit,collection
+u26,p2,form,64,0.88,home,False,0.029,purchase,4,3,science,age
+u14,p19,near,11,0.33,hand,True,0.016,purchase,2,1,unit,collection
+u44,p20,analysis,27,0.48,vote,True,0.068,view,5,2,then,hospital
+u94,p18,authority,74,0.98,technology,True,0.025,view,9,3,develop,fly

@@ -1,18 +1,18 @@
 from mlxtend.frequent_patterns import apriori, association_rules
 import pandas as pd
 import plotly.graph_objects as go
+
 # Load the web usage data into a Pandas dataframe
-df = pd.read_csv('web_usage_data_cleaned.csv')
+df = pd.read_csv('cleaned_web_usage_data.csv')
 
 # Pivot the data into a binary matrix
-pivot_table = df.pivot_table(index='User ID', columns='Product ID', values='Count', fill_value=0).astype(bool)
+pivot_table = df.pivot_table(index='user_id', columns='product_id', values='action', fill_value=0).astype(bool)
 
 # Find frequent itemsets using Apriori algorithm
 frequent_itemsets = apriori(pivot_table, min_support=0.04, use_colnames=True)
 
 # Generate association rules
-#rules = association_rules(frequent_itemsets, metric='lift', min_threshold=1)
-rules = association_rules(frequent_itemsets, metric="lift", min_threshold=1)
+rules = association_rules(frequent_itemsets, metric='lift', min_threshold=1)
 
 # Print the support, confidence, and lift for each rule
 for index, row in rules.iterrows():
@@ -44,7 +44,7 @@ fig = go.Figure(data=go.Scatter(
         sizeref=0.1,
         sizemin=5,
         color=rules['lift'],
-        colorscale='Blues',
+        colorscale='rdbu',
         reversescale=True,
         colorbar=dict(
             thickness=15,
@@ -75,9 +75,3 @@ fig.update_layout(
 
 # Show the plot
 fig.show()
-'''
-This will create a scatter plot where the x-axis represents the support of the rule, 
-the y-axis represents the confidence, and the size of each point represents the lift. 
-You can hover over each point to see the details of the corresponding rule.
-
-'''
