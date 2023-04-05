@@ -3,6 +3,12 @@ import pandas as pd
 
 fake = Faker()
 
+# create sample categories
+categories = ['electronics', 'fashion', 'books', 'home', 'beauty']
+
+# create sample features
+features = ['color', 'size', 'weight', 'brand', 'material']
+
 # generate user data
 user_data = {'user_id': [f'u{i+1}' for i in range(100)]}
 users = pd.DataFrame(user_data)
@@ -10,7 +16,7 @@ users = pd.DataFrame(user_data)
 # generate product data
 product_data = {'product_id': [f'p{i+1}' for i in range(20)],
                 'product_name': [fake.word() for i in range(20)],
-                'product_category': [fake.word() for i in range(20)]}
+                'product_category': [fake.word(ext_word_list=categories) for i in range(20)]}
 products = pd.DataFrame(product_data)
 
 # generate web usage data

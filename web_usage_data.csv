@@ -1,1001 +1,1001 @@
 user_id,product_id,category,feature1,feature2,feature3,feature4,feature5,action,count,rating,product_name,product_category
-u28,p12,piece,1,0.62,image,False,0.053,purchase,3,3,sit,above
-u69,p13,offer,100,0.98,item,True,0.003,add to cart,3,5,choose,ever
-u89,p8,a,55,0.95,nothing,True,0.002,purchase,5,2,drop,seek
-u51,p13,not,62,0.42,activity,True,0.032,add to cart,10,3,choose,ever
-u78,p1,yeah,94,0.59,rise,False,0.041,purchase,8,4,movie,yes
-u53,p3,spring,89,0.83,recognize,True,0.085,add to cart,4,3,whatever,group
-u91,p7,officer,84,0.65,threat,False,0.033,view,5,1,evidence,difficult
-u98,p17,education,59,0.3,situation,True,0.094,view,4,5,however,staff
-u35,p13,near,89,0.82,top,False,0.043,view,4,4,choose,ever
-u29,p16,tell,40,0.11,forget,True,0.095,add to cart,7,3,girl,training
-u37,p20,issue,57,0.98,economic,False,0.021,add to cart,1,4,event,around
-u66,p7,society,15,0.68,under,False,0.083,add to cart,7,3,evidence,difficult
-u83,p3,course,4,0.74,skin,True,0.008,purchase,8,3,whatever,group
-u4,p13,western,95,0.44,teacher,False,0.035,add to cart,5,5,choose,ever
-u91,p2,knowledge,17,0.44,during,False,0.02,view,6,4,child,term
-u54,p6,south,22,0.26,draw,True,0.031,purchase,6,4,general,lose
-u68,p15,cold,36,0.18,approach,False,0.024,add to cart,10,3,suddenly,ability
-u52,p2,turn,64,0.64,nor,False,0.031,view,3,4,child,term
-u79,p17,before,31,0.48,choose,True,0.083,view,7,1,however,staff
-u97,p18,film,79,0.53,fight,True,0.041,add to cart,1,1,weight,beat
-u9,p19,break,14,0.85,example,True,0.022,view,2,5,drive,such
-u88,p7,either,53,0.22,husband,False,0.038,add to cart,1,2,evidence,difficult
-u27,p7,nearly,10,0.57,miss,True,0.078,purchase,10,1,evidence,difficult
-u59,p1,possible,7,0.45,maintain,True,0.012,add to cart,5,3,movie,yes
-u23,p18,pick,85,0.25,population,True,0.081,view,3,3,weight,beat
-u32,p2,benefit,19,0.92,politics,False,0.077,add to cart,2,1,child,term
-u8,p11,nor,63,0.86,turn,False,0.023,purchase,3,1,behavior,rise
-u35,p3,officer,20,0.67,area,True,0.047,purchase,9,1,whatever,group
-u14,p9,tell,9,0.01,red,True,0.067,purchase,7,4,most,fly
-u18,p4,technology,71,0.64,size,True,0.097,add to cart,4,2,west,loss
-u58,p4,movement,93,0.78,American,True,0.009,purchase,9,4,west,loss
-u41,p19,economy,85,0.16,magazine,False,0.005,purchase,7,2,drive,such
-u80,p15,responsibility,49,0.35,white,True,0.082,add to cart,1,2,suddenly,ability
-u73,p18,soon,5,0.68,cup,True,0.038,view,4,5,weight,beat
-u51,p2,explain,57,0.56,bed,False,0.092,add to cart,4,2,child,term
-u34,p2,my,54,0.03,without,True,0.029,view,3,2,child,term
-u58,p7,song,35,0.58,notice,True,0.067,purchase,7,4,evidence,difficult
-u34,p17,treat,85,0.34,north,True,0.024,add to cart,10,4,however,staff
-u20,p7,vote,67,0.05,thing,True,0.082,view,2,3,evidence,difficult
-u80,p5,stage,55,0.29,after,True,0.072,view,1,2,hand,just
-u60,p5,project,17,0.24,reduce,False,0.065,view,8,5,hand,just
-u47,p17,thing,24,0.38,real,True,0.093,purchase,8,5,however,staff
-u75,p10,brother,47,0.28,gun,False,0.091,view,7,4,tonight,six
-u73,p13,assume,59,0.27,team,True,0.011,view,3,5,choose,ever
-u80,p11,car,18,0.19,weight,False,0.029,add to cart,1,4,behavior,rise
-u60,p18,owner,64,0.74,itself,True,0.012,view,1,5,weight,beat
-u38,p20,big,30,0.01,purpose,False,0.092,view,1,4,event,around
-u64,p4,wish,97,0.45,consumer,False,0.035,add to cart,3,4,west,loss
-u46,p16,result,92,0.82,actually,False,0.091,add to cart,9,4,girl,training
-u33,p13,tend,38,0.61,else,True,0.075,purchase,10,4,choose,ever
-u93,p3,own,76,0.06,discuss,True,0.081,view,5,3,whatever,group
-u33,p20,week,99,0.39,yourself,False,0.021,add to cart,4,1,event,around
-u53,p4,picture,30,0.27,part,True,0.055,purchase,5,4,west,loss
-u31,p2,form,60,0.28,thought,True,0.026,purchase,5,4,child,term
-u26,p12,rate,18,0.41,common,True,0.072,view,9,5,sit,above
-u52,p9,available,62,0.57,attack,False,0.059,purchase,3,4,most,fly
-u73,p12,above,45,0.79,teacher,True,0.029,add to cart,2,5,sit,above
-u74,p19,number,61,0.12,table,True,0.011,add to cart,8,2,drive,such
-u58,p7,window,60,0.42,score,True,0.025,add to cart,5,3,evidence,difficult
-u65,p6,any,96,0.43,trade,False,0.057,view,5,4,general,lose
-u9,p9,six,24,0.75,art,True,0.095,view,3,3,most,fly
-u21,p19,finish,5,0.22,exist,True,0.067,purchase,1,4,drive,such
-u2,p2,fill,47,0.74,leg,True,0.022,add to cart,3,5,child,term
-u97,p18,suggest,83,0.26,week,False,0.099,view,10,4,weight,beat
-u10,p16,table,6,0.98,man,False,0.087,add to cart,6,5,girl,training
-u34,p4,business,11,0.28,question,True,0.047,purchase,8,5,west,loss
-u34,p5,how,89,0.63,ground,False,0.076,add to cart,5,1,hand,just
-u10,p12,notice,87,0.34,beat,True,0.036,add to cart,4,4,sit,above
-u10,p9,question,64,0.6,majority,True,0.074,view,6,4,most,fly
-u93,p17,kitchen,52,0.61,investment,True,0.01,purchase,1,2,however,staff
-u84,p9,positive,66,0.06,tend,False,0.073,purchase,8,3,most,fly
-u85,p20,since,24,0.76,deep,False,0.001,view,6,3,event,around
-u24,p11,book,46,0.17,marriage,False,0.083,purchase,1,1,behavior,rise
-u56,p2,painting,3,0.8,speech,False,0.095,purchase,5,4,child,term
-u11,p12,other,17,0.84,hour,True,0.066,view,7,2,sit,above
-u81,p12,various,47,0.56,product,False,0.003,add to cart,3,2,sit,above
-u63,p20,business,54,0.09,kitchen,True,0.051,add to cart,1,5,event,around
-u40,p9,woman,82,0.66,summer,False,0.074,purchase,5,2,most,fly
-u84,p17,doctor,11,0.95,rule,True,0.026,purchase,5,1,however,staff
-u92,p3,pretty,63,0.48,task,True,0.046,add to cart,3,1,whatever,group
-u41,p12,someone,78,0.83,join,True,0.092,view,10,1,sit,above
-u11,p5,response,54,0.57,mean,True,0.005,add to cart,10,1,hand,just
-u31,p2,too,26,0.61,shake,True,0.046,purchase,10,1,child,term
-u33,p13,language,11,0.84,money,False,0.071,add to cart,7,2,choose,ever
-u27,p3,speech,51,0.84,true,True,0.018,view,7,3,whatever,group
-u40,p15,blue,37,0.92,production,False,0.069,purchase,7,2,suddenly,ability
-u60,p20,business,52,0.21,hold,True,0.046,add to cart,7,2,event,around
-u66,p1,concern,87,0.76,sing,True,0.013,purchase,7,5,movie,yes
-u13,p10,arm,41,0.09,reduce,False,0.08,purchase,10,4,tonight,six
-u85,p5,remain,13,0.81,already,False,0.03,add to cart,2,4,hand,just
-u27,p17,edge,60,0.02,case,False,0.02,view,10,1,however,staff
-u87,p6,play,64,0.51,east,True,0.021,add to cart,1,4,general,lose
-u82,p20,report,80,0.25,night,False,0.035,add to cart,5,3,event,around
-u56,p15,reality,3,0.58,still,False,0.033,add to cart,5,5,suddenly,ability
-u77,p14,toward,44,0.92,past,False,0.042,add to cart,9,2,become,herself
-u36,p9,least,75,0.94,sell,False,0.047,purchase,4,1,most,fly
-u65,p13,gas,87,0.62,never,True,0.081,add to cart,1,5,choose,ever
-u31,p14,mean,55,0.02,can,False,0.048,purchase,4,5,become,herself
-u96,p18,natural,60,0.75,father,True,0.037,purchase,3,1,weight,beat
-u46,p4,statement,72,0.94,very,False,0.067,purchase,3,4,west,loss
-u96,p2,ten,11,0.27,difficult,False,0.016,purchase,10,2,child,term
-u28,p8,hand,69,0.44,development,False,0.059,purchase,10,4,drop,seek
-u4,p12,media,52,0.39,human,False,0.044,view,5,1,sit,above
-u61,p13,over,79,1.0,administration,True,0.036,view,10,1,choose,ever
-u31,p10,generation,39,0.19,structure,False,0.074,view,1,2,tonight,six
-u57,p14,political,15,0.12,beat,True,0.009,purchase,6,5,become,herself
-u72,p7,east,57,0.1,activity,True,0.015,add to cart,6,5,evidence,difficult
-u7,p8,away,61,0.2,design,True,0.014,view,5,2,drop,seek
-u100,p1,hot,34,0.63,difficult,False,0.06,purchase,5,2,movie,yes
-u63,p19,style,48,0.97,building,True,0.037,view,3,3,drive,such
-u70,p3,project,80,0.66,poor,True,0.069,add to cart,6,4,whatever,group
-u43,p3,set,81,0.34,kid,True,0.027,purchase,1,4,whatever,group
-u74,p8,imagine,75,0.59,office,True,0.011,purchase,5,2,drop,seek
-u77,p5,budget,61,0.58,food,False,0.074,purchase,8,2,hand,just
-u93,p8,tree,67,0.43,respond,False,0.019,add to cart,4,5,drop,seek
-u57,p9,find,35,0.32,property,False,0.082,view,1,2,most,fly
-u40,p11,according,35,0.42,business,False,0.047,purchase,2,5,behavior,rise
-u45,p13,number,31,0.1,draw,True,0.092,add to cart,9,2,choose,ever
-u75,p5,rule,57,0.18,region,False,0.012,add to cart,1,3,hand,just
-u25,p12,less,79,1.0,particularly,True,0.098,purchase,8,3,sit,above
-u93,p6,budget,36,0.61,activity,False,0.078,purchase,10,2,general,lose
-u24,p4,story,3,0.17,mouth,True,0.013,add to cart,3,1,west,loss
-u70,p2,arm,25,0.18,audience,False,0.099,view,5,4,child,term
-u38,p7,child,47,0.07,do,False,0.02,purchase,10,2,evidence,difficult
-u1,p7,style,43,0.92,card,True,0.08,purchase,10,2,evidence,difficult
-u77,p2,its,54,0.98,look,True,0.002,purchase,10,5,child,term
-u36,p19,wind,75,0.86,against,False,0.061,add to cart,10,4,drive,such
-u74,p15,usually,67,0.1,to,False,0.08,purchase,5,5,suddenly,ability
-u71,p2,manager,91,0.73,kind,True,0.006,purchase,2,3,child,term
-u62,p13,provide,3,0.76,treat,True,0.005,view,2,3,choose,ever
-u82,p16,fight,94,1.0,defense,True,0.043,purchase,5,3,girl,training
-u72,p6,loss,24,0.26,you,True,0.079,view,7,2,general,lose
-u46,p14,population,39,0.4,face,True,0.047,purchase,9,2,become,herself
-u73,p14,radio,61,0.28,note,False,0.003,add to cart,9,1,become,herself
-u6,p13,bad,41,0.83,name,False,0.075,add to cart,2,3,choose,ever
-u100,p11,ever,4,0.32,security,False,0.048,view,8,5,behavior,rise
-u87,p15,certainly,20,0.55,responsibility,True,0.006,add to cart,10,1,suddenly,ability
-u25,p16,want,25,0.17,get,False,0.086,add to cart,4,5,girl,training
-u13,p3,computer,32,0.91,clearly,True,0.034,view,3,1,whatever,group
-u38,p7,face,24,0.4,community,True,0.087,view,8,4,evidence,difficult
-u92,p2,fear,26,0.87,example,False,0.051,purchase,9,1,child,term
-u57,p5,help,27,0.87,history,True,0.021,purchase,6,4,hand,just
-u78,p19,away,77,0.33,character,True,0.024,view,1,2,drive,such
-u78,p17,although,55,0.99,notice,False,0.022,add to cart,2,5,however,staff
-u61,p8,building,72,0.82,nature,True,0.002,view,1,3,drop,seek
-u86,p11,response,85,0.61,human,False,0.047,add to cart,9,1,behavior,rise
-u93,p18,program,29,0.85,tough,True,0.069,purchase,4,5,weight,beat
-u34,p8,go,15,0.64,raise,True,0.059,add to cart,7,2,drop,seek
-u93,p1,suddenly,100,0.49,by,True,0.066,view,1,4,movie,yes
-u41,p2,left,37,0.66,magazine,True,0.077,purchase,1,1,child,term
-u69,p13,likely,69,0.07,yourself,True,0.04,add to cart,6,4,choose,ever
-u40,p14,can,44,0.33,thought,False,0.073,purchase,6,2,become,herself
-u11,p15,stand,89,0.02,else,True,0.05,purchase,3,3,suddenly,ability
-u37,p14,bank,68,0.61,list,False,0.1,view,8,2,become,herself
-u62,p18,public,14,0.59,society,True,0.052,add to cart,1,5,weight,beat
-u90,p2,history,1,0.23,officer,True,0.046,purchase,4,4,child,term
-u54,p4,very,86,0.52,blood,True,0.053,add to cart,3,4,west,loss
-u54,p3,likely,2,0.94,south,False,0.075,view,10,5,whatever,group
-u77,p12,culture,93,0.15,effort,False,0.037,add to cart,8,2,sit,above
-u65,p15,hope,10,0.88,condition,False,0.068,purchase,7,5,suddenly,ability
-u63,p15,everything,38,0.99,play,False,0.057,view,6,4,suddenly,ability
-u67,p14,quality,100,0.11,peace,True,0.097,purchase,6,1,become,herself
-u59,p2,center,30,0.55,environmental,True,0.062,view,10,5,child,term
-u7,p4,wide,26,0.52,realize,False,0.094,view,10,2,west,loss
-u7,p6,who,14,0.92,serve,False,0.088,add to cart,3,5,general,lose
-u22,p1,stay,98,0.83,affect,True,0.059,purchase,4,3,movie,yes
-u36,p20,whole,40,0.12,mention,False,0.003,view,1,2,event,around
-u42,p2,well,68,0.13,expect,True,0.066,add to cart,4,4,child,term
-u93,p1,truth,3,0.39,add,False,0.08,purchase,7,1,movie,yes
-u64,p3,write,12,0.69,learn,False,0.035,view,7,3,whatever,group
-u94,p7,ball,86,0.58,sing,True,0.079,purchase,10,4,evidence,difficult
-u96,p3,beat,65,0.19,middle,True,0.008,view,5,4,whatever,group
-u67,p5,identify,34,0.89,live,False,0.048,purchase,3,3,hand,just
-u85,p3,room,4,0.94,company,False,0.01,purchase,4,3,whatever,group
-u92,p1,similar,35,0.66,property,False,0.094,view,2,1,movie,yes
-u10,p16,today,54,0.91,couple,True,0.088,add to cart,10,1,girl,training
-u7,p15,let,82,0.91,finally,False,0.025,add to cart,10,5,suddenly,ability
-u94,p18,event,38,0.66,well,True,0.006,purchase,10,1,weight,beat
-u71,p5,relate,17,0.59,standard,False,0.083,purchase,1,3,hand,just
-u34,p8,in,63,0.66,or,True,0.068,view,7,4,drop,seek
-u65,p10,think,14,0.85,plant,True,0.028,add to cart,2,1,tonight,six
-u2,p4,war,94,0.31,low,False,0.013,purchase,2,4,west,loss
-u83,p5,wide,7,0.39,lawyer,False,0.012,purchase,10,3,hand,just
-u1,p3,practice,43,0.95,bring,True,0.056,add to cart,7,5,whatever,group
-u84,p2,without,44,0.02,field,False,0.062,view,2,2,child,term
-u44,p18,sure,11,0.88,morning,False,0.051,view,2,3,weight,beat
-u90,p3,part,75,0.37,group,True,0.079,add to cart,9,3,whatever,group
-u74,p4,minute,84,0.5,collection,True,0.059,purchase,10,1,west,loss
-u78,p5,whole,78,0.23,evidence,True,0.022,purchase,5,5,hand,just
-u46,p17,simple,55,0.63,head,True,0.016,add to cart,9,4,however,staff
-u63,p1,her,50,0.38,eat,True,0.059,purchase,2,2,movie,yes
-u90,p9,so,42,0.74,nothing,False,0.077,add to cart,10,2,most,fly
-u49,p4,interest,40,0.99,draw,False,0.007,view,3,3,west,loss
-u9,p20,hospital,72,1.0,sport,True,0.036,purchase,5,4,event,around
-u43,p15,because,67,0.53,represent,False,0.056,view,6,2,suddenly,ability
-u89,p1,reflect,63,0.46,more,False,0.02,add to cart,1,3,movie,yes
-u87,p13,well,94,0.31,recently,True,0.016,view,3,3,choose,ever
-u15,p13,rich,6,0.75,ready,False,0.04,add to cart,8,4,choose,ever
-u15,p3,fund,39,0.15,trial,False,0.097,view,3,3,whatever,group
-u58,p19,remain,70,0.58,day,False,0.03,add to cart,7,2,drive,such
-u80,p10,hospital,35,0.23,discover,True,0.043,view,6,3,tonight,six
-u60,p8,ready,39,1.0,officer,False,0.032,view,9,3,drop,seek
-u67,p11,ok,100,0.52,ok,False,0.032,view,7,2,behavior,rise
-u72,p9,as,75,0.04,season,False,0.079,purchase,4,3,most,fly
-u3,p14,education,43,0.05,moment,False,0.017,add to cart,4,4,become,herself
-u14,p17,economy,6,0.61,interest,False,0.073,add to cart,7,1,however,staff
-u30,p3,concern,60,0.31,it,True,0.085,add to cart,8,2,whatever,group
-u97,p14,decision,71,0.29,few,False,0.016,view,7,4,become,herself
-u6,p8,affect,19,0.04,purpose,True,0.039,add to cart,1,4,drop,seek
-u32,p10,hospital,64,0.94,consumer,True,0.013,purchase,5,2,tonight,six
-u31,p13,huge,56,0.14,toward,False,0.039,purchase,2,3,choose,ever
-u65,p1,contain,60,0.8,million,True,0.096,purchase,7,3,movie,yes
-u79,p5,because,59,0.49,federal,True,0.046,add to cart,5,1,hand,just
-u58,p15,leader,43,0.39,statement,True,0.061,purchase,8,5,suddenly,ability
-u36,p20,responsibility,60,0.94,already,True,0.007,purchase,9,4,event,around
-u96,p6,then,51,0.89,arm,False,0.094,purchase,3,2,general,lose
-u48,p19,sure,19,0.48,training,True,0.061,purchase,10,4,drive,such
-u37,p1,pick,30,0.52,including,True,0.033,add to cart,4,4,movie,yes
-u87,p8,so,27,0.25,some,True,0.079,purchase,7,3,drop,seek
-u41,p4,million,78,0.27,big,False,0.007,add to cart,6,3,west,loss
-u48,p9,different,43,0.95,part,True,0.047,add to cart,6,5,most,fly
-u87,p17,hundred,38,0.47,forward,False,0.053,view,7,3,however,staff
-u61,p10,example,72,0.49,president,False,0.099,view,1,4,tonight,six
-u44,p13,couple,44,0.18,before,False,0.042,view,5,3,choose,ever
-u6,p16,energy,73,0.36,think,False,0.032,add to cart,3,3,girl,training
-u54,p16,pattern,59,0.61,himself,True,0.075,view,10,3,girl,training
-u91,p10,important,45,0.21,wall,True,0.022,add to cart,9,2,tonight,six
-u12,p7,weight,26,0.53,magazine,True,0.094,purchase,1,3,evidence,difficult
-u13,p16,fear,42,0.83,list,True,0.027,add to cart,10,1,girl,training
-u15,p18,Mrs,89,0.66,assume,True,0.072,add to cart,7,2,weight,beat
-u70,p15,billion,60,0.71,easy,False,0.062,add to cart,4,1,suddenly,ability
-u100,p1,west,5,0.68,few,False,0.037,purchase,9,1,movie,yes
-u33,p15,picture,53,0.62,away,True,0.07,purchase,6,3,suddenly,ability
-u91,p5,writer,31,0.31,into,False,0.061,add to cart,7,2,hand,just
-u36,p12,item,21,0.75,future,True,0.078,add to cart,9,5,sit,above
-u29,p20,around,57,0.41,operation,True,0.009,purchase,10,4,event,around
-u51,p5,compare,35,0.47,thing,False,0.069,purchase,4,2,hand,just
-u88,p13,local,47,0.54,pattern,False,0.08,add to cart,4,1,choose,ever
-u4,p1,teacher,69,0.14,similar,True,0.077,add to cart,10,2,movie,yes
-u100,p18,lay,36,0.67,small,False,0.088,add to cart,8,1,weight,beat
-u95,p9,get,54,0.71,college,False,0.045,view,4,3,most,fly
-u73,p11,sell,70,0.75,very,False,0.028,add to cart,6,3,behavior,rise
-u81,p6,either,71,0.06,on,True,0.079,view,7,2,general,lose
-u93,p14,fall,85,0.59,number,False,0.099,purchase,6,3,become,herself
-u23,p2,hotel,47,0.48,miss,True,0.06,purchase,8,1,child,term
-u83,p3,might,69,0.66,mean,False,0.029,add to cart,7,1,whatever,group
-u59,p18,situation,63,0.37,ten,False,0.032,purchase,6,4,weight,beat
-u69,p14,other,54,0.84,hour,True,0.013,add to cart,9,4,become,herself
-u94,p19,remember,78,0.58,this,True,0.084,view,1,3,drive,such
-u22,p12,fact,47,0.71,dark,False,0.005,purchase,4,5,sit,above
-u48,p14,guess,98,0.3,commercial,True,0.075,view,10,1,become,herself
-u40,p19,after,49,0.25,others,False,0.048,view,7,4,drive,such
-u53,p4,term,92,0.7,cut,True,0.051,view,4,1,west,loss
-u13,p1,policy,54,0.58,catch,True,0.057,purchase,7,5,movie,yes
-u73,p8,their,16,0.85,majority,True,0.028,add to cart,4,4,drop,seek
-u35,p8,growth,50,0.76,perhaps,True,0.085,add to cart,2,5,drop,seek
-u87,p13,result,71,1.0,policy,True,0.086,view,9,3,choose,ever
-u64,p9,role,41,0.62,between,False,0.013,purchase,9,3,most,fly
-u15,p5,it,74,0.89,sea,False,0.023,purchase,2,2,hand,just
-u47,p16,window,52,0.71,energy,False,0.08,view,9,3,girl,training
-u77,p14,ball,21,0.05,might,True,0.011,purchase,3,1,become,herself
-u96,p6,very,39,0.2,especially,True,0.063,add to cart,9,2,general,lose
-u43,p11,cell,18,0.01,team,True,0.019,add to cart,10,4,behavior,rise
-u99,p15,she,3,0.85,according,False,0.067,view,10,4,suddenly,ability
-u53,p11,fight,17,0.71,environmental,True,0.082,view,6,5,behavior,rise
-u60,p3,open,49,0.15,enter,True,0.05,add to cart,8,5,whatever,group
-u97,p10,while,11,0.61,argue,True,0.008,purchase,5,3,tonight,six
-u34,p19,third,23,0.11,management,False,0.054,purchase,1,1,drive,such
-u79,p6,along,65,0.62,successful,True,0.048,add to cart,5,5,general,lose
-u52,p1,production,95,0.83,game,False,0.088,view,7,2,movie,yes
-u79,p15,every,16,0.51,bar,True,0.092,view,4,4,suddenly,ability
-u86,p8,modern,97,0.95,drop,False,0.076,purchase,4,5,drop,seek
-u41,p12,per,89,0.62,last,True,0.074,purchase,1,3,sit,above
-u38,p11,amount,93,0.86,weight,False,0.046,purchase,2,1,behavior,rise
-u44,p8,seat,59,0.84,war,True,0.093,view,4,3,drop,seek
-u94,p12,race,13,0.23,day,False,0.086,view,9,3,sit,above
-u26,p1,blood,90,0.16,along,True,0.018,view,10,4,movie,yes
-u30,p4,pay,78,0.35,kind,True,0.076,add to cart,3,3,west,loss
-u10,p15,first,55,0.18,garden,True,0.052,view,7,3,suddenly,ability
-u100,p11,report,60,0.9,compare,False,0.003,view,1,2,behavior,rise
-u93,p4,heart,70,0.62,find,False,0.061,purchase,8,3,west,loss
-u47,p7,fly,88,0.21,if,False,0.056,add to cart,5,5,evidence,difficult
-u1,p12,friend,37,0.74,collection,True,0.005,purchase,2,1,sit,above
-u25,p5,Democrat,64,1.0,try,False,0.084,purchase,6,4,hand,just
-u15,p13,use,100,0.78,paper,True,0.013,purchase,2,3,choose,ever
-u51,p9,station,58,0.3,particular,True,0.059,purchase,9,1,most,fly
-u91,p19,seek,87,0.52,statement,False,0.098,add to cart,5,3,drive,such
-u75,p3,really,68,0.33,off,True,0.057,add to cart,10,4,whatever,group
-u95,p1,high,21,0.84,I,False,0.073,purchase,5,5,movie,yes
-u84,p1,happen,66,0.05,value,True,0.052,view,1,5,movie,yes
-u14,p3,stuff,79,0.14,investment,True,0.021,view,10,5,whatever,group
-u97,p16,degree,66,0.87,event,False,0.026,purchase,10,5,girl,training
-u34,p10,issue,76,0.26,collection,True,0.038,add to cart,5,4,tonight,six
-u50,p18,play,79,0.42,one,False,0.028,add to cart,5,1,weight,beat
-u33,p20,main,46,0.5,may,True,0.055,view,3,2,event,around
-u36,p7,reality,29,0.89,hear,False,0.007,purchase,1,1,evidence,difficult
-u23,p3,anything,64,0.2,American,True,0.066,purchase,5,4,whatever,group
-u6,p15,down,92,0.56,image,True,0.085,add to cart,9,1,suddenly,ability
-u8,p5,meeting,69,0.23,compare,False,0.042,purchase,9,5,hand,just
-u29,p12,image,11,0.54,within,False,0.014,add to cart,5,2,sit,above
-u3,p2,either,21,0.95,social,True,0.067,purchase,7,2,child,term
-u72,p17,concern,36,0.6,against,True,0.046,add to cart,7,1,however,staff
-u87,p20,chance,16,0.52,reach,False,0.088,view,7,3,event,around
-u41,p15,generation,44,0.33,live,False,0.03,add to cart,9,5,suddenly,ability
-u21,p18,girl,51,0.23,adult,False,0.021,view,1,4,weight,beat
-u44,p16,outside,32,0.94,fall,False,0.077,add to cart,4,3,girl,training
-u85,p9,marriage,28,0.53,ahead,False,0.027,add to cart,9,5,most,fly
-u16,p3,writer,63,0.33,hot,True,0.015,purchase,2,2,whatever,group
-u1,p6,each,42,0.7,share,False,0.033,purchase,3,1,general,lose
-u55,p11,enjoy,24,0.97,technology,False,0.069,add to cart,10,3,behavior,rise
-u66,p5,than,53,0.98,you,True,0.068,add to cart,3,3,hand,just
-u80,p12,especially,37,0.62,positive,True,0.046,add to cart,4,1,sit,above
-u87,p5,agreement,9,0.97,industry,True,0.059,view,8,2,hand,just
-u53,p1,behind,78,0.75,later,False,0.008,purchase,1,4,movie,yes
-u69,p14,bill,24,0.97,consider,True,0.045,view,10,4,become,herself
-u30,p7,adult,88,0.48,vote,False,0.012,purchase,8,5,evidence,difficult
-u15,p19,itself,92,0.69,service,True,0.027,add to cart,9,3,drive,such
-u10,p13,open,20,0.81,leave,False,0.055,purchase,5,4,choose,ever
-u58,p20,station,14,0.85,lay,False,0.058,view,10,2,event,around
-u38,p15,political,49,0.52,according,True,0.093,add to cart,7,4,suddenly,ability
-u34,p13,figure,98,0.72,institution,True,0.045,view,6,2,choose,ever
-u46,p1,pressure,18,0.56,late,False,0.082,purchase,3,4,movie,yes
-u48,p12,onto,33,0.74,thousand,False,0.082,purchase,6,5,sit,above
-u19,p5,important,1,0.2,suddenly,True,0.069,purchase,5,2,hand,just
-u73,p16,movement,72,0.79,name,False,0.054,view,7,3,girl,training
-u35,p5,never,34,0.78,street,False,0.082,purchase,3,1,hand,just
-u62,p4,increase,39,0.63,about,True,0.001,view,8,1,west,loss
-u81,p18,room,70,0.02,carry,True,0.046,add to cart,9,3,weight,beat
-u61,p5,inside,67,0.52,science,False,0.07,purchase,6,3,hand,just
-u15,p18,team,44,0.6,learn,False,0.054,add to cart,1,4,weight,beat
-u47,p19,kitchen,70,0.28,strategy,False,0.061,purchase,10,2,drive,such
-u97,p1,degree,64,0.34,election,False,0.053,purchase,1,3,movie,yes
-u100,p4,learn,72,0.53,different,True,0.072,add to cart,7,4,west,loss
-u99,p17,move,95,0.51,off,False,0.017,add to cart,3,5,however,staff
-u72,p10,likely,13,0.24,certainly,False,0.082,view,7,5,tonight,six
-u71,p16,between,8,0.36,tonight,False,0.045,add to cart,2,1,girl,training
-u87,p20,some,34,0.46,believe,True,0.098,view,7,3,event,around
-u80,p11,benefit,87,0.83,commercial,True,0.087,purchase,9,4,behavior,rise
-u90,p11,civil,66,0.77,radio,False,0.084,purchase,8,1,behavior,rise
-u4,p20,employee,69,0.55,whole,False,0.02,add to cart,3,1,event,around
-u6,p10,finally,29,0.99,far,True,0.072,purchase,10,1,tonight,six
-u89,p19,hold,17,0.53,green,False,0.051,purchase,7,4,drive,such
-u27,p9,type,89,0.97,face,True,0.07,view,10,1,most,fly
-u99,p15,watch,57,0.29,program,True,0.072,purchase,4,3,suddenly,ability
-u50,p7,management,2,0.57,gun,False,0.015,add to cart,3,1,evidence,difficult
-u83,p7,those,82,0.76,success,False,0.01,purchase,2,4,evidence,difficult
-u48,p19,well,86,0.98,I,True,0.007,purchase,8,3,drive,such
-u99,p6,throughout,24,0.36,current,True,0.056,view,9,2,general,lose
-u96,p3,box,76,0.66,recent,False,0.057,view,10,2,whatever,group
-u45,p15,able,42,0.74,job,False,0.07,view,10,5,suddenly,ability
-u43,p19,nation,59,0.47,will,True,0.041,view,4,3,drive,such
-u89,p14,father,76,0.06,poor,False,0.021,add to cart,3,3,become,herself
-u71,p10,water,16,0.36,study,True,0.048,purchase,8,4,tonight,six
-u32,p15,that,89,0.81,significant,True,0.095,add to cart,10,1,suddenly,ability
-u67,p9,break,49,0.4,worry,True,0.05,purchase,7,4,most,fly
-u47,p18,instead,4,0.71,say,False,0.051,add to cart,5,1,weight,beat
-u9,p6,teach,71,0.59,garden,False,0.018,view,9,4,general,lose
-u71,p14,amount,84,0.14,continue,False,0.001,add to cart,2,5,become,herself
-u45,p18,goal,74,0.75,standard,True,0.042,add to cart,4,4,weight,beat
-u98,p9,fly,80,0.04,attorney,False,0.061,add to cart,1,1,most,fly
-u97,p19,finish,92,0.7,defense,False,0.013,purchase,3,4,drive,such
-u39,p4,season,22,0.93,nice,False,0.037,add to cart,6,3,west,loss
-u28,p11,significant,59,0.91,seat,True,0.026,purchase,1,5,behavior,rise
-u44,p3,whole,44,0.05,read,False,0.075,add to cart,3,4,whatever,group
-u4,p2,itself,6,0.55,morning,True,0.077,view,2,1,child,term
-u26,p4,race,19,0.63,that,False,0.01,view,10,4,west,loss
-u88,p19,practice,73,0.2,career,False,0.08,view,1,1,drive,such
-u46,p15,conference,14,0.16,story,True,0.065,view,8,4,suddenly,ability
-u18,p20,probably,14,0.34,present,True,0.003,purchase,2,1,event,around
-u19,p1,imagine,35,0.25,article,True,0.068,purchase,10,4,movie,yes
-u76,p20,your,13,0.69,television,True,0.049,purchase,7,3,event,around
-u100,p5,and,84,0.48,city,False,0.07,add to cart,10,2,hand,just
-u79,p11,agree,55,0.65,per,False,0.033,view,9,2,behavior,rise
-u63,p11,respond,65,0.87,thing,False,0.017,purchase,2,2,behavior,rise
-u76,p4,upon,90,0.5,money,True,0.021,purchase,4,4,west,loss
-u24,p19,better,78,0.77,laugh,False,0.091,add to cart,10,4,drive,such
-u71,p10,leave,45,0.03,game,False,0.095,purchase,6,3,tonight,six
-u80,p15,water,6,0.71,leg,True,0.032,view,1,3,suddenly,ability
-u90,p11,four,55,0.43,think,False,0.029,purchase,10,3,behavior,rise
-u80,p17,pass,41,0.62,and,True,0.013,add to cart,9,4,however,staff
-u75,p8,interview,24,0.14,mouth,False,0.074,add to cart,10,2,drop,seek
-u19,p17,artist,60,0.54,nearly,False,0.027,view,3,5,however,staff
-u84,p14,shoulder,4,0.7,receive,False,0.011,purchase,8,1,become,herself
-u62,p16,myself,4,0.12,first,False,0.005,purchase,5,5,girl,training
-u72,p12,very,18,0.79,necessary,True,0.006,purchase,4,3,sit,above
-u27,p14,baby,40,0.03,should,True,0.094,view,1,4,become,herself
-u100,p17,best,89,0.75,recognize,True,0.017,purchase,10,3,however,staff
-u10,p10,serve,66,0.17,guess,False,0.089,view,10,5,tonight,six
-u76,p11,sing,58,0.97,wind,True,0.08,purchase,6,2,behavior,rise
-u60,p18,conference,56,0.45,stop,True,0.06,purchase,7,2,weight,beat
-u32,p13,occur,22,0.86,sound,False,0.036,purchase,10,4,choose,ever
-u92,p15,less,24,0.14,apply,True,0.022,view,3,5,suddenly,ability
-u63,p12,remember,55,0.69,method,True,0.1,purchase,6,5,sit,above
-u93,p14,law,56,0.23,impact,False,0.051,purchase,9,5,become,herself
-u22,p2,relate,93,0.04,field,False,0.087,view,3,2,child,term
-u46,p1,line,35,0.42,both,True,0.062,add to cart,10,5,movie,yes
-u86,p15,test,12,0.79,free,True,0.067,add to cart,10,3,suddenly,ability
-u12,p20,blood,14,0.23,deep,True,0.082,add to cart,3,3,event,around
-u32,p13,seek,61,0.71,cost,False,0.023,add to cart,4,1,choose,ever
-u1,p5,member,90,0.38,will,True,0.008,purchase,7,4,hand,just
-u18,p20,theory,23,0.8,above,True,0.081,view,5,5,event,around
-u94,p16,institution,4,0.55,just,True,0.004,view,4,5,girl,training
-u30,p12,involve,83,0.07,cost,True,0.009,purchase,6,2,sit,above
-u50,p13,travel,7,0.65,until,True,0.088,purchase,10,4,choose,ever
-u91,p9,kid,35,0.34,memory,False,0.043,add to cart,10,4,most,fly
-u64,p3,drug,80,0.57,up,False,0.038,view,10,2,whatever,group
-u55,p1,season,52,0.3,my,False,0.057,add to cart,8,5,movie,yes
-u86,p17,will,68,0.4,laugh,True,0.064,view,7,5,however,staff
-u20,p20,better,23,0.34,value,False,0.087,purchase,2,5,event,around
-u23,p13,agreement,81,0.12,their,False,0.084,view,10,5,choose,ever
-u61,p20,time,47,0.2,Congress,False,0.004,view,5,2,event,around
-u66,p6,last,6,0.55,find,False,0.019,add to cart,7,1,general,lose
-u8,p2,response,37,0.46,our,False,0.086,add to cart,5,4,child,term
-u63,p18,hit,3,0.94,everybody,False,0.037,add to cart,5,5,weight,beat
-u85,p8,specific,53,0.8,be,True,0.095,add to cart,9,1,drop,seek
-u76,p13,save,96,0.85,always,True,0.056,purchase,2,3,choose,ever
-u21,p19,my,1,0.7,modern,True,0.06,view,5,1,drive,such
-u80,p19,newspaper,24,0.2,stuff,False,0.059,view,4,4,drive,such
-u71,p2,though,98,0.24,past,False,0.051,add to cart,4,2,child,term
-u21,p2,subject,23,0.71,information,True,0.098,view,9,3,child,term
-u76,p10,price,99,0.27,often,False,0.093,purchase,1,2,tonight,six
-u64,p11,final,27,0.16,appear,False,0.093,add to cart,8,5,behavior,rise
-u51,p17,investment,36,0.85,economy,False,0.056,add to cart,6,2,however,staff
-u60,p1,security,3,0.74,first,True,0.004,view,2,2,movie,yes
-u6,p4,maintain,77,0.97,range,True,0.042,view,2,2,west,loss
-u42,p20,west,42,0.19,fly,True,0.067,view,3,1,event,around
-u71,p5,painting,72,0.95,under,True,0.06,view,6,2,hand,just
-u44,p14,network,60,0.5,instead,False,0.028,purchase,6,4,become,herself
-u24,p3,tell,21,0.75,hotel,False,0.056,view,2,2,whatever,group
-u78,p12,think,37,0.34,close,False,0.055,view,7,5,sit,above
-u92,p15,past,65,0.81,close,True,0.064,purchase,1,2,suddenly,ability
-u75,p9,eat,55,0.66,fear,True,0.069,purchase,3,2,most,fly
-u64,p15,air,88,0.31,population,True,0.08,view,1,2,suddenly,ability
-u64,p16,away,68,0.82,throw,True,0.035,purchase,4,4,girl,training
-u29,p20,so,80,0.12,population,True,0.047,view,5,5,event,around
-u8,p10,office,62,0.45,game,True,0.077,view,1,3,tonight,six
-u59,p2,development,17,0.96,mother,False,0.024,view,1,4,child,term
-u23,p11,each,10,0.6,according,True,0.056,view,10,3,behavior,rise
-u37,p5,population,87,0.28,himself,False,0.089,add to cart,9,5,hand,just
-u18,p12,piece,94,0.83,party,True,0.076,view,3,1,sit,above
-u74,p10,issue,8,0.01,usually,False,0.088,purchase,10,3,tonight,six
-u34,p11,record,4,0.4,discover,True,0.005,add to cart,2,1,behavior,rise
-u14,p10,member,86,0.21,rise,False,0.094,purchase,10,5,tonight,six
-u40,p17,one,20,0.04,manager,False,0.044,purchase,3,4,however,staff
-u35,p19,seek,33,0.68,relate,True,0.016,add to cart,4,4,drive,such
-u15,p20,plant,93,0.01,week,False,0.07,add to cart,4,1,event,around
-u57,p13,far,66,0.83,though,False,0.052,add to cart,5,3,choose,ever
-u57,p12,gas,21,0.02,section,True,0.077,purchase,7,3,sit,above
-u74,p20,room,76,0.5,free,False,0.029,add to cart,8,1,event,around
-u55,p10,push,47,0.67,black,False,0.019,view,5,2,tonight,six
-u55,p9,not,15,0.06,in,False,0.005,purchase,6,3,most,fly
-u65,p13,executive,97,0.42,door,True,0.092,add to cart,4,1,choose,ever
-u67,p13,wide,59,0.69,child,False,0.054,view,6,4,choose,ever
-u34,p2,do,58,0.3,speech,True,0.022,add to cart,10,5,child,term
-u88,p2,blood,64,0.67,traditional,False,0.099,add to cart,3,5,child,term
-u62,p5,price,75,0.46,must,False,0.046,view,4,4,hand,just
-u71,p10,traditional,75,0.25,wall,False,0.013,add to cart,6,1,tonight,six
-u76,p19,light,58,0.09,year,True,0.06,purchase,9,1,drive,such
-u42,p18,hair,43,0.47,yourself,False,0.044,view,9,4,weight,beat
-u10,p5,lose,32,0.39,later,False,0.094,view,2,2,hand,just
-u34,p12,media,30,0.76,standard,True,0.059,add to cart,4,4,sit,above
-u97,p3,fish,72,0.67,add,False,0.035,add to cart,7,1,whatever,group
-u97,p4,able,41,0.24,know,False,0.09,view,9,4,west,loss
-u47,p18,music,90,0.65,if,False,0.091,add to cart,8,3,weight,beat
-u100,p3,his,13,0.45,account,False,0.05,purchase,4,2,whatever,group
-u48,p14,give,84,0.01,born,True,0.044,add to cart,8,1,become,herself
-u12,p12,player,35,0.55,police,True,0.096,view,5,1,sit,above
-u36,p20,whole,72,0.99,want,False,0.045,add to cart,10,5,event,around
-u9,p19,with,19,0.6,read,True,0.003,view,1,3,drive,such
-u1,p15,she,74,0.5,thank,True,0.011,add to cart,8,4,suddenly,ability
-u80,p7,pretty,96,0.33,sister,True,0.028,view,9,3,evidence,difficult
-u69,p13,walk,91,0.68,record,False,0.067,view,4,4,choose,ever
-u85,p13,any,74,0.76,hand,True,0.032,purchase,3,4,choose,ever
-u12,p18,I,76,0.15,risk,True,0.029,purchase,5,1,weight,beat
-u87,p7,term,34,0.89,office,False,0.02,view,3,4,evidence,difficult
-u64,p11,room,83,0.97,within,False,0.028,purchase,4,1,behavior,rise
-u13,p20,thus,12,0.88,chair,False,0.057,purchase,3,1,event,around
-u58,p11,rule,13,0.69,moment,False,0.04,add to cart,2,2,behavior,rise
-u57,p12,represent,44,0.8,state,False,0.006,purchase,6,2,sit,above
-u47,p13,billion,27,0.26,step,True,0.048,view,8,3,choose,ever
-u34,p20,suggest,17,0.91,born,True,0.003,view,5,1,event,around
-u71,p1,offer,79,0.85,down,True,0.016,add to cart,5,3,movie,yes
-u9,p2,listen,91,0.47,job,True,0.026,view,10,5,child,term
-u47,p8,person,2,0.65,thought,False,0.001,add to cart,10,5,drop,seek
-u2,p4,middle,7,0.17,raise,True,0.07,add to cart,5,5,west,loss
-u34,p15,care,88,0.76,Congress,False,0.005,add to cart,6,4,suddenly,ability
-u84,p18,anything,87,0.03,newspaper,False,0.001,add to cart,7,4,weight,beat
-u58,p10,nice,39,0.66,billion,True,0.038,add to cart,10,2,tonight,six
-u30,p1,party,35,0.33,determine,True,0.055,view,10,5,movie,yes
-u24,p2,leader,32,0.15,daughter,True,0.065,view,6,4,child,term
-u70,p5,about,5,0.5,church,False,0.065,view,9,2,hand,just
-u10,p1,red,65,0.19,state,True,0.004,purchase,4,2,movie,yes
-u37,p14,drop,24,0.41,between,True,0.078,view,4,3,become,herself
-u7,p16,ever,43,0.4,poor,True,0.026,purchase,1,1,girl,training
-u13,p14,speak,61,0.66,business,False,0.075,purchase,7,3,become,herself
-u61,p6,coach,59,0.28,poor,False,0.016,purchase,6,3,general,lose
-u71,p9,country,11,0.95,put,False,0.053,view,9,2,most,fly
-u45,p10,for,85,0.14,summer,True,0.065,purchase,8,2,tonight,six
-u96,p16,cup,35,0.53,under,True,0.051,view,3,1,girl,training
-u29,p15,light,24,0.4,both,False,0.1,view,3,1,suddenly,ability
-u55,p3,war,98,0.97,painting,True,0.011,add to cart,6,4,whatever,group
-u55,p1,couple,48,0.76,a,False,0.03,purchase,4,1,movie,yes
-u19,p5,a,100,0.52,smile,True,0.1,purchase,9,3,hand,just
-u70,p13,political,4,0.21,important,False,0.021,purchase,6,3,choose,ever
-u100,p16,value,53,0.14,themselves,True,0.034,add to cart,3,3,girl,training
-u13,p8,suddenly,84,0.74,stage,True,0.029,view,8,2,drop,seek
-u24,p16,think,18,0.79,son,True,0.064,add to cart,6,4,girl,training
-u79,p10,Mrs,74,0.42,south,False,0.09,view,6,3,tonight,six
-u92,p3,on,38,0.64,man,False,0.016,view,9,3,whatever,group
-u45,p3,series,43,0.31,miss,True,0.012,add to cart,3,1,whatever,group
-u61,p5,cost,15,0.12,no,True,0.022,purchase,3,5,hand,just
-u28,p15,point,14,0.4,soldier,True,0.041,add to cart,6,1,suddenly,ability
-u79,p3,game,52,0.16,while,True,0.091,purchase,5,3,whatever,group
-u58,p8,international,59,0.42,share,False,0.092,purchase,1,5,drop,seek
-u30,p11,such,74,0.22,wife,True,0.099,add to cart,4,3,behavior,rise
-u47,p14,total,44,0.83,wide,True,0.063,add to cart,6,4,become,herself
-u86,p14,hold,53,0.98,place,False,0.098,add to cart,9,3,become,herself
-u87,p17,career,97,0.28,fear,True,0.071,view,9,3,however,staff
-u68,p16,know,63,0.1,Mrs,False,0.097,view,7,1,girl,training
-u29,p16,happy,45,0.71,leave,True,0.01,view,7,2,girl,training
-u4,p8,rule,12,0.32,past,False,0.098,purchase,2,2,drop,seek
-u57,p10,five,52,0.69,law,True,0.085,add to cart,6,2,tonight,six
-u50,p10,activity,56,0.63,gas,False,0.066,add to cart,3,5,tonight,six
-u68,p4,appear,59,0.3,itself,True,0.052,purchase,3,3,west,loss
-u58,p8,spring,55,0.13,forward,True,0.065,view,5,3,drop,seek
-u21,p2,team,8,0.73,machine,True,0.074,purchase,4,5,child,term
-u87,p2,lay,55,0.64,too,True,0.062,view,10,4,child,term
-u95,p16,total,30,0.09,action,True,0.086,view,1,4,girl,training
-u30,p1,government,92,0.7,worry,False,0.078,purchase,6,4,movie,yes
-u2,p20,prevent,56,0.99,ability,False,0.056,add to cart,6,5,event,around
-u22,p16,company,1,0.89,him,True,0.025,add to cart,6,5,girl,training
-u15,p18,dinner,38,0.72,member,False,0.07,add to cart,7,3,weight,beat
-u48,p17,size,81,0.62,able,False,0.043,view,9,2,however,staff
-u56,p7,such,92,0.48,south,False,0.052,view,3,5,evidence,difficult
-u51,p5,card,59,0.49,stage,True,0.015,purchase,5,3,hand,just
-u86,p20,along,64,0.9,us,True,0.045,view,6,3,event,around
-u34,p20,tonight,38,0.38,why,True,0.02,purchase,9,3,event,around
-u69,p18,nothing,65,0.75,people,False,0.008,view,1,4,weight,beat
-u61,p1,upon,30,0.41,seem,True,0.029,purchase,1,3,movie,yes
-u100,p1,break,85,0.61,out,True,0.057,view,6,1,movie,yes
-u98,p4,we,31,0.25,special,True,0.024,view,3,1,west,loss
-u21,p12,if,33,0.74,describe,False,0.072,purchase,6,3,sit,above
-u47,p6,thing,55,0.3,in,False,0.061,purchase,7,5,general,lose
-u6,p17,particular,19,0.51,whom,True,0.076,add to cart,1,2,however,staff
-u73,p9,heart,85,0.32,plan,False,0.093,view,5,5,most,fly
-u10,p3,success,91,0.96,then,True,0.075,purchase,1,5,whatever,group
-u88,p15,employee,3,0.7,program,True,0.049,view,7,2,suddenly,ability
-u30,p10,our,12,0.72,music,True,0.093,purchase,8,4,tonight,six
-u22,p4,enter,60,0.22,board,True,0.026,add to cart,10,5,west,loss
-u7,p11,film,88,0.7,condition,True,0.087,add to cart,4,5,behavior,rise
-u81,p9,car,89,0.27,seek,False,0.001,purchase,5,3,most,fly
-u80,p2,write,30,0.18,stay,False,0.057,add to cart,8,5,child,term
-u27,p17,recognize,59,0.31,around,True,0.08,purchase,2,3,however,staff
-u63,p17,increase,42,0.38,range,False,0.006,purchase,2,2,however,staff
-u96,p11,main,62,0.24,event,False,0.079,add to cart,6,5,behavior,rise
-u90,p10,without,31,0.29,short,False,0.085,view,3,5,tonight,six
-u3,p14,wall,39,0.73,general,False,0.007,add to cart,2,3,become,herself
-u97,p5,everything,38,0.42,security,True,0.03,view,1,5,hand,just
-u44,p19,growth,28,0.44,edge,False,0.057,purchase,4,5,drive,such
-u71,p14,control,21,0.96,discover,False,0.087,view,10,4,become,herself
-u40,p4,tax,82,0.01,new,True,0.002,purchase,10,1,west,loss
-u95,p10,laugh,3,0.76,citizen,True,0.004,add to cart,8,4,tonight,six
-u39,p13,thought,47,0.28,kind,True,0.002,purchase,8,1,choose,ever
-u78,p19,near,52,0.27,then,False,0.019,purchase,5,1,drive,such
-u34,p7,bag,26,0.5,military,True,0.008,add to cart,3,2,evidence,difficult
-u31,p15,trade,95,0.92,tend,True,0.071,purchase,1,3,suddenly,ability
-u46,p15,husband,11,0.74,environment,False,0.017,add to cart,8,4,suddenly,ability
-u86,p13,structure,34,0.18,finally,False,0.026,add to cart,8,4,choose,ever
-u90,p20,add,75,0.61,fact,False,0.044,add to cart,1,2,event,around
-u35,p10,admit,30,0.53,future,True,0.025,view,2,1,tonight,six
-u79,p5,goal,40,0.62,sign,True,0.078,add to cart,3,1,hand,just
-u72,p7,sister,76,0.31,throw,False,0.09,purchase,2,4,evidence,difficult
-u3,p18,few,39,0.34,through,True,0.024,purchase,6,5,weight,beat
-u7,p19,citizen,99,0.14,bag,True,0.038,add to cart,1,1,drive,such
-u76,p19,success,24,0.6,which,True,0.017,purchase,10,3,drive,such
-u3,p5,century,65,0.04,fast,False,0.087,purchase,2,1,hand,just
-u65,p3,behind,44,0.66,base,True,0.074,view,2,2,whatever,group
-u14,p13,bring,99,0.5,treatment,False,0.009,view,3,5,choose,ever
-u39,p5,common,50,0.79,particularly,True,0.077,add to cart,1,2,hand,just
-u36,p18,source,25,0.25,toward,False,0.039,view,1,2,weight,beat
-u83,p15,nor,15,0.81,actually,False,0.09,purchase,8,3,suddenly,ability
-u26,p19,establish,75,1.0,describe,False,0.035,add to cart,8,5,drive,such
-u35,p1,significant,77,0.52,at,True,0.05,view,5,5,movie,yes
-u26,p19,plant,75,0.51,research,True,0.007,purchase,4,1,drive,such
-u78,p6,leader,12,0.17,direction,False,0.017,add to cart,5,3,general,lose
-u58,p18,participant,79,0.47,call,True,0.051,purchase,9,5,weight,beat
-u53,p1,alone,1,0.16,city,True,0.09,purchase,3,5,movie,yes
-u13,p16,agency,26,0.37,surface,True,0.072,purchase,9,1,girl,training
-u74,p20,family,89,0.68,seek,True,0.075,purchase,2,1,event,around
-u31,p3,perhaps,27,0.62,agree,False,0.024,purchase,8,5,whatever,group
-u47,p1,author,7,0.99,start,True,0.099,view,7,4,movie,yes
-u97,p4,help,97,0.25,yes,False,0.057,add to cart,2,4,west,loss
-u61,p4,alone,74,0.42,prove,True,0.074,view,7,2,west,loss
-u29,p6,cover,39,0.4,away,False,0.083,purchase,8,5,general,lose
-u4,p18,maintain,68,0.93,strong,False,0.027,view,10,3,weight,beat
-u59,p12,voice,87,0.89,knowledge,False,0.072,purchase,6,1,sit,above
-u87,p13,ground,75,0.15,girl,True,0.048,view,7,4,choose,ever
-u45,p9,age,39,0.09,charge,True,0.081,purchase,1,4,most,fly
-u45,p20,success,81,0.1,talk,True,0.004,purchase,3,5,event,around
-u25,p13,cover,90,0.07,quality,True,0.091,add to cart,8,5,choose,ever
-u2,p12,at,20,0.51,fill,True,0.06,add to cart,8,4,sit,above
-u25,p7,treat,54,0.29,institution,True,0.001,purchase,5,4,evidence,difficult
-u21,p20,what,31,0.64,much,False,0.082,purchase,1,5,event,around
-u45,p20,design,85,0.7,early,True,0.04,add to cart,9,5,event,around
-u6,p2,drug,93,0.45,interview,False,0.058,view,6,3,child,term
-u80,p3,onto,34,0.18,they,True,0.057,purchase,9,2,whatever,group
-u9,p10,whatever,84,0.26,each,False,0.049,purchase,6,3,tonight,six
-u49,p1,environment,48,0.56,institution,False,0.081,add to cart,1,3,movie,yes
-u29,p11,debate,72,0.01,wife,True,0.043,add to cart,9,4,behavior,rise
-u64,p8,alone,14,0.84,girl,False,0.083,view,5,1,drop,seek
-u10,p5,size,59,0.42,remain,False,0.024,purchase,9,1,hand,just
-u12,p1,best,6,0.56,financial,False,0.025,view,4,4,movie,yes
-u41,p14,watch,93,0.33,medical,True,0.009,view,6,4,become,herself
-u98,p2,sell,29,0.52,thought,True,0.093,view,3,1,child,term
-u92,p9,big,90,0.2,provide,True,0.021,purchase,1,5,most,fly
-u62,p7,yard,24,0.02,draw,False,0.099,purchase,4,5,evidence,difficult
-u46,p6,have,82,0.04,visit,False,0.073,purchase,2,5,general,lose
-u41,p19,west,13,0.78,market,True,0.08,add to cart,9,2,drive,such
-u42,p4,morning,99,0.78,thought,False,0.092,view,1,2,west,loss
-u19,p19,good,70,0.82,hold,True,0.032,purchase,10,5,drive,such
-u37,p12,miss,17,0.19,put,False,0.099,purchase,8,1,sit,above
-u20,p5,whatever,70,0.54,television,False,0.061,purchase,10,3,hand,just
-u41,p20,us,32,0.09,face,True,0.037,view,8,2,event,around
-u30,p16,mission,69,0.74,those,False,0.022,view,6,3,girl,training
-u27,p12,energy,60,0.96,walk,False,0.007,view,9,2,sit,above
-u58,p3,dream,55,0.17,country,False,0.073,add to cart,9,5,whatever,group
-u66,p19,pressure,18,0.65,right,True,0.093,add to cart,1,4,drive,such
-u56,p18,truth,86,0.65,day,True,0.039,add to cart,8,3,weight,beat
-u90,p8,factor,78,0.39,on,False,0.061,purchase,10,4,drop,seek
-u13,p13,mind,43,0.02,theory,True,0.013,view,6,1,choose,ever
-u76,p6,spend,7,0.65,improve,True,0.002,add to cart,7,2,general,lose
-u35,p8,develop,64,0.67,computer,False,0.021,view,8,1,drop,seek
-u54,p20,agree,89,0.58,people,False,0.003,add to cart,8,4,event,around
-u29,p17,traditional,69,0.04,decision,False,0.091,view,2,5,however,staff
-u72,p12,similar,20,0.54,at,True,0.092,purchase,4,5,sit,above
-u55,p10,party,48,0.4,century,True,0.083,view,4,4,tonight,six
-u77,p18,visit,8,0.65,work,True,0.008,purchase,6,4,weight,beat
-u94,p13,more,2,0.32,vote,False,0.075,add to cart,9,4,choose,ever
-u71,p18,civil,90,0.61,PM,True,0.041,view,2,1,weight,beat
-u5,p18,every,6,0.94,whatever,True,0.084,view,9,5,weight,beat
-u95,p8,town,28,0.98,least,False,0.04,add to cart,8,1,drop,seek
-u58,p1,improve,57,0.34,risk,True,0.077,purchase,1,3,movie,yes
-u18,p7,attention,88,0.97,former,False,0.071,purchase,6,1,evidence,difficult
-u80,p14,admit,97,0.06,conference,True,0.049,purchase,7,2,become,herself
-u1,p1,appear,65,0.12,always,False,0.014,add to cart,2,1,movie,yes
-u73,p11,stock,25,0.91,suddenly,False,0.002,view,7,4,behavior,rise
-u93,p10,degree,91,0.07,whatever,True,0.011,add to cart,1,3,tonight,six
-u51,p3,anything,45,0.84,rate,True,0.087,add to cart,5,4,whatever,group
-u26,p16,there,54,0.1,already,False,0.05,view,5,2,girl,training
-u80,p10,here,81,0.55,go,True,0.065,add to cart,5,5,tonight,six
-u34,p10,guy,63,0.43,role,False,0.065,purchase,10,3,tonight,six
-u92,p7,option,73,0.06,water,False,0.083,purchase,2,2,evidence,difficult
-u33,p7,during,69,0.06,television,True,0.027,add to cart,2,3,evidence,difficult
-u40,p2,church,66,0.56,often,False,0.063,purchase,1,4,child,term
-u30,p7,standard,11,0.16,environment,False,0.012,add to cart,9,2,evidence,difficult
-u33,p9,dark,85,0.58,floor,True,0.041,add to cart,4,5,most,fly
-u67,p19,air,11,0.74,add,False,0.076,purchase,1,4,drive,such
-u51,p8,follow,27,0.68,husband,False,0.094,view,2,5,drop,seek
-u7,p12,seek,99,0.27,feeling,True,0.016,purchase,4,2,sit,above
-u40,p17,single,78,0.93,full,True,0.088,view,10,4,however,staff
-u10,p18,usually,55,0.17,investment,True,0.014,view,3,2,weight,beat
-u80,p16,son,84,0.42,again,False,0.025,view,5,1,girl,training
-u61,p20,blood,40,0.21,war,False,0.054,purchase,1,2,event,around
-u50,p8,degree,16,0.49,follow,True,0.05,view,9,1,drop,seek
-u61,p6,two,84,0.84,decide,False,0.004,purchase,2,5,general,lose
-u30,p5,ground,70,0.95,strong,False,0.099,view,4,3,hand,just
-u59,p6,sense,33,0.04,light,False,0.012,view,6,3,general,lose
-u72,p12,investment,40,0.43,behavior,True,0.005,purchase,6,5,sit,above
-u14,p7,cold,1,0.89,seven,False,0.089,view,5,2,evidence,difficult
-u86,p17,wife,98,0.35,indeed,True,0.057,view,8,1,however,staff
-u91,p15,to,28,0.9,now,True,0.068,purchase,4,3,suddenly,ability
-u49,p8,interest,11,0.9,food,False,0.025,purchase,1,1,drop,seek
-u4,p9,nice,76,0.63,room,False,0.028,add to cart,5,2,most,fly
-u77,p19,article,37,0.36,store,False,0.018,add to cart,2,1,drive,such
-u49,p9,receive,83,0.44,whole,False,0.016,add to cart,1,5,most,fly
-u33,p10,year,44,0.34,weight,False,0.034,view,10,3,tonight,six
-u56,p16,single,65,0.68,authority,True,0.007,add to cart,4,1,girl,training
-u74,p17,opportunity,97,0.35,manage,True,0.021,view,10,3,however,staff
-u62,p8,conference,7,0.62,tell,False,0.037,view,6,3,drop,seek
-u71,p6,Congress,78,0.08,that,False,0.091,add to cart,3,1,general,lose
-u75,p7,attention,44,0.65,school,False,0.073,view,3,1,evidence,difficult
-u59,p4,none,34,0.84,consider,True,0.029,purchase,6,2,west,loss
-u41,p13,ever,72,0.15,you,False,0.038,purchase,8,2,choose,ever
-u6,p10,join,100,0.29,power,True,0.031,purchase,9,3,tonight,six
-u91,p17,quite,92,0.64,common,True,0.012,purchase,10,5,however,staff
-u73,p17,Congress,96,0.74,value,True,0.03,add to cart,5,5,however,staff
-u48,p18,traditional,49,0.36,free,False,0.017,purchase,9,1,weight,beat
-u9,p12,term,69,0.93,protect,True,0.062,view,4,5,sit,above
-u44,p13,able,14,0.39,trip,False,0.03,view,1,4,choose,ever
-u59,p2,forward,33,0.64,debate,True,0.1,add to cart,8,3,child,term
-u58,p16,voice,62,0.56,no,False,0.066,view,2,1,girl,training
-u22,p19,democratic,70,0.3,to,True,0.013,purchase,4,4,drive,such
-u92,p1,beyond,64,0.72,front,False,0.052,add to cart,5,2,movie,yes
-u76,p6,measure,91,0.81,budget,True,0.098,purchase,3,2,general,lose
-u40,p15,live,43,0.99,choose,False,0.052,add to cart,4,5,suddenly,ability
-u3,p3,strategy,6,0.94,their,False,0.001,view,6,5,whatever,group
-u66,p6,fund,30,0.97,event,True,0.002,view,1,3,general,lose
-u20,p8,may,8,0.08,after,False,0.049,add to cart,10,5,drop,seek
-u58,p13,minute,5,0.55,member,False,0.053,view,6,5,choose,ever
-u54,p4,police,1,0.72,garden,False,0.052,add to cart,6,3,west,loss
-u91,p20,inside,41,0.84,eight,False,0.09,add to cart,8,4,event,around
-u29,p5,good,24,0.73,character,True,0.047,add to cart,10,4,hand,just
-u19,p5,soldier,8,0.07,grow,False,0.037,add to cart,9,2,hand,just
-u43,p14,travel,65,0.59,himself,False,0.041,view,3,2,become,herself
-u93,p12,college,16,0.17,professional,False,0.026,add to cart,6,3,sit,above
-u71,p18,century,34,0.26,rule,False,0.052,view,9,3,weight,beat
-u77,p16,while,18,0.99,across,True,0.056,add to cart,7,3,girl,training
-u63,p10,let,15,0.93,happen,True,0.09,view,6,4,tonight,six
-u35,p18,sound,60,0.47,myself,False,0.085,purchase,2,2,weight,beat
-u28,p1,view,76,0.41,very,True,0.052,purchase,2,2,movie,yes
-u76,p19,expert,32,0.56,activity,True,0.046,add to cart,2,4,drive,such
-u23,p1,college,83,0.37,firm,False,0.1,purchase,5,2,movie,yes
-u66,p17,enjoy,52,0.5,own,True,0.041,add to cart,6,3,however,staff
-u16,p4,sport,52,0.06,why,False,0.034,add to cart,10,3,west,loss
-u26,p13,agree,39,0.26,important,False,0.006,add to cart,6,1,choose,ever
-u31,p11,because,45,0.45,apply,False,0.073,add to cart,7,2,behavior,rise
-u5,p18,fear,19,0.95,speech,False,0.083,add to cart,4,2,weight,beat
-u76,p17,thing,9,0.05,none,False,0.047,view,7,4,however,staff
-u79,p5,order,58,0.72,between,False,0.038,add to cart,4,5,hand,just
-u50,p15,town,82,0.36,position,True,0.057,view,4,4,suddenly,ability
-u26,p19,model,69,0.91,record,False,0.085,purchase,7,1,drive,such
-u68,p10,return,26,0.14,glass,True,0.074,add to cart,9,5,tonight,six
-u39,p7,court,12,0.18,certain,True,0.086,purchase,6,2,evidence,difficult
-u5,p11,maintain,64,0.72,fly,False,0.036,add to cart,10,5,behavior,rise
-u50,p8,science,29,0.04,recognize,False,0.022,purchase,9,2,drop,seek
-u8,p2,deal,35,0.25,her,True,0.004,purchase,8,1,child,term
-u27,p9,international,81,0.17,body,False,0.044,purchase,5,3,most,fly
-u69,p13,southern,35,0.12,road,True,0.008,add to cart,9,1,choose,ever
-u44,p19,say,57,0.69,already,False,0.064,add to cart,8,1,drive,such
-u5,p16,young,73,0.73,trial,True,0.029,add to cart,5,5,girl,training
-u35,p16,agency,70,0.32,whatever,True,0.042,purchase,10,2,girl,training
-u67,p3,month,30,0.99,speech,False,0.031,view,7,3,whatever,group
-u79,p6,simply,73,0.33,find,True,0.058,view,6,2,general,lose
-u36,p18,scientist,87,0.27,stay,False,0.032,add to cart,8,1,weight,beat
-u49,p6,TV,87,0.89,subject,False,0.043,view,8,4,general,lose
-u8,p14,some,76,0.69,total,False,0.038,view,10,3,become,herself
-u53,p10,performance,73,0.99,thought,False,0.092,add to cart,2,2,tonight,six
-u30,p6,off,28,0.33,family,False,0.084,view,8,4,general,lose
-u68,p20,professional,45,0.69,seem,True,0.066,view,3,2,event,around
-u28,p3,much,48,0.64,property,False,0.007,purchase,2,4,whatever,group
-u65,p20,contain,11,0.49,laugh,True,0.054,view,2,1,event,around
-u96,p2,talk,57,0.45,kind,True,0.048,view,6,5,child,term
-u3,p18,husband,59,0.4,try,False,0.044,add to cart,6,5,weight,beat
-u63,p5,special,17,0.77,soon,False,0.08,add to cart,1,4,hand,just
-u31,p11,agreement,4,0.61,majority,True,0.01,purchase,4,3,behavior,rise
-u39,p11,follow,6,0.21,participant,False,0.03,purchase,2,2,behavior,rise
-u82,p16,tonight,93,0.36,newspaper,True,0.049,view,4,1,girl,training
-u57,p11,them,43,0.68,child,False,0.093,purchase,5,3,behavior,rise
-u46,p15,kitchen,30,0.68,behavior,False,0.013,purchase,5,4,suddenly,ability
-u85,p9,decision,30,0.53,example,True,0.021,view,9,3,most,fly
-u97,p14,book,9,0.15,manager,False,0.088,add to cart,3,5,become,herself
-u3,p12,machine,27,0.39,ball,False,0.044,add to cart,2,3,sit,above
-u16,p15,weight,9,0.3,she,False,0.072,add to cart,3,4,suddenly,ability
-u4,p11,every,23,0.88,later,False,0.039,view,6,1,behavior,rise
-u19,p11,down,82,0.63,several,True,0.009,purchase,7,4,behavior,rise
-u38,p7,significant,28,0.27,agreement,False,0.05,add to cart,4,1,evidence,difficult
-u56,p2,sometimes,12,0.17,network,False,0.059,view,4,2,child,term
-u44,p1,thus,66,0.27,cover,False,0.014,purchase,5,2,movie,yes
-u23,p12,among,67,0.95,involve,True,0.07,add to cart,8,2,sit,above
-u56,p5,bank,64,0.57,commercial,False,0.097,view,9,5,hand,just
-u74,p9,fall,74,0.43,develop,False,0.066,view,6,3,most,fly
-u27,p6,pick,88,0.38,she,False,0.09,view,2,2,general,lose
-u36,p1,kitchen,3,0.69,democratic,True,0.026,purchase,7,2,movie,yes
-u22,p2,account,77,0.11,hand,True,0.049,purchase,2,5,child,term
-u18,p3,real,6,0.72,term,False,0.02,add to cart,2,5,whatever,group
-u65,p16,prepare,30,0.47,relate,False,0.053,view,5,2,girl,training
-u25,p14,light,48,0.7,choose,False,0.058,purchase,7,3,become,herself
-u10,p4,service,7,0.96,successful,False,0.031,purchase,9,3,west,loss
-u34,p1,foot,87,0.03,two,True,0.032,add to cart,4,5,movie,yes
-u47,p16,notice,57,0.45,still,True,0.039,add to cart,5,2,girl,training
-u5,p2,class,65,0.74,actually,False,0.059,purchase,9,3,child,term
-u13,p14,page,29,0.89,structure,False,0.062,view,9,3,become,herself
-u4,p19,activity,40,0.66,rest,True,0.087,view,7,5,drive,such
-u60,p14,reality,76,0.27,media,False,0.098,view,7,3,become,herself
-u9,p6,rate,40,0.78,up,False,0.05,purchase,4,5,general,lose
-u58,p9,above,53,0.56,traditional,True,0.042,purchase,6,4,most,fly
-u24,p3,last,20,0.36,population,True,0.064,purchase,6,1,whatever,group
-u85,p1,stage,70,0.85,improve,True,0.087,view,6,5,movie,yes
-u100,p3,doctor,19,0.03,it,True,0.076,view,3,1,whatever,group
-u69,p17,war,81,0.25,member,False,0.012,add to cart,1,5,however,staff
-u93,p9,fish,58,0.81,defense,False,0.073,add to cart,9,1,most,fly
-u75,p20,live,82,0.9,or,False,0.048,add to cart,4,4,event,around
-u27,p16,front,20,0.82,local,True,0.032,view,3,4,girl,training
-u39,p7,improve,85,0.01,low,True,0.006,add to cart,9,3,evidence,difficult
-u4,p2,difficult,5,0.83,team,True,0.074,add to cart,10,4,child,term
-u99,p12,reach,45,0.16,trip,False,0.093,add to cart,4,5,sit,above
-u68,p8,both,14,0.35,born,True,0.056,purchase,9,4,drop,seek
-u80,p7,those,69,0.83,art,True,0.017,view,5,3,evidence,difficult
-u62,p8,choose,100,0.14,including,False,0.08,add to cart,4,2,drop,seek
-u52,p20,imagine,63,0.02,recently,False,0.094,purchase,1,1,event,around
-u44,p16,reveal,49,0.78,American,False,0.044,view,5,5,girl,training
-u79,p19,another,68,0.08,build,True,0.063,purchase,4,1,drive,such
-u17,p10,everything,19,0.26,bank,False,0.037,view,10,1,tonight,six
-u57,p3,save,38,0.73,smile,True,0.024,purchase,3,4,whatever,group
-u68,p20,one,69,0.98,analysis,False,0.011,purchase,2,4,event,around
-u52,p15,situation,40,0.49,reflect,True,0.033,add to cart,6,4,suddenly,ability
-u6,p16,skill,79,0.88,short,True,0.035,purchase,10,4,girl,training
-u20,p20,late,72,0.58,later,False,0.075,add to cart,7,5,event,around
-u92,p4,become,62,0.44,music,True,0.047,add to cart,6,4,west,loss
-u73,p20,dream,7,0.4,word,False,0.016,view,4,1,event,around
-u17,p12,side,75,0.8,find,True,0.071,view,9,5,sit,above
-u78,p14,bank,97,0.03,send,True,0.067,add to cart,10,5,become,herself
-u54,p5,election,87,0.16,staff,True,0.003,add to cart,1,4,hand,just
-u89,p16,present,73,0.05,field,False,0.087,view,1,4,girl,training
-u4,p8,pretty,3,0.47,produce,False,0.003,view,6,1,drop,seek
-u92,p5,where,55,0.93,image,True,0.093,add to cart,3,3,hand,just
-u49,p18,everybody,52,0.6,prove,True,0.001,add to cart,7,1,weight,beat
-u42,p5,enter,95,0.08,fill,True,0.073,purchase,4,5,hand,just
-u10,p16,simple,31,0.59,office,False,0.1,view,1,3,girl,training
-u78,p6,get,64,0.75,writer,True,0.052,purchase,4,4,general,lose
-u52,p1,easy,44,0.11,visit,True,0.054,purchase,6,5,movie,yes
-u79,p2,term,63,0.62,save,True,0.034,add to cart,7,2,child,term
-u21,p12,reality,83,0.6,parent,True,0.002,view,8,3,sit,above
-u85,p1,some,38,0.48,story,True,0.051,purchase,4,4,movie,yes
-u20,p13,large,62,0.64,sea,False,0.074,purchase,8,1,choose,ever
-u70,p13,also,60,0.82,check,True,0.009,view,1,2,choose,ever
-u75,p1,future,72,0.38,carry,True,0.027,view,5,3,movie,yes
-u74,p16,voice,84,0.24,my,True,0.005,add to cart,4,4,girl,training
-u13,p1,fund,61,0.38,note,False,0.068,view,8,4,movie,yes
-u32,p15,worker,81,0.33,rather,False,0.092,view,2,1,suddenly,ability
-u12,p14,note,18,0.93,threat,False,0.022,purchase,8,2,become,herself
-u39,p20,live,89,0.76,economy,False,0.018,purchase,8,4,event,around
-u89,p12,idea,74,0.4,oil,True,0.057,add to cart,2,2,sit,above
-u88,p4,decade,28,0.02,including,False,0.007,view,5,2,west,loss
-u11,p17,ground,85,0.79,just,True,0.07,view,3,1,however,staff
-u65,p8,example,34,0.56,rate,True,0.068,view,3,2,drop,seek
-u32,p15,peace,88,0.02,plan,False,0.054,view,2,4,suddenly,ability
-u85,p17,investment,9,0.54,test,True,0.088,purchase,2,3,however,staff
-u11,p11,soon,100,0.84,herself,False,0.026,add to cart,7,2,behavior,rise
-u21,p9,candidate,6,0.45,street,True,0.091,purchase,1,2,most,fly
-u74,p6,body,50,0.68,treatment,True,0.041,view,2,1,general,lose
-u36,p15,as,36,0.73,else,False,0.095,purchase,8,2,suddenly,ability
-u39,p10,reason,62,0.85,possible,True,0.014,view,9,3,tonight,six
-u87,p9,collection,48,0.9,alone,False,0.075,view,3,1,most,fly
-u59,p9,stage,88,0.03,this,True,0.091,view,10,4,most,fly
-u35,p5,away,91,0.78,none,True,0.022,add to cart,5,2,hand,just
-u83,p18,data,34,0.36,full,True,0.092,view,5,4,weight,beat
-u78,p13,public,22,0.01,wait,True,0.04,view,4,4,choose,ever
-u91,p2,not,40,0.24,region,False,0.026,view,9,1,child,term
-u22,p12,result,56,0.32,kitchen,False,0.037,add to cart,10,4,sit,above
-u38,p15,think,65,0.09,throughout,True,0.043,purchase,7,2,suddenly,ability
-u44,p18,population,40,0.43,until,True,0.067,view,1,1,weight,beat
-u98,p8,tough,50,0.67,learn,True,0.041,purchase,4,3,drop,seek
-u4,p7,almost,48,0.61,before,True,0.082,purchase,3,3,evidence,difficult
-u78,p2,serious,69,0.43,second,False,0.093,add to cart,5,3,child,term
-u71,p18,source,82,0.29,sit,False,0.076,purchase,7,2,weight,beat
-u41,p3,light,77,0.41,respond,True,0.042,add to cart,6,4,whatever,group
-u79,p13,there,60,0.59,him,True,0.096,view,8,4,choose,ever
-u96,p5,participant,40,0.07,fast,True,0.1,purchase,5,5,hand,just
-u51,p7,fill,47,0.49,line,True,0.074,view,7,3,evidence,difficult
-u11,p16,unit,60,0.33,between,False,0.097,add to cart,1,5,girl,training
-u34,p5,myself,22,0.75,minute,False,0.015,purchase,4,1,hand,just
-u50,p9,learn,81,0.7,Mrs,False,0.03,view,8,4,most,fly
-u99,p18,leave,70,0.88,different,False,0.076,purchase,4,1,weight,beat
-u51,p14,direction,88,0.3,commercial,True,0.048,add to cart,6,4,become,herself
-u10,p15,question,21,0.31,quickly,True,0.088,purchase,3,3,suddenly,ability
-u51,p12,whatever,80,0.12,what,True,0.004,purchase,3,3,sit,above
-u60,p19,shake,86,0.01,difference,False,0.029,view,5,2,drive,such
-u91,p9,simply,71,0.77,work,False,0.025,view,10,2,most,fly
-u92,p5,run,83,0.9,south,True,0.067,purchase,3,3,hand,just
-u82,p5,west,35,0.67,fast,False,0.084,add to cart,3,4,hand,just
-u3,p19,even,26,0.92,family,False,0.093,purchase,1,3,drive,such
-u77,p9,according,11,0.7,open,True,0.086,purchase,9,3,most,fly
-u88,p4,individual,98,0.4,beautiful,False,0.026,purchase,2,4,west,loss
-u70,p15,quite,1,0.01,high,True,0.068,view,9,5,suddenly,ability
-u11,p20,land,41,0.76,happy,False,0.063,purchase,5,3,event,around
-u95,p17,another,6,0.99,news,False,0.06,purchase,8,1,however,staff
-u69,p19,knowledge,51,0.2,discuss,False,0.02,purchase,3,4,drive,such
-u8,p11,my,2,0.88,four,False,0.082,view,9,3,behavior,rise
-u50,p15,catch,84,0.89,ten,False,0.046,purchase,10,2,suddenly,ability
-u96,p2,others,73,0.25,almost,False,0.082,purchase,3,5,child,term
-u99,p4,reason,52,0.84,pay,True,0.007,view,2,1,west,loss
-u24,p8,author,99,0.86,that,False,0.067,add to cart,4,5,drop,seek
-u90,p4,moment,14,0.48,cost,True,0.016,purchase,6,2,west,loss
-u18,p7,alone,14,0.43,argue,False,0.091,view,2,5,evidence,difficult
-u76,p16,interest,53,0.38,this,False,0.075,view,4,4,girl,training
-u96,p1,little,11,0.28,itself,False,0.012,view,6,2,movie,yes
-u56,p15,speech,85,0.18,every,False,0.089,add to cart,3,3,suddenly,ability
-u60,p5,drop,12,0.22,ability,False,0.031,add to cart,3,2,hand,just
-u60,p11,land,39,0.67,share,True,0.029,add to cart,9,3,behavior,rise
-u90,p6,dream,49,0.82,foreign,False,0.085,view,5,4,general,lose
-u83,p19,computer,5,0.13,her,True,0.056,purchase,1,5,drive,such
-u33,p12,month,80,0.12,half,False,0.001,purchase,3,4,sit,above
-u92,p1,left,47,0.32,party,False,0.08,view,8,1,movie,yes
-u3,p14,cut,79,0.82,television,True,0.064,view,4,2,become,herself
-u48,p12,provide,1,0.29,each,False,0.027,add to cart,7,1,sit,above
-u17,p7,question,92,0.33,billion,True,0.097,view,1,1,evidence,difficult
-u57,p11,play,28,0.55,weight,True,0.005,view,4,2,behavior,rise
-u18,p16,she,37,0.63,development,True,0.086,view,1,1,girl,training
-u50,p15,growth,21,0.01,baby,False,0.041,add to cart,10,2,suddenly,ability
-u95,p4,lawyer,37,0.02,wind,True,0.065,add to cart,6,2,west,loss
-u13,p15,black,77,0.92,recently,False,0.018,add to cart,4,2,suddenly,ability
-u50,p6,debate,9,0.72,table,False,0.074,view,4,4,general,lose
-u70,p10,cause,55,0.71,want,False,0.027,purchase,10,1,tonight,six
-u58,p12,society,98,0.51,garden,False,0.026,add to cart,3,5,sit,above
-u94,p8,why,19,0.57,order,True,0.002,purchase,9,5,drop,seek
-u100,p15,because,57,0.6,spend,True,0.03,purchase,9,5,suddenly,ability
-u92,p18,face,51,0.42,personal,True,0.092,purchase,4,4,weight,beat
-u42,p14,foreign,51,0.24,population,True,0.032,view,5,4,become,herself
-u93,p5,upon,75,0.77,fast,True,0.024,view,10,5,hand,just
-u3,p3,change,57,0.4,and,False,0.063,purchase,9,5,whatever,group
-u56,p1,pull,60,0.17,reveal,True,0.003,purchase,8,3,movie,yes
-u13,p20,class,2,0.47,reason,True,0.061,view,5,2,event,around
-u60,p14,nice,90,0.52,small,False,0.042,purchase,2,2,become,herself
-u93,p6,military,85,0.3,join,False,0.052,add to cart,3,5,general,lose
-u18,p16,travel,40,0.92,thing,False,0.056,add to cart,3,2,girl,training
-u8,p6,girl,35,0.08,market,True,0.022,add to cart,8,3,general,lose
-u72,p17,cut,6,0.67,hospital,True,0.001,purchase,9,3,however,staff
-u96,p14,wrong,68,0.92,let,True,0.048,view,2,2,become,herself
-u12,p8,whom,82,0.61,first,True,0.05,view,10,5,drop,seek
-u4,p7,require,48,0.7,finally,True,0.086,purchase,2,3,evidence,difficult
-u62,p8,respond,55,0.44,politics,False,0.011,add to cart,10,2,drop,seek
-u57,p20,seven,21,0.3,head,True,0.064,add to cart,9,3,event,around
-u31,p8,figure,57,0.11,morning,True,0.054,purchase,2,1,drop,seek
-u36,p12,subject,93,0.84,resource,False,0.028,view,7,3,sit,above
-u72,p18,heavy,11,0.53,enough,True,0.065,purchase,2,3,weight,beat
-u28,p4,prepare,56,0.05,majority,False,0.015,view,1,5,west,loss
-u49,p16,unit,54,0.88,evidence,True,0.031,add to cart,6,4,girl,training
-u13,p17,whole,28,0.14,full,False,0.001,add to cart,7,5,however,staff
-u82,p15,election,11,0.02,during,False,0.096,add to cart,10,3,suddenly,ability
-u79,p5,home,62,0.75,serious,False,0.019,view,8,1,hand,just
-u14,p2,question,74,0.77,describe,True,0.079,add to cart,8,5,child,term
-u57,p19,free,12,0.12,middle,False,0.051,add to cart,6,4,drive,such
-u57,p4,partner,28,0.46,everyone,False,0.082,purchase,7,4,west,loss
-u37,p20,wait,31,0.92,less,True,0.083,view,6,1,event,around
-u8,p18,six,70,0.34,enough,True,0.063,view,6,3,weight,beat
-u27,p14,end,16,0.54,property,True,0.052,view,2,4,become,herself
-u48,p2,our,35,0.8,science,False,0.01,view,9,1,child,term
-u80,p2,property,88,0.73,medical,True,0.079,add to cart,7,4,child,term
-u46,p7,unit,85,0.23,focus,False,0.053,view,1,1,evidence,difficult
-u21,p4,there,82,0.88,trip,False,0.04,purchase,9,5,west,loss
-u3,p10,skin,16,0.22,democratic,True,0.022,purchase,4,1,tonight,six
-u59,p8,interview,17,0.2,heavy,False,0.075,add to cart,7,2,drop,seek
-u23,p5,force,64,0.81,perhaps,False,0.048,view,1,3,hand,just
-u4,p10,whether,18,0.61,be,False,0.04,view,7,5,tonight,six
-u36,p8,myself,12,0.78,special,True,0.011,view,6,5,drop,seek
-u13,p18,no,16,0.47,full,True,0.098,purchase,1,5,weight,beat
-u32,p7,man,3,0.93,television,False,0.002,add to cart,7,4,evidence,difficult
-u90,p12,quickly,34,0.98,statement,False,0.018,add to cart,6,2,sit,above
-u68,p19,against,73,0.31,him,True,0.1,view,3,4,drive,such
-u50,p17,international,54,0.88,service,False,0.071,add to cart,4,3,however,staff
-u81,p17,stop,49,0.47,show,False,0.014,purchase,3,4,however,staff
-u75,p8,agreement,77,0.77,outside,False,0.058,add to cart,5,4,drop,seek
-u75,p1,interview,27,0.13,administration,False,0.054,purchase,7,5,movie,yes
-u88,p3,mouth,40,0.58,east,True,0.009,view,7,2,whatever,group
-u54,p15,entire,3,0.42,adult,True,0.047,purchase,10,1,suddenly,ability
-u57,p17,sell,65,0.28,lose,True,0.081,view,8,1,however,staff
-u10,p16,type,21,0.18,clearly,False,0.072,add to cart,8,1,girl,training
-u54,p11,allow,38,0.12,left,True,0.002,view,2,4,behavior,rise
-u69,p13,send,58,0.43,whom,False,0.079,view,7,3,choose,ever
-u42,p19,nation,66,0.85,create,False,0.088,view,2,1,drive,such
-u79,p12,letter,12,0.08,kid,True,0.018,purchase,7,1,sit,above
-u43,p8,face,32,0.21,draw,True,0.091,add to cart,10,4,drop,seek
-u88,p19,later,78,0.31,personal,False,0.02,add to cart,4,4,drive,such
-u35,p4,we,31,0.07,rest,True,0.045,purchase,6,5,west,loss
-u48,p10,piece,63,0.75,article,True,0.062,purchase,2,2,tonight,six
-u6,p13,voice,23,0.05,Mr,True,0.035,add to cart,6,2,choose,ever
-u12,p14,certain,5,0.21,information,True,0.005,add to cart,2,3,become,herself
-u72,p8,six,19,0.83,talk,True,0.097,add to cart,6,1,drop,seek
-u34,p14,light,72,0.27,hospital,False,0.096,view,3,1,become,herself
-u76,p6,hit,41,0.81,cut,True,0.068,purchase,8,1,general,lose
-u99,p7,put,74,0.81,water,True,0.038,add to cart,10,4,evidence,difficult
-u27,p17,approach,23,0.4,feeling,True,0.035,add to cart,2,5,however,staff
-u73,p10,fish,71,0.77,degree,True,0.051,purchase,4,5,tonight,six
-u15,p7,bar,84,0.71,establish,True,0.057,purchase,1,1,evidence,difficult
-u48,p10,number,96,0.5,blue,False,0.049,purchase,2,5,tonight,six
-u71,p12,water,64,0.47,material,True,0.047,purchase,5,3,sit,above
-u56,p8,situation,72,0.66,author,True,0.032,add to cart,5,2,drop,seek
-u31,p12,pick,24,0.22,main,False,0.024,add to cart,4,3,sit,above
-u19,p18,herself,8,0.82,theory,True,0.018,purchase,9,2,weight,beat
-u30,p16,hotel,86,0.04,total,True,0.074,purchase,1,2,girl,training
-u70,p11,rule,14,0.64,even,True,0.001,add to cart,8,3,behavior,rise
-u75,p2,significant,31,0.6,wide,False,0.032,add to cart,2,3,child,term
-u1,p11,option,81,0.52,game,False,0.078,add to cart,8,1,behavior,rise
-u30,p4,evening,47,0.84,begin,False,0.083,purchase,7,4,west,loss
-u96,p14,few,6,0.06,special,True,0.1,add to cart,7,2,become,herself
-u40,p15,discussion,47,0.96,method,False,0.049,view,8,4,suddenly,ability
-u30,p18,beautiful,71,0.99,future,True,0.043,purchase,7,1,weight,beat
-u48,p13,edge,85,0.83,traditional,True,0.033,add to cart,7,2,choose,ever
-u45,p20,attorney,64,0.44,usually,False,0.008,add to cart,10,3,event,around
-u50,p12,stock,78,0.23,somebody,True,0.012,add to cart,8,5,sit,above
-u76,p17,guess,69,0.22,can,False,0.012,view,6,2,however,staff
-u58,p6,product,58,0.66,occur,True,0.035,purchase,1,4,general,lose
-u49,p8,major,42,0.5,many,True,0.09,purchase,5,5,drop,seek
-u32,p17,generation,52,0.02,interest,True,0.049,purchase,7,2,however,staff
-u83,p20,cell,81,0.62,ten,False,0.052,add to cart,10,5,event,around
-u53,p15,simple,39,0.43,partner,True,0.078,add to cart,1,2,suddenly,ability
-u21,p17,continue,42,0.38,one,True,0.092,view,9,2,however,staff
-u15,p17,something,52,0.54,community,False,0.069,view,10,5,however,staff
-u82,p11,not,89,0.58,compare,True,0.095,purchase,10,1,behavior,rise
-u83,p5,protect,68,0.86,guess,True,0.039,purchase,6,1,hand,just
-u58,p20,central,68,0.82,network,True,0.012,purchase,10,5,event,around
-u20,p2,study,59,0.19,red,False,0.087,add to cart,9,1,child,term
-u50,p12,myself,38,0.12,imagine,False,0.076,purchase,4,1,sit,above
-u38,p16,himself,16,0.35,road,False,0.068,view,7,5,girl,training
-u49,p2,listen,65,1.0,almost,False,0.099,view,1,1,child,term
-u75,p11,husband,87,0.06,quite,False,0.077,purchase,10,2,behavior,rise
-u61,p9,decade,44,0.34,law,True,0.038,add to cart,3,2,most,fly
-u65,p5,high,72,0.8,power,False,0.004,add to cart,6,4,hand,just
-u21,p5,quickly,56,0.83,girl,True,0.049,view,9,3,hand,just
+u25,p1,current,33,0.31,beautiful,True,0.072,view,6,3,condition,fashion
+u75,p12,charge,39,0.85,cover,False,0.093,purchase,2,3,become,home
+u84,p15,pass,74,0.24,through,False,0.094,view,7,4,leg,books
+u72,p3,heart,47,0.34,book,True,0.068,view,7,1,thousand,fashion
+u22,p2,agent,82,0.05,talk,False,0.052,view,7,5,available,electronics
+u35,p4,seat,41,0.45,idea,False,0.063,purchase,2,2,program,beauty
+u62,p3,grow,6,0.66,our,False,0.015,add to cart,3,2,thousand,fashion
+u51,p16,manage,32,0.33,seat,True,0.027,add to cart,7,4,smile,books
+u61,p12,analysis,36,0.86,her,False,0.045,view,4,3,become,home
+u60,p8,history,54,0.65,else,True,0.092,add to cart,1,1,tough,books
+u76,p5,when,51,0.76,increase,True,0.096,view,3,2,media,electronics
+u4,p19,fish,9,0.48,bill,True,0.001,add to cart,3,1,indicate,home
+u62,p14,audience,2,0.97,me,True,0.019,add to cart,1,1,describe,books
+u20,p13,beautiful,80,0.9,over,False,0.07,view,6,5,cover,electronics
+u48,p14,cost,99,0.77,magazine,False,0.049,purchase,5,3,describe,books
+u59,p1,her,27,0.49,stay,False,0.083,view,2,1,condition,fashion
+u4,p4,speak,57,0.49,per,True,0.043,add to cart,9,5,program,beauty
+u50,p11,lawyer,98,0.64,tell,True,0.085,purchase,2,1,open,beauty
+u27,p7,situation,34,0.39,news,False,0.054,add to cart,7,1,do,books
+u16,p3,report,83,0.72,blue,False,0.053,purchase,3,1,thousand,fashion
+u98,p8,available,35,0.77,trouble,True,0.029,view,3,4,tough,books
+u50,p4,carry,94,0.63,daughter,False,0.08,view,10,4,program,beauty
+u27,p4,drive,93,0.37,close,False,0.099,purchase,4,1,program,beauty
+u18,p17,successful,14,0.98,far,True,0.078,add to cart,3,2,yet,electronics
+u42,p5,history,46,0.96,box,False,0.054,view,1,5,media,electronics
+u84,p19,service,98,0.85,not,False,0.029,add to cart,2,1,indicate,home
+u47,p16,age,69,0.32,good,True,0.062,view,8,3,smile,books
+u23,p1,medical,45,0.33,the,False,0.041,view,8,5,condition,fashion
+u53,p6,where,62,0.82,the,True,0.044,add to cart,8,5,early,fashion
+u83,p20,window,37,0.15,focus,False,0.036,view,5,5,claim,beauty
+u81,p7,international,36,0.36,fear,True,0.097,purchase,5,4,do,books
+u59,p10,pick,62,0.32,think,True,0.069,add to cart,5,5,whether,fashion
+u95,p18,style,44,0.21,good,True,0.096,add to cart,7,3,food,fashion
+u89,p6,fish,49,0.09,mission,True,0.04,add to cart,1,5,early,fashion
+u33,p5,anyone,61,0.01,have,False,0.03,add to cart,5,2,media,electronics
+u96,p2,suggest,27,0.73,perhaps,True,0.058,purchase,4,3,available,electronics
+u58,p7,wait,97,0.95,quality,False,0.058,view,1,1,do,books
+u48,p16,theory,40,0.98,police,True,0.026,add to cart,10,5,smile,books
+u47,p14,report,39,0.33,participant,True,0.098,add to cart,2,2,describe,books
+u77,p9,put,70,0.85,create,True,0.049,view,7,3,rate,beauty
+u17,p7,pattern,91,0.63,try,True,0.068,view,9,5,do,books
+u86,p11,word,48,0.72,century,True,0.094,purchase,1,5,open,beauty
+u2,p19,rise,41,0.58,member,False,0.038,purchase,5,2,indicate,home
+u61,p5,card,34,0.38,news,False,0.039,purchase,10,4,media,electronics
+u6,p3,article,82,0.38,lose,False,0.05,add to cart,5,5,thousand,fashion
+u13,p4,goal,94,0.69,return,True,0.086,add to cart,7,2,program,beauty
+u68,p11,himself,45,0.43,strategy,True,0.034,view,4,4,open,beauty
+u96,p4,member,73,0.77,mean,False,0.06,view,6,3,program,beauty
+u49,p3,hard,34,0.53,soldier,False,0.064,add to cart,3,5,thousand,fashion
+u50,p13,if,17,0.4,which,False,0.085,purchase,7,2,cover,electronics
+u6,p4,attack,22,0.6,bring,False,0.087,view,9,1,program,beauty
+u65,p17,develop,18,0.29,someone,False,0.08,add to cart,3,1,yet,electronics
+u54,p17,body,86,0.61,bad,True,0.04,purchase,1,3,yet,electronics
+u80,p16,leave,29,0.72,will,True,0.068,purchase,8,2,smile,books
+u30,p13,keep,15,0.69,material,True,0.015,purchase,9,3,cover,electronics
+u95,p20,although,58,0.5,hotel,False,0.011,view,8,4,claim,beauty
+u55,p4,art,76,0.07,arm,True,0.052,add to cart,7,2,program,beauty
+u98,p4,nor,99,0.79,environment,False,0.07,purchase,10,2,program,beauty
+u46,p6,second,23,0.49,remember,True,0.066,purchase,6,2,early,fashion
+u95,p7,smile,64,0.17,watch,True,0.012,add to cart,5,3,do,books
+u46,p15,myself,92,0.43,teach,True,0.036,purchase,8,1,leg,books
+u7,p4,blood,14,0.26,offer,False,0.09,purchase,1,2,program,beauty
+u3,p1,political,43,0.98,hit,True,0.083,purchase,5,3,condition,fashion
+u33,p7,foot,85,0.93,natural,True,0.037,purchase,2,1,do,books
+u88,p18,main,53,0.24,ahead,False,0.006,add to cart,2,3,food,fashion
+u70,p5,less,76,0.01,buy,False,0.053,add to cart,3,3,media,electronics
+u45,p1,condition,91,0.44,small,True,0.003,purchase,8,1,condition,fashion
+u63,p12,hospital,22,0.79,whatever,False,0.051,view,5,3,become,home
+u23,p2,air,77,0.75,door,False,0.013,purchase,2,4,available,electronics
+u42,p1,recent,55,0.53,ahead,False,0.095,add to cart,3,1,condition,fashion
+u3,p2,size,3,0.25,writer,True,0.097,purchase,2,5,available,electronics
+u72,p9,whatever,5,0.88,else,True,0.058,purchase,2,5,rate,beauty
+u26,p6,here,37,0.99,she,True,0.048,add to cart,7,2,early,fashion
+u31,p15,strategy,4,0.92,action,False,0.023,purchase,4,5,leg,books
+u33,p3,pick,92,0.25,big,False,0.066,view,8,4,thousand,fashion
+u9,p12,project,98,0.94,you,True,0.036,add to cart,2,4,become,home
+u72,p18,western,20,0.93,small,False,0.045,add to cart,10,2,food,fashion
+u10,p1,tend,45,0.42,fast,True,0.083,view,5,2,condition,fashion
+u44,p20,smile,24,0.01,forward,True,0.003,add to cart,3,2,claim,beauty
+u96,p4,support,83,0.82,if,True,0.04,purchase,3,5,program,beauty
+u18,p15,six,55,0.19,age,True,0.049,view,8,4,leg,books
+u89,p15,shake,91,0.58,north,False,0.028,purchase,9,1,leg,books
+u68,p15,human,55,0.72,month,False,0.099,purchase,10,3,leg,books
+u59,p15,product,13,0.52,trouble,True,0.09,view,1,3,leg,books
+u71,p11,begin,15,0.67,city,True,0.049,view,4,4,open,beauty
+u71,p14,direction,92,0.48,must,False,0.087,view,7,2,describe,books
+u97,p18,expect,84,0.53,true,True,0.014,add to cart,4,1,food,fashion
+u23,p5,spend,17,0.79,word,True,0.026,view,1,4,media,electronics
+u69,p2,we,39,0.56,clear,True,0.079,view,10,3,available,electronics
+u88,p9,place,41,0.3,your,True,0.039,view,7,5,rate,beauty
+u60,p15,involve,68,0.55,party,False,0.086,add to cart,5,2,leg,books
+u14,p20,international,94,0.92,month,False,0.022,view,10,5,claim,beauty
+u42,p11,here,77,0.46,traditional,True,0.011,purchase,2,4,open,beauty
+u42,p4,thousand,40,0.84,sort,True,0.099,view,8,4,program,beauty
+u42,p10,subject,30,0.3,but,False,0.033,purchase,5,3,whether,fashion
+u74,p9,increase,69,0.85,bar,False,0.016,purchase,2,5,rate,beauty
+u10,p4,easy,74,0.57,per,True,0.027,purchase,2,1,program,beauty
+u52,p1,network,10,0.62,coach,True,0.015,add to cart,10,5,condition,fashion
+u13,p20,late,92,0.43,fast,False,0.096,purchase,3,2,claim,beauty
+u2,p10,rich,10,0.53,throw,True,0.019,view,10,2,whether,fashion
+u8,p13,energy,57,0.61,win,False,0.087,add to cart,6,1,cover,electronics
+u60,p6,entire,89,0.62,those,False,0.042,view,6,4,early,fashion
+u58,p2,financial,82,0.63,federal,True,0.029,view,8,2,available,electronics
+u66,p16,hard,15,0.85,why,True,0.001,view,4,2,smile,books
+u39,p4,around,43,0.69,set,False,0.059,add to cart,4,5,program,beauty
+u29,p17,son,88,0.79,financial,False,0.024,view,6,2,yet,electronics
+u48,p9,party,76,0.54,player,True,0.064,purchase,6,5,rate,beauty
+u58,p6,street,25,0.94,perform,True,0.051,view,8,4,early,fashion
+u18,p19,term,34,0.67,couple,False,0.079,add to cart,9,4,indicate,home
+u6,p7,difference,49,0.32,sing,True,0.025,purchase,8,3,do,books
+u14,p17,subject,16,0.1,pay,False,0.09,view,7,2,yet,electronics
+u64,p2,story,76,0.29,quality,False,0.084,view,2,1,available,electronics
+u24,p6,science,62,0.34,election,True,0.088,add to cart,1,5,early,fashion
+u75,p1,throughout,44,0.59,believe,False,0.025,add to cart,3,5,condition,fashion
+u42,p16,trial,86,0.16,scientist,True,0.058,add to cart,5,2,smile,books
+u52,p13,within,99,0.3,already,False,0.054,add to cart,8,1,cover,electronics
+u62,p12,man,1,0.38,administration,True,0.099,view,3,1,become,home
+u6,p9,particularly,72,0.42,lot,False,0.021,purchase,10,4,rate,beauty
+u69,p19,today,17,0.73,operation,False,0.024,purchase,9,3,indicate,home
+u28,p13,decision,29,0.38,buy,True,0.071,purchase,3,2,cover,electronics
+u83,p17,almost,27,0.26,other,False,0.059,add to cart,9,4,yet,electronics
+u95,p20,effect,96,0.33,though,False,0.093,add to cart,8,5,claim,beauty
+u34,p4,young,39,1.0,lot,False,0.019,add to cart,5,5,program,beauty
+u27,p20,leader,62,0.6,significant,False,0.007,add to cart,10,5,claim,beauty
+u35,p7,experience,64,0.88,fly,False,0.042,add to cart,2,3,do,books
+u43,p4,stuff,67,0.05,peace,False,0.059,view,8,4,program,beauty
+u83,p1,cost,83,0.03,energy,True,0.057,view,8,5,condition,fashion
+u24,p11,almost,2,0.68,pick,True,0.036,view,4,2,open,beauty
+u40,p3,morning,14,0.11,church,True,0.068,purchase,3,1,thousand,fashion
+u63,p16,travel,28,0.06,raise,True,0.06,purchase,6,4,smile,books
+u30,p9,entire,25,0.24,central,False,0.084,view,1,1,rate,beauty
+u81,p8,pick,91,0.7,not,False,0.031,view,3,1,tough,books
+u54,p7,artist,81,0.51,myself,False,0.098,view,6,2,do,books
+u89,p5,media,26,0.5,present,False,0.025,purchase,2,5,media,electronics
+u40,p2,consumer,79,0.88,bill,False,0.081,add to cart,3,2,available,electronics
+u7,p15,bank,97,0.65,trial,True,0.096,view,8,2,leg,books
+u16,p14,peace,34,0.33,eight,False,0.048,add to cart,3,1,describe,books
+u43,p5,not,73,0.26,parent,True,0.083,view,10,4,media,electronics
+u67,p18,culture,20,0.8,but,True,0.075,view,8,3,food,fashion
+u88,p12,response,24,0.03,bar,True,0.045,view,10,3,become,home
+u55,p20,difference,39,0.83,TV,False,0.06,purchase,8,1,claim,beauty
+u71,p17,appear,55,1.0,environment,True,0.066,add to cart,6,1,yet,electronics
+u99,p7,teach,7,0.46,quite,False,0.042,purchase,2,1,do,books
+u63,p19,hot,1,0.78,anything,False,0.037,view,6,5,indicate,home
+u25,p2,official,75,0.14,only,True,0.021,add to cart,1,3,available,electronics
+u55,p12,of,68,0.6,fire,True,0.062,purchase,7,3,become,home
+u100,p20,drive,53,0.39,result,False,0.001,add to cart,8,4,claim,beauty
+u75,p15,improve,82,0.01,goal,False,0.084,purchase,9,1,leg,books
+u63,p20,far,44,0.92,school,False,0.064,view,4,2,claim,beauty
+u91,p17,green,52,0.96,drop,False,0.07,add to cart,1,1,yet,electronics
+u55,p1,join,50,0.15,series,True,0.007,add to cart,9,2,condition,fashion
+u60,p18,skin,1,0.9,red,False,0.007,view,5,3,food,fashion
+u96,p5,read,4,0.38,baby,False,0.025,add to cart,2,4,media,electronics
+u51,p9,program,78,0.98,challenge,False,0.098,add to cart,6,2,rate,beauty
+u17,p16,position,48,0.28,teach,True,0.063,add to cart,4,4,smile,books
+u63,p2,generation,84,0.85,probably,True,0.039,add to cart,6,4,available,electronics
+u69,p13,degree,45,0.48,make,True,0.07,purchase,3,1,cover,electronics
+u27,p6,see,30,0.74,eye,False,0.03,view,4,4,early,fashion
+u49,p20,throw,23,0.84,point,True,0.053,add to cart,7,1,claim,beauty
+u69,p7,keep,86,0.74,care,True,0.015,add to cart,8,3,do,books
+u34,p1,all,94,0.95,network,False,0.024,add to cart,6,4,condition,fashion
+u73,p17,thank,85,0.15,whom,False,0.078,add to cart,1,2,yet,electronics
+u36,p18,work,75,0.03,arrive,True,0.033,purchase,1,5,food,fashion
+u92,p7,soon,52,0.81,plant,False,0.021,view,2,4,do,books
+u39,p19,conference,2,0.04,might,True,0.083,purchase,4,3,indicate,home
+u19,p5,employee,19,0.36,player,False,0.048,add to cart,8,2,media,electronics
+u81,p17,election,81,0.88,need,True,0.07,add to cart,2,1,yet,electronics
+u2,p12,tree,2,0.55,send,True,0.049,view,7,3,become,home
+u91,p5,course,92,0.29,stage,False,0.009,purchase,7,3,media,electronics
+u14,p8,single,97,0.28,join,False,0.1,purchase,8,3,tough,books
+u95,p1,cover,72,0.12,establish,True,0.041,add to cart,9,3,condition,fashion
+u94,p2,adult,62,0.6,though,False,0.055,view,10,1,available,electronics
+u12,p17,now,81,0.05,affect,False,0.015,purchase,7,5,yet,electronics
+u21,p19,billion,86,0.5,spring,True,0.02,purchase,6,4,indicate,home
+u96,p3,several,74,0.02,must,True,0.017,view,3,3,thousand,fashion
+u41,p17,else,28,0.98,upon,True,0.017,view,6,5,yet,electronics
+u55,p20,ten,93,0.14,else,False,0.083,purchase,4,3,claim,beauty
+u44,p17,concern,25,0.61,create,True,0.028,add to cart,6,4,yet,electronics
+u69,p3,ago,39,0.04,perhaps,True,0.041,view,2,5,thousand,fashion
+u10,p15,car,21,0.57,practice,False,0.046,add to cart,6,2,leg,books
+u62,p9,hand,45,0.24,seat,True,0.067,add to cart,1,3,rate,beauty
+u7,p2,beyond,78,0.89,participant,False,0.007,view,1,1,available,electronics
+u84,p4,idea,84,0.48,blue,True,0.098,add to cart,3,2,program,beauty
+u46,p1,behavior,60,0.14,various,True,0.059,purchase,2,1,condition,fashion
+u75,p1,lead,49,0.58,group,True,0.086,view,5,1,condition,fashion
+u73,p11,beautiful,58,0.78,style,True,0.013,view,1,4,open,beauty
+u88,p19,forget,89,0.29,method,False,0.09,view,5,1,indicate,home
+u40,p2,serve,58,0.8,affect,True,0.032,purchase,3,5,available,electronics
+u98,p19,learn,8,0.86,bad,True,0.034,purchase,6,5,indicate,home
+u17,p15,few,76,0.19,push,True,0.006,view,3,3,leg,books
+u72,p18,dark,79,0.37,executive,False,0.093,add to cart,8,2,food,fashion
+u41,p4,hotel,1,0.18,who,True,0.061,add to cart,8,1,program,beauty
+u100,p14,minute,34,0.49,dream,True,0.013,purchase,3,4,describe,books
+u42,p13,pattern,2,0.84,identify,True,0.002,add to cart,5,2,cover,electronics
+u79,p13,perform,2,0.58,use,False,0.097,purchase,9,4,cover,electronics
+u29,p9,necessary,83,0.71,summer,False,0.037,add to cart,1,1,rate,beauty
+u14,p4,policy,96,0.61,find,False,0.07,view,2,4,program,beauty
+u14,p2,risk,98,0.62,nearly,True,0.058,add to cart,8,1,available,electronics
+u11,p7,little,38,0.84,mouth,False,0.018,view,3,5,do,books
+u56,p16,recently,18,0.09,say,True,0.038,purchase,8,5,smile,books
+u26,p13,reach,13,0.69,shoulder,True,0.067,view,4,4,cover,electronics
+u99,p4,across,71,0.66,work,True,0.052,purchase,3,4,program,beauty
+u44,p15,wonder,11,0.72,approach,False,0.024,view,9,4,leg,books
+u54,p2,also,72,0.13,prove,True,0.005,add to cart,3,3,available,electronics
+u18,p18,week,64,1.0,kitchen,False,0.014,view,2,4,food,fashion
+u84,p6,close,71,0.78,number,True,0.05,purchase,8,1,early,fashion
+u36,p13,ago,82,0.98,town,True,0.051,add to cart,4,3,cover,electronics
+u13,p1,someone,39,0.18,Mr,True,0.097,purchase,7,3,condition,fashion
+u46,p13,improve,55,0.35,ahead,False,0.097,view,2,1,cover,electronics
+u4,p5,until,34,0.56,peace,True,0.051,add to cart,4,4,media,electronics
+u21,p12,wear,80,0.75,phone,True,0.008,add to cart,3,3,become,home
+u88,p2,employee,5,0.04,never,True,0.038,add to cart,6,2,available,electronics
+u43,p19,nor,62,0.12,pattern,True,0.079,view,4,2,indicate,home
+u52,p7,floor,90,0.73,international,False,0.031,view,9,2,do,books
+u67,p18,project,90,0.76,hope,True,0.033,purchase,6,2,food,fashion
+u89,p2,sound,89,0.84,successful,False,0.004,purchase,6,4,available,electronics
+u6,p10,he,98,0.18,increase,False,0.033,add to cart,6,5,whether,fashion
+u12,p16,brother,63,0.59,minute,True,0.031,purchase,6,3,smile,books
+u61,p19,yet,72,0.75,decide,False,0.023,purchase,7,1,indicate,home
+u91,p8,always,69,0.09,either,False,0.047,view,10,2,tough,books
+u71,p4,some,70,0.3,policy,False,0.089,view,8,3,program,beauty
+u35,p20,fight,34,0.56,lay,False,0.044,add to cart,5,4,claim,beauty
+u57,p15,teach,100,0.55,manage,False,0.047,view,5,4,leg,books
+u21,p18,attack,61,0.51,daughter,False,0.037,add to cart,7,5,food,fashion
+u30,p7,senior,41,0.36,lose,True,0.04,purchase,8,3,do,books
+u78,p8,step,85,0.47,fact,True,0.087,view,8,4,tough,books
+u40,p18,you,95,0.62,cause,False,0.077,purchase,4,2,food,fashion
+u43,p16,somebody,66,0.12,government,False,0.006,purchase,1,2,smile,books
+u6,p3,beat,18,0.73,identify,False,0.076,view,2,3,thousand,fashion
+u14,p7,plan,68,0.2,particularly,True,0.049,add to cart,9,5,do,books
+u40,p4,could,79,0.54,assume,False,0.059,add to cart,10,1,program,beauty
+u70,p18,all,39,0.88,war,False,0.031,view,7,4,food,fashion
+u10,p11,information,91,0.29,question,True,0.006,add to cart,3,3,open,beauty
+u54,p14,send,63,0.69,image,False,0.089,add to cart,10,4,describe,books
+u3,p1,deep,6,0.18,Democrat,False,0.024,add to cart,5,2,condition,fashion
+u71,p8,still,29,0.84,various,False,0.06,add to cart,6,5,tough,books
+u65,p20,science,89,0.48,member,True,0.019,add to cart,10,1,claim,beauty
+u75,p19,kitchen,76,0.56,know,False,0.079,add to cart,10,5,indicate,home
+u18,p4,feeling,4,0.16,hair,False,0.078,purchase,9,2,program,beauty
+u45,p12,understand,84,0.1,focus,False,0.072,view,3,1,become,home
+u100,p9,grow,39,0.89,week,False,0.039,view,10,4,rate,beauty
+u14,p14,senior,98,0.81,safe,False,0.08,purchase,9,3,describe,books
+u37,p13,same,73,0.89,again,True,0.059,purchase,3,4,cover,electronics
+u64,p11,ahead,22,0.6,positive,True,0.062,view,8,4,open,beauty
+u99,p20,defense,70,0.08,require,False,0.048,add to cart,2,3,claim,beauty
+u34,p6,new,47,0.74,myself,False,0.007,view,6,2,early,fashion
+u18,p8,offer,77,0.86,couple,False,0.096,view,6,5,tough,books
+u7,p18,wide,52,0.6,pretty,False,0.004,view,9,1,food,fashion
+u85,p2,goal,71,0.48,before,False,0.023,add to cart,5,5,available,electronics
+u71,p6,morning,96,0.02,require,False,0.033,view,9,1,early,fashion
+u59,p12,treatment,53,0.65,sing,False,0.029,view,10,3,become,home
+u4,p16,theory,85,0.5,north,True,0.002,add to cart,2,2,smile,books
+u9,p12,receive,1,0.47,interesting,True,0.018,purchase,2,2,become,home
+u82,p11,challenge,56,0.38,stand,True,0.074,purchase,2,4,open,beauty
+u61,p14,wait,48,0.26,matter,False,0.031,add to cart,8,5,describe,books
+u4,p11,blue,41,0.23,tough,True,0.059,purchase,8,5,open,beauty
+u1,p2,international,96,0.27,sister,True,0.002,purchase,1,1,available,electronics
+u25,p1,when,40,0.02,group,True,0.093,purchase,4,1,condition,fashion
+u83,p4,offer,7,0.52,low,False,0.059,purchase,8,4,program,beauty
+u91,p12,lawyer,26,0.46,choose,True,0.007,view,6,2,become,home
+u84,p10,miss,72,0.02,already,True,0.023,purchase,7,2,whether,fashion
+u55,p7,pretty,18,0.8,within,True,0.084,purchase,7,2,do,books
+u61,p20,serve,64,0.51,catch,False,0.023,purchase,8,2,claim,beauty
+u14,p12,fear,93,0.96,decide,True,0.066,view,4,1,become,home
+u65,p15,instead,12,0.94,agree,True,0.06,add to cart,4,3,leg,books
+u66,p8,military,89,0.94,quality,False,0.1,purchase,7,3,tough,books
+u90,p17,including,13,0.78,night,True,0.066,view,8,4,yet,electronics
+u94,p14,detail,99,0.82,treatment,True,0.098,purchase,5,1,describe,books
+u7,p14,yeah,21,0.57,center,True,0.083,view,1,2,describe,books
+u29,p19,type,57,0.66,follow,True,0.086,add to cart,8,3,indicate,home
+u83,p18,would,6,0.86,pattern,True,0.03,view,2,4,food,fashion
+u18,p16,section,58,0.83,over,True,0.091,view,1,5,smile,books
+u57,p1,total,68,0.17,under,True,0.024,add to cart,7,5,condition,fashion
+u99,p15,standard,96,0.11,act,False,0.098,purchase,6,4,leg,books
+u4,p8,dark,77,0.3,find,False,0.008,add to cart,2,1,tough,books
+u14,p2,chance,26,0.46,cut,True,0.01,add to cart,8,5,available,electronics
+u24,p7,cut,48,0.22,time,False,0.096,purchase,8,5,do,books
+u44,p10,improve,63,0.68,no,True,0.071,view,4,4,whether,fashion
+u48,p20,should,7,0.24,to,True,0.055,add to cart,9,1,claim,beauty
+u3,p9,far,67,0.37,remember,True,0.07,purchase,1,2,rate,beauty
+u72,p2,mouth,98,0.27,forget,True,0.034,add to cart,1,1,available,electronics
+u31,p14,almost,95,0.84,character,True,0.078,view,6,1,describe,books
+u83,p16,fill,51,0.02,space,True,0.034,add to cart,3,3,smile,books
+u20,p16,true,51,0.34,truth,False,0.087,add to cart,3,5,smile,books
+u64,p10,plan,55,0.9,recognize,True,0.022,add to cart,2,4,whether,fashion
+u86,p15,relationship,96,0.34,section,False,0.049,purchase,3,5,leg,books
+u68,p18,north,31,0.55,few,False,0.067,purchase,8,4,food,fashion
+u53,p14,argue,7,0.68,nearly,False,0.087,view,2,4,describe,books
+u42,p4,at,79,0.44,cell,False,0.002,view,8,4,program,beauty
+u43,p18,walk,83,0.23,interesting,True,0.044,view,6,1,food,fashion
+u24,p14,write,18,0.13,contain,False,0.051,purchase,6,5,describe,books
+u37,p19,up,8,0.39,rise,True,0.027,purchase,7,1,indicate,home
+u93,p18,two,48,0.07,work,True,0.043,add to cart,6,5,food,fashion
+u11,p19,Democrat,46,0.23,style,True,0.052,purchase,6,1,indicate,home
+u11,p8,what,1,0.24,company,True,0.083,view,9,3,tough,books
+u81,p10,music,53,0.08,green,False,0.098,add to cart,3,1,whether,fashion
+u68,p15,bar,47,0.75,evening,False,0.062,purchase,4,4,leg,books
+u59,p3,bit,64,0.95,dog,False,0.049,view,10,5,thousand,fashion
+u17,p18,close,34,0.29,future,False,0.022,purchase,4,1,food,fashion
+u91,p10,technology,78,0.55,international,False,0.058,view,7,1,whether,fashion
+u66,p10,camera,40,0.66,I,True,0.037,view,4,1,whether,fashion
+u83,p1,heart,36,0.4,bed,False,0.071,add to cart,4,3,condition,fashion
+u39,p1,field,99,0.74,less,False,0.021,view,7,4,condition,fashion
+u83,p12,necessary,21,0.66,star,True,0.088,add to cart,8,1,become,home
+u75,p13,before,82,0.98,account,True,0.026,view,8,4,cover,electronics
+u55,p12,of,99,0.53,area,True,0.02,add to cart,6,3,become,home
+u88,p5,rate,20,0.94,both,True,0.059,add to cart,6,2,media,electronics
+u26,p17,conference,40,0.49,enter,False,0.007,add to cart,10,5,yet,electronics
+u3,p8,method,74,0.49,American,False,0.02,purchase,9,5,tough,books
+u13,p12,join,3,0.87,remember,True,0.047,purchase,1,4,become,home
+u2,p3,as,67,0.73,wear,False,0.085,view,7,2,thousand,fashion
+u10,p10,cut,52,0.62,yard,True,0.003,view,6,4,whether,fashion
+u10,p18,role,49,0.18,newspaper,True,0.005,purchase,3,2,food,fashion
+u31,p17,rest,91,0.93,sea,False,0.078,purchase,2,4,yet,electronics
+u55,p14,check,31,0.65,degree,True,0.067,purchase,1,3,describe,books
+u69,p4,return,96,0.33,want,False,0.089,add to cart,6,1,program,beauty
+u59,p10,tell,26,0.25,information,True,0.02,purchase,3,4,whether,fashion
+u6,p4,plan,80,0.34,item,True,0.092,view,9,3,program,beauty
+u61,p19,smile,79,0.38,travel,True,0.094,add to cart,10,1,indicate,home
+u50,p14,south,68,0.68,her,True,0.062,add to cart,5,5,describe,books
+u5,p3,picture,74,0.37,occur,True,0.051,purchase,2,1,thousand,fashion
+u39,p19,out,12,0.66,single,False,0.073,view,5,4,indicate,home
+u90,p12,special,40,0.17,key,True,0.06,purchase,1,3,become,home
+u82,p7,institution,3,0.54,similar,True,0.084,add to cart,9,2,do,books
+u33,p1,movement,12,0.94,wonder,True,0.078,purchase,7,4,condition,fashion
+u93,p6,law,43,0.27,process,False,0.058,add to cart,6,5,early,fashion
+u3,p18,race,7,0.55,sit,False,0.074,view,9,5,food,fashion
+u23,p19,here,3,0.95,back,True,0.091,purchase,8,4,indicate,home
+u88,p4,strong,56,0.46,understand,False,0.064,view,3,4,program,beauty
+u41,p8,likely,12,0.06,entire,False,0.091,purchase,3,4,tough,books
+u55,p19,quite,88,0.85,who,True,0.077,view,7,3,indicate,home
+u37,p15,bring,53,0.24,debate,True,0.096,purchase,8,2,leg,books
+u32,p14,and,79,0.71,edge,False,0.053,purchase,1,1,describe,books
+u55,p10,reach,55,0.54,role,False,0.022,add to cart,1,5,whether,fashion
+u64,p1,religious,51,0.55,vote,True,0.081,purchase,7,4,condition,fashion
+u56,p15,before,61,0.53,strong,True,0.083,view,7,4,leg,books
+u20,p3,positive,65,0.71,PM,True,0.09,purchase,10,1,thousand,fashion
+u41,p20,certain,26,0.73,strong,True,0.005,view,7,1,claim,beauty
+u92,p10,finish,73,0.66,cut,True,0.021,add to cart,4,2,whether,fashion
+u52,p8,realize,99,0.41,community,False,0.079,add to cart,7,1,tough,books
+u77,p17,smile,23,0.56,try,False,0.005,purchase,10,5,yet,electronics
+u75,p12,instead,40,0.52,forward,True,0.097,view,4,5,become,home
+u77,p4,yeah,57,0.04,inside,False,0.036,purchase,1,3,program,beauty
+u93,p3,themselves,18,0.64,eat,True,0.083,purchase,6,3,thousand,fashion
+u88,p3,which,93,0.86,their,False,0.001,purchase,1,1,thousand,fashion
+u67,p5,understand,5,0.07,last,True,0.046,add to cart,4,3,media,electronics
+u73,p2,arrive,95,0.38,involve,False,0.08,add to cart,2,3,available,electronics
+u86,p8,general,7,0.19,field,False,0.049,purchase,5,1,tough,books
+u31,p17,herself,76,0.4,low,False,0.006,purchase,6,5,yet,electronics
+u76,p20,hair,29,1.0,goal,True,0.085,view,9,5,claim,beauty
+u38,p1,pressure,50,0.82,director,False,0.09,add to cart,4,1,condition,fashion
+u74,p13,exist,92,0.22,reason,True,0.05,purchase,10,3,cover,electronics
+u93,p3,hundred,13,0.55,our,True,0.065,view,3,4,thousand,fashion
+u88,p15,specific,76,0.99,article,True,0.035,view,9,1,leg,books
+u31,p16,place,43,0.86,phone,False,0.068,view,10,3,smile,books
+u63,p20,hour,63,0.26,act,False,0.005,add to cart,6,2,claim,beauty
+u66,p18,investment,43,0.81,hard,True,0.028,view,4,5,food,fashion
+u56,p1,church,27,0.22,position,False,0.084,add to cart,8,1,condition,fashion
+u44,p19,bad,8,0.79,my,False,0.082,view,8,3,indicate,home
+u52,p16,know,14,0.13,own,True,0.079,purchase,2,2,smile,books
+u19,p17,his,81,0.07,word,True,0.049,purchase,10,5,yet,electronics
+u37,p11,chance,73,0.47,understand,True,0.084,purchase,6,4,open,beauty
+u53,p15,else,79,0.17,hour,True,0.08,purchase,1,1,leg,books
+u24,p5,sit,22,0.63,be,False,0.051,add to cart,9,2,media,electronics
+u72,p4,son,39,0.17,enough,False,0.088,add to cart,4,2,program,beauty
+u62,p6,fast,2,0.28,bag,False,0.033,view,4,1,early,fashion
+u97,p15,sometimes,21,0.54,evidence,False,0.019,add to cart,1,4,leg,books
+u65,p6,heart,42,0.95,door,False,0.08,purchase,7,3,early,fashion
+u58,p8,student,77,0.96,method,True,0.071,view,2,4,tough,books
+u18,p19,another,71,0.92,control,True,0.089,view,5,2,indicate,home
+u70,p6,sport,62,0.41,memory,False,0.043,purchase,1,3,early,fashion
+u59,p11,maybe,35,0.4,long,True,0.05,view,1,4,open,beauty
+u21,p5,consider,49,0.32,appear,False,0.045,add to cart,7,3,media,electronics
+u81,p12,key,43,0.28,image,False,0.062,add to cart,8,3,become,home
+u48,p1,during,92,0.67,tend,True,0.078,add to cart,5,3,condition,fashion
+u42,p16,others,79,0.79,method,True,0.013,purchase,4,1,smile,books
+u25,p4,maybe,26,0.61,necessary,False,0.078,add to cart,3,5,program,beauty
+u76,p14,control,39,0.92,democratic,True,0.004,view,8,5,describe,books
+u24,p3,drug,21,0.92,work,True,0.017,view,4,2,thousand,fashion
+u30,p3,ever,15,0.63,none,False,0.01,view,10,3,thousand,fashion
+u81,p19,notice,11,0.06,public,False,0.099,add to cart,5,2,indicate,home
+u27,p19,choose,84,0.15,price,False,0.009,view,8,2,indicate,home
+u90,p14,order,30,0.3,wear,False,0.083,add to cart,9,3,describe,books
+u28,p4,citizen,67,0.41,Democrat,True,0.01,purchase,3,3,program,beauty
+u60,p8,grow,97,0.49,instead,True,0.034,add to cart,4,3,tough,books
+u56,p3,treat,7,0.91,particular,False,0.07,add to cart,10,1,thousand,fashion
+u41,p9,modern,66,0.04,it,True,0.007,add to cart,9,3,rate,beauty
+u23,p8,behavior,88,0.05,practice,False,0.052,view,10,3,tough,books
+u60,p5,current,68,0.52,room,False,0.074,view,8,1,media,electronics
+u78,p4,draw,97,0.21,fall,True,0.015,purchase,3,4,program,beauty
+u33,p19,commercial,22,0.78,region,True,0.041,purchase,2,2,indicate,home
+u12,p11,many,72,0.04,day,False,0.059,add to cart,3,1,open,beauty
+u6,p10,evidence,27,0.23,head,True,0.041,add to cart,3,3,whether,fashion
+u64,p19,resource,7,0.09,suddenly,False,0.068,purchase,4,3,indicate,home
+u20,p19,thank,36,0.58,in,True,0.018,purchase,1,4,indicate,home
+u45,p11,suffer,90,1.0,arrive,True,0.037,purchase,10,5,open,beauty
+u69,p12,candidate,70,0.04,decade,False,0.003,add to cart,6,5,become,home
+u5,p10,color,87,0.69,station,True,0.049,add to cart,3,1,whether,fashion
+u60,p18,cause,37,0.56,national,False,0.043,view,6,4,food,fashion
+u64,p13,nearly,56,0.86,walk,True,0.069,view,8,1,cover,electronics
+u56,p10,for,38,0.69,family,False,0.094,add to cart,8,1,whether,fashion
+u36,p18,large,75,0.11,trouble,True,0.063,purchase,2,5,food,fashion
+u95,p13,choose,25,0.21,might,True,0.029,view,3,2,cover,electronics
+u23,p7,against,62,0.11,born,False,0.085,view,10,3,do,books
+u68,p15,support,75,0.95,score,True,0.04,view,9,3,leg,books
+u35,p20,good,74,0.15,challenge,True,0.067,purchase,3,3,claim,beauty
+u68,p4,fill,77,0.16,store,True,0.098,purchase,9,3,program,beauty
+u65,p6,heart,26,0.98,several,False,0.075,purchase,9,2,early,fashion
+u13,p17,interesting,87,0.58,party,True,0.016,view,10,1,yet,electronics
+u3,p15,song,32,0.96,argue,True,0.017,view,8,1,leg,books
+u92,p13,run,23,0.05,risk,True,0.049,purchase,1,2,cover,electronics
+u50,p6,rich,69,0.14,number,True,0.098,purchase,9,1,early,fashion
+u25,p8,kid,31,0.45,official,True,0.048,purchase,3,1,tough,books
+u31,p17,let,42,0.2,but,True,0.031,purchase,6,3,yet,electronics
+u55,p3,audience,68,0.77,minute,True,0.1,add to cart,7,1,thousand,fashion
+u88,p9,common,26,0.65,produce,True,0.073,purchase,3,3,rate,beauty
+u90,p18,for,47,0.32,teach,True,0.027,view,5,3,food,fashion
+u61,p12,beautiful,40,0.01,card,False,0.005,view,10,2,become,home
+u41,p13,address,42,0.76,risk,False,0.032,view,1,5,cover,electronics
+u5,p2,success,71,0.14,deep,False,0.092,view,10,1,available,electronics
+u27,p17,foreign,8,0.9,deal,False,0.096,view,2,3,yet,electronics
+u87,p4,support,32,0.73,development,False,0.029,add to cart,4,1,program,beauty
+u5,p2,edge,60,0.59,ask,False,0.052,purchase,9,1,available,electronics
+u54,p7,either,84,0.51,benefit,True,0.084,add to cart,6,2,do,books
+u59,p7,theory,11,0.05,she,False,0.023,purchase,3,4,do,books
+u18,p4,moment,73,0.03,each,False,0.044,purchase,1,4,program,beauty
+u100,p14,me,2,0.34,cold,True,0.098,add to cart,1,3,describe,books
+u77,p11,choose,88,0.52,arm,False,0.098,view,4,5,open,beauty
+u8,p12,body,92,0.53,direction,False,0.053,add to cart,4,3,become,home
+u26,p17,agreement,92,0.38,suffer,False,0.051,view,3,2,yet,electronics
+u35,p2,part,91,0.98,court,True,0.005,add to cart,1,5,available,electronics
+u30,p14,within,47,0.45,customer,False,0.018,add to cart,8,4,describe,books
+u14,p9,question,11,0.56,oil,False,0.018,add to cart,10,1,rate,beauty
+u27,p19,movement,53,0.02,city,True,0.017,add to cart,4,1,indicate,home
+u22,p5,drop,12,0.29,often,False,0.043,view,8,1,media,electronics
+u33,p9,deep,76,0.76,someone,False,0.086,view,8,1,rate,beauty
+u10,p15,sometimes,81,0.3,age,False,0.049,purchase,3,4,leg,books
+u58,p18,level,34,0.27,send,False,0.035,add to cart,6,1,food,fashion
+u53,p15,generation,18,0.71,model,False,0.03,view,10,3,leg,books
+u73,p19,resource,49,0.81,better,False,0.02,purchase,9,1,indicate,home
+u29,p13,bit,25,0.64,dream,False,0.093,purchase,9,1,cover,electronics
+u50,p11,not,86,0.95,detail,False,0.029,view,4,5,open,beauty
+u47,p3,camera,20,0.51,whom,True,0.033,add to cart,2,1,thousand,fashion
+u56,p9,reach,37,0.51,agree,True,0.021,add to cart,9,5,rate,beauty
+u5,p3,nature,95,0.69,despite,True,0.069,add to cart,8,2,thousand,fashion
+u4,p10,sport,41,0.34,condition,True,0.021,view,10,1,whether,fashion
+u92,p11,probably,87,0.67,tonight,False,0.059,view,9,1,open,beauty
+u38,p1,buy,98,0.41,approach,True,0.084,view,5,2,condition,fashion
+u84,p8,itself,94,0.28,off,False,0.016,view,2,3,tough,books
+u59,p18,score,77,0.35,peace,True,0.064,add to cart,3,1,food,fashion
+u27,p8,reveal,73,0.36,measure,False,0.053,purchase,9,1,tough,books
+u46,p8,safe,15,0.57,state,True,0.082,view,2,2,tough,books
+u70,p8,do,85,0.26,teach,False,0.088,add to cart,3,1,tough,books
+u6,p18,range,4,0.56,lawyer,False,0.095,purchase,5,5,food,fashion
+u47,p12,figure,85,0.46,not,True,0.09,purchase,1,5,become,home
+u72,p8,nature,13,0.65,relate,False,0.022,add to cart,5,5,tough,books
+u54,p6,side,25,0.21,drive,True,0.087,add to cart,1,5,early,fashion
+u9,p10,tonight,71,0.86,four,False,0.031,add to cart,3,5,whether,fashion
+u68,p13,trouble,30,0.34,out,False,0.091,purchase,7,5,cover,electronics
+u85,p10,line,39,0.8,thousand,False,0.04,add to cart,1,3,whether,fashion
+u60,p9,several,15,0.84,away,True,0.064,purchase,4,1,rate,beauty
+u100,p12,area,5,0.02,onto,True,0.069,view,4,1,become,home
+u42,p20,as,19,0.13,because,True,0.058,view,1,4,claim,beauty
+u12,p20,prepare,45,0.35,list,True,0.015,purchase,7,5,claim,beauty
+u56,p10,story,100,0.89,yeah,True,0.021,purchase,10,3,whether,fashion
+u3,p10,anything,42,0.35,rock,False,0.029,purchase,3,4,whether,fashion
+u98,p20,about,96,0.99,reach,False,0.05,view,10,2,claim,beauty
+u73,p15,hospital,7,0.62,find,False,0.068,purchase,9,5,leg,books
+u1,p16,where,20,0.7,share,True,0.071,purchase,6,4,smile,books
+u87,p20,Republican,97,0.11,around,True,0.035,add to cart,2,2,claim,beauty
+u8,p16,factor,1,0.34,something,True,0.017,view,5,4,smile,books
+u72,p16,federal,37,0.13,significant,True,0.042,add to cart,3,4,smile,books
+u88,p2,exist,28,0.86,degree,True,0.05,purchase,6,2,available,electronics
+u58,p19,language,74,0.64,agree,False,0.073,add to cart,3,4,indicate,home
+u75,p7,out,9,0.79,day,False,0.067,purchase,5,5,do,books
+u93,p2,radio,10,0.68,clear,False,0.011,purchase,9,3,available,electronics
+u68,p15,city,99,0.57,significant,True,0.008,view,6,1,leg,books
+u85,p16,national,34,0.84,every,False,0.041,purchase,6,4,smile,books
+u80,p5,report,90,0.71,describe,False,0.024,purchase,1,1,media,electronics
+u11,p2,send,13,0.25,including,False,0.086,add to cart,9,3,available,electronics
+u55,p10,campaign,29,0.47,expert,True,0.044,view,6,2,whether,fashion
+u64,p10,technology,19,0.83,recognize,True,0.03,purchase,5,3,whether,fashion
+u33,p6,course,80,0.65,staff,False,0.099,add to cart,6,2,early,fashion
+u10,p12,television,13,0.62,machine,False,0.044,purchase,1,3,become,home
+u39,p4,degree,86,0.15,specific,False,0.01,add to cart,10,5,program,beauty
+u52,p15,official,100,0.88,several,True,0.058,view,6,1,leg,books
+u99,p7,culture,20,0.94,east,False,0.048,add to cart,4,4,do,books
+u54,p2,write,46,0.05,suffer,True,0.014,purchase,3,3,available,electronics
+u30,p8,particular,2,0.28,onto,False,0.036,purchase,5,1,tough,books
+u89,p18,various,88,0.31,local,False,0.067,add to cart,2,4,food,fashion
+u93,p16,parent,64,0.56,increase,False,0.075,view,4,2,smile,books
+u11,p15,partner,43,0.2,strategy,True,0.08,view,10,5,leg,books
+u45,p17,national,51,0.91,report,False,0.073,add to cart,4,2,yet,electronics
+u42,p3,keep,15,0.79,again,False,0.021,purchase,4,5,thousand,fashion
+u77,p14,north,57,0.62,area,True,0.095,view,8,4,describe,books
+u17,p14,bill,82,0.1,answer,True,0.081,view,7,4,describe,books
+u30,p7,knowledge,44,0.51,newspaper,False,0.065,view,5,1,do,books
+u28,p19,sit,54,0.58,since,False,0.087,view,7,5,indicate,home
+u2,p1,maintain,49,0.74,who,False,0.074,add to cart,4,3,condition,fashion
+u15,p19,small,38,1.0,water,False,0.09,view,10,4,indicate,home
+u56,p14,service,74,0.9,consider,False,0.013,purchase,5,2,describe,books
+u34,p18,trouble,8,0.91,add,False,0.078,add to cart,1,2,food,fashion
+u75,p3,administration,85,0.53,hotel,True,0.082,purchase,1,3,thousand,fashion
+u25,p14,north,17,0.8,two,True,0.003,purchase,4,2,describe,books
+u13,p16,three,89,0.54,tough,False,0.04,purchase,6,5,smile,books
+u50,p10,number,79,0.5,force,True,0.067,view,6,4,whether,fashion
+u95,p18,bring,8,0.04,newspaper,True,0.03,view,1,2,food,fashion
+u4,p2,now,90,0.89,turn,False,0.02,view,8,4,available,electronics
+u54,p11,simply,92,0.22,history,False,0.014,view,1,4,open,beauty
+u13,p13,region,11,0.97,subject,True,0.095,view,8,3,cover,electronics
+u16,p13,nice,79,0.99,standard,False,0.018,add to cart,10,4,cover,electronics
+u89,p1,land,35,0.94,analysis,True,0.036,purchase,6,2,condition,fashion
+u64,p2,radio,35,0.54,hit,False,0.038,purchase,10,2,available,electronics
+u49,p1,accept,79,0.75,line,False,0.095,purchase,2,2,condition,fashion
+u79,p18,away,10,0.02,effort,False,0.021,add to cart,10,2,food,fashion
+u68,p14,leg,91,0.72,other,True,0.068,purchase,4,4,describe,books
+u9,p9,least,4,1.0,security,True,0.051,view,4,3,rate,beauty
+u2,p2,police,94,0.35,out,False,0.049,view,7,3,available,electronics
+u12,p14,type,97,0.32,attack,True,0.089,view,3,2,describe,books
+u14,p5,that,42,0.52,style,True,0.06,add to cart,2,3,media,electronics
+u69,p15,people,43,0.32,name,True,0.028,purchase,1,3,leg,books
+u59,p3,allow,18,0.77,method,False,0.077,purchase,6,4,thousand,fashion
+u65,p16,card,88,0.86,act,True,0.068,view,3,5,smile,books
+u25,p12,develop,81,0.37,friend,False,0.045,add to cart,2,5,become,home
+u2,p12,role,56,0.6,himself,False,0.094,view,8,3,become,home
+u98,p2,receive,60,0.77,describe,True,0.036,add to cart,10,2,available,electronics
+u86,p16,while,44,0.47,idea,True,0.089,view,10,3,smile,books
+u23,p9,maintain,31,0.54,building,False,0.084,add to cart,5,2,rate,beauty
+u59,p13,theory,34,0.09,drive,False,0.053,add to cart,3,4,cover,electronics
+u8,p5,hundred,33,0.58,poor,False,0.015,purchase,9,5,media,electronics
+u95,p10,edge,51,0.98,health,False,0.098,purchase,4,2,whether,fashion
+u1,p10,heavy,86,0.99,even,False,0.083,purchase,4,1,whether,fashion
+u50,p14,forward,22,0.92,carry,True,0.051,view,5,5,describe,books
+u43,p18,hope,25,0.98,without,True,0.095,add to cart,9,3,food,fashion
+u71,p1,girl,96,0.28,company,False,0.098,view,7,4,condition,fashion
+u87,p11,by,49,0.41,option,False,0.032,view,10,3,open,beauty
+u46,p19,sing,2,0.74,position,False,0.004,add to cart,4,2,indicate,home
+u39,p16,land,1,0.57,yeah,True,0.077,add to cart,10,5,smile,books
+u46,p19,truth,52,0.25,respond,True,0.011,view,3,2,indicate,home
+u69,p6,since,55,0.34,those,False,0.031,add to cart,2,3,early,fashion
+u80,p7,almost,19,0.5,individual,False,0.009,add to cart,6,4,do,books
+u96,p20,discussion,29,0.51,quality,False,0.08,purchase,9,1,claim,beauty
+u12,p13,itself,34,0.4,probably,False,0.058,add to cart,2,3,cover,electronics
+u13,p9,democratic,62,0.98,arrive,False,0.074,view,4,4,rate,beauty
+u45,p4,wife,18,0.44,past,True,0.011,purchase,7,1,program,beauty
+u88,p13,which,26,0.66,of,True,0.001,purchase,5,1,cover,electronics
+u4,p16,unit,22,0.09,never,False,0.048,view,5,5,smile,books
+u84,p1,what,72,0.74,account,False,0.032,purchase,6,5,condition,fashion
+u8,p17,too,95,0.68,stay,True,0.008,view,5,2,yet,electronics
+u18,p6,each,88,0.92,side,True,0.088,view,4,2,early,fashion
+u45,p15,camera,13,0.62,see,False,0.084,purchase,5,4,leg,books
+u59,p9,cause,33,0.59,to,True,0.019,view,6,1,rate,beauty
+u21,p3,company,37,0.18,customer,True,0.004,add to cart,3,4,thousand,fashion
+u96,p16,best,52,0.66,quickly,True,0.063,purchase,10,5,smile,books
+u16,p11,brother,90,0.83,will,True,0.005,view,6,2,open,beauty
+u61,p14,east,28,0.45,necessary,False,0.066,purchase,6,2,describe,books
+u65,p12,TV,41,0.4,available,True,0.097,purchase,4,2,become,home
+u21,p5,material,50,0.47,during,False,0.023,view,8,3,media,electronics
+u66,p18,bad,45,0.36,talk,True,0.035,add to cart,2,2,food,fashion
+u72,p8,early,25,0.55,once,True,0.003,add to cart,4,2,tough,books
+u5,p4,race,6,0.84,hand,True,0.075,add to cart,7,1,program,beauty
+u78,p6,significant,32,0.99,old,False,0.085,view,6,3,early,fashion
+u27,p10,agency,77,0.7,structure,False,0.035,add to cart,10,4,whether,fashion
+u97,p5,bit,51,0.59,create,False,0.016,view,9,3,media,electronics
+u42,p9,discuss,91,1.0,say,False,0.064,purchase,9,4,rate,beauty
+u69,p10,but,2,0.9,whole,True,0.086,add to cart,8,1,whether,fashion
+u24,p10,into,67,0.6,fire,False,0.025,add to cart,2,5,whether,fashion
+u13,p9,sit,38,0.22,out,True,0.059,add to cart,7,3,rate,beauty
+u21,p6,cut,53,0.19,current,True,0.045,purchase,1,4,early,fashion
+u37,p18,five,9,0.71,nearly,False,0.018,add to cart,3,3,food,fashion
+u54,p16,meet,5,0.31,cell,True,0.009,purchase,6,3,smile,books
+u82,p20,capital,97,0.69,fact,True,0.023,add to cart,8,2,claim,beauty
+u89,p3,either,48,0.22,another,False,0.031,add to cart,8,4,thousand,fashion
+u70,p6,and,2,0.36,audience,False,0.045,add to cart,6,1,early,fashion
+u67,p14,especially,59,0.32,thing,False,0.031,add to cart,1,1,describe,books
+u94,p3,plant,73,0.88,form,False,0.023,add to cart,5,4,thousand,fashion
+u42,p19,represent,56,0.73,you,True,0.003,purchase,10,1,indicate,home
+u19,p20,author,48,0.43,year,True,0.092,add to cart,5,5,claim,beauty
+u31,p4,condition,67,0.15,dream,False,0.022,purchase,4,5,program,beauty
+u56,p9,white,64,0.52,actually,True,0.075,view,3,4,rate,beauty
+u23,p8,once,73,0.65,other,False,0.059,view,4,4,tough,books
+u41,p17,evidence,29,0.94,sort,True,0.059,purchase,7,5,yet,electronics
+u20,p9,high,52,0.5,west,False,0.004,view,9,4,rate,beauty
+u47,p2,try,74,0.5,my,False,0.076,purchase,4,3,available,electronics
+u1,p16,policy,81,0.01,trial,True,0.005,view,2,2,smile,books
+u5,p14,less,73,0.57,computer,False,0.089,purchase,1,2,describe,books
+u68,p3,thing,36,0.33,world,False,0.067,purchase,1,3,thousand,fashion
+u58,p2,policy,99,0.62,word,False,0.08,view,5,4,available,electronics
+u72,p6,industry,38,0.89,he,False,0.098,view,9,4,early,fashion
+u64,p11,open,15,0.56,which,True,0.048,add to cart,2,5,open,beauty
+u8,p20,control,61,0.52,remain,False,0.037,view,6,1,claim,beauty
+u26,p9,research,16,0.04,avoid,False,0.071,add to cart,2,5,rate,beauty
+u6,p11,executive,38,0.59,service,False,0.083,purchase,9,1,open,beauty
+u13,p5,cell,44,0.26,million,True,0.089,add to cart,9,2,media,electronics
+u59,p5,recently,64,1.0,notice,False,0.092,view,8,4,media,electronics
+u91,p19,guy,18,0.95,tax,False,0.098,view,4,1,indicate,home
+u5,p4,strategy,30,0.04,over,False,0.037,add to cart,2,5,program,beauty
+u34,p9,record,87,0.01,view,False,0.009,view,9,5,rate,beauty
+u73,p5,ability,29,0.62,public,False,0.007,purchase,10,1,media,electronics
+u89,p5,claim,56,0.65,image,False,0.089,purchase,1,5,media,electronics
+u87,p18,share,17,0.77,positive,True,0.047,add to cart,3,5,food,fashion
+u40,p1,dog,43,0.78,heart,False,0.067,view,5,3,condition,fashion
+u9,p2,leave,100,0.38,despite,False,0.079,add to cart,8,4,available,electronics
+u94,p4,and,5,0.95,ask,False,0.017,add to cart,8,4,program,beauty
+u14,p19,enjoy,18,0.01,research,False,0.002,add to cart,7,5,indicate,home
+u62,p8,prove,11,0.6,really,False,0.004,view,9,1,tough,books
+u20,p16,hundred,98,0.21,voice,False,0.069,purchase,5,4,smile,books
+u61,p7,marriage,33,0.52,concern,True,0.01,purchase,9,3,do,books
+u51,p3,none,31,0.27,return,False,0.063,view,4,2,thousand,fashion
+u3,p19,smile,45,0.93,mouth,True,0.058,add to cart,7,1,indicate,home
+u89,p14,cold,84,0.88,standard,True,0.064,add to cart,6,2,describe,books
+u20,p8,require,77,0.29,throw,False,0.05,add to cart,3,5,tough,books
+u60,p12,standard,58,0.78,list,False,0.055,add to cart,3,4,become,home
+u89,p4,management,84,0.16,public,False,0.023,add to cart,7,5,program,beauty
+u76,p6,apply,75,0.73,me,True,0.032,add to cart,8,3,early,fashion
+u5,p19,foot,46,0.04,wish,False,0.005,view,4,1,indicate,home
+u2,p4,ok,8,0.91,while,False,0.041,purchase,8,1,program,beauty
+u41,p2,pay,91,0.94,food,False,0.075,add to cart,2,5,available,electronics
+u13,p1,evening,2,0.37,knowledge,True,0.028,purchase,9,4,condition,fashion
+u92,p11,seek,99,0.68,decade,True,0.047,add to cart,3,3,open,beauty
+u46,p5,whom,3,0.51,best,True,0.008,view,5,4,media,electronics
+u38,p5,the,35,0.92,list,True,0.077,purchase,7,4,media,electronics
+u78,p1,such,44,0.35,lose,False,0.027,add to cart,10,4,condition,fashion
+u2,p15,decide,42,0.43,floor,False,0.028,add to cart,9,2,leg,books
+u42,p8,though,24,0.31,at,False,0.091,add to cart,9,2,tough,books
+u38,p18,listen,78,0.43,yeah,True,0.082,add to cart,7,5,food,fashion
+u37,p7,weight,34,0.9,bed,False,0.031,add to cart,4,2,do,books
+u74,p12,western,17,0.6,six,True,0.013,view,7,1,become,home
+u12,p2,building,91,0.16,treatment,True,0.096,purchase,3,4,available,electronics
+u58,p20,happen,10,0.41,direction,False,0.042,view,5,1,claim,beauty
+u44,p7,free,18,0.39,over,False,0.079,view,5,4,do,books
+u83,p13,cover,84,0.88,surface,True,0.045,purchase,8,1,cover,electronics
+u49,p15,space,70,0.53,continue,False,0.055,view,2,1,leg,books
+u41,p12,modern,42,0.94,land,True,0.04,view,10,1,become,home
+u12,p18,guy,20,0.63,reflect,True,0.073,view,9,1,food,fashion
+u13,p3,treat,7,0.73,hotel,True,0.076,purchase,10,2,thousand,fashion
+u36,p14,close,35,0.78,street,True,0.041,purchase,2,5,describe,books
+u72,p3,until,92,0.49,huge,False,0.034,view,1,5,thousand,fashion
+u32,p3,season,47,0.09,after,False,0.048,add to cart,6,4,thousand,fashion
+u24,p11,forget,11,0.28,such,True,0.02,purchase,4,3,open,beauty
+u86,p6,attorney,23,0.23,successful,True,0.075,purchase,7,4,early,fashion
+u32,p8,morning,64,0.81,common,True,0.082,add to cart,4,5,tough,books
+u46,p11,respond,70,0.25,picture,True,0.029,add to cart,4,5,open,beauty
+u57,p11,accept,10,0.47,your,False,0.042,purchase,10,2,open,beauty
+u78,p13,city,96,0.05,administration,False,0.071,add to cart,3,1,cover,electronics
+u40,p18,admit,50,0.71,two,False,0.055,view,1,5,food,fashion
+u37,p6,past,94,0.35,community,True,0.013,view,2,4,early,fashion
+u97,p5,situation,43,0.76,identify,True,0.004,purchase,7,3,media,electronics
+u17,p15,describe,39,0.28,another,False,0.079,view,1,3,leg,books
+u69,p20,reach,76,0.05,certainly,False,0.029,view,3,4,claim,beauty
+u87,p6,sing,6,0.35,this,False,0.025,purchase,2,3,early,fashion
+u22,p13,international,24,0.46,officer,True,0.086,view,1,1,cover,electronics
+u5,p14,begin,34,0.09,leader,True,0.07,add to cart,3,4,describe,books
+u99,p14,among,16,0.26,court,False,0.042,view,10,3,describe,books
+u26,p2,watch,64,0.08,white,False,0.069,purchase,9,3,available,electronics
+u35,p13,item,75,0.67,drop,False,0.041,view,4,2,cover,electronics
+u44,p7,fine,57,0.98,end,False,0.067,add to cart,3,2,do,books
+u56,p13,within,23,0.14,available,False,0.042,purchase,3,3,cover,electronics
+u41,p4,century,82,0.12,cold,True,0.016,view,4,2,program,beauty
+u95,p2,explain,68,0.94,consider,False,0.037,purchase,8,4,available,electronics
+u66,p9,property,62,0.38,this,True,0.036,view,5,5,rate,beauty
+u42,p13,Congress,35,0.33,think,True,0.021,view,6,4,cover,electronics
+u72,p18,let,91,0.9,hope,False,0.044,add to cart,1,4,food,fashion
+u27,p20,every,52,0.94,nothing,False,0.023,view,2,3,claim,beauty
+u44,p2,management,31,0.35,door,True,0.012,purchase,7,1,available,electronics
+u87,p12,capital,23,0.6,top,False,0.095,purchase,7,1,become,home
+u72,p12,loss,37,0.46,reflect,False,0.036,purchase,2,5,become,home
+u74,p10,follow,40,0.72,field,True,0.082,purchase,1,5,whether,fashion
+u48,p1,economic,81,0.18,well,True,0.057,view,8,5,condition,fashion
+u53,p12,west,11,0.07,nature,True,0.056,add to cart,5,5,become,home
+u44,p18,impact,22,0.34,public,True,0.035,purchase,8,2,food,fashion
+u59,p18,artist,43,0.8,last,True,0.029,view,6,1,food,fashion
+u48,p15,well,48,0.54,shoulder,False,0.029,view,6,4,leg,books
+u36,p18,knowledge,7,0.77,fund,False,0.084,purchase,2,2,food,fashion
+u37,p15,to,45,0.13,feeling,True,0.018,purchase,5,2,leg,books
+u94,p11,enough,40,0.6,nature,True,0.01,view,8,5,open,beauty
+u28,p6,wonder,87,0.65,get,False,0.039,purchase,3,4,early,fashion
+u10,p18,people,47,0.99,four,False,0.026,add to cart,9,2,food,fashion
+u65,p20,early,27,0.43,thank,True,0.023,add to cart,10,3,claim,beauty
+u44,p20,cell,31,0.06,stop,True,0.077,view,3,5,claim,beauty
+u77,p2,carry,13,0.41,pattern,False,0.068,add to cart,4,3,available,electronics
+u70,p5,economic,18,0.31,purpose,True,0.095,add to cart,1,2,media,electronics
+u85,p17,spend,49,0.28,able,True,0.044,purchase,3,1,yet,electronics
+u98,p4,party,96,0.29,occur,True,0.096,view,6,1,program,beauty
+u26,p10,answer,41,0.51,rise,False,0.06,purchase,1,4,whether,fashion
+u95,p6,they,27,0.93,under,False,0.021,purchase,1,2,early,fashion
+u94,p9,opportunity,71,0.56,home,True,0.055,add to cart,2,3,rate,beauty
+u35,p17,find,20,0.92,space,False,0.011,purchase,5,1,yet,electronics
+u44,p1,cut,43,0.07,our,False,0.045,purchase,2,3,condition,fashion
+u98,p12,despite,38,0.29,off,True,0.048,add to cart,1,1,become,home
+u50,p17,out,25,0.86,Mrs,False,0.081,purchase,5,5,yet,electronics
+u60,p8,must,25,0.1,career,False,0.003,add to cart,1,2,tough,books
+u40,p16,son,81,0.16,travel,True,0.079,add to cart,4,1,smile,books
+u11,p19,fly,49,0.74,fill,True,0.07,add to cart,5,1,indicate,home
+u15,p15,reduce,37,0.68,culture,False,0.034,view,2,2,leg,books
+u14,p20,part,50,0.5,give,False,0.091,view,7,5,claim,beauty
+u43,p6,improve,17,0.64,return,False,0.028,view,8,1,early,fashion
+u75,p18,much,13,0.61,as,False,0.084,purchase,8,2,food,fashion
+u11,p13,deal,83,0.89,decide,True,0.011,add to cart,5,5,cover,electronics
+u50,p9,sport,25,0.56,add,False,0.095,add to cart,1,2,rate,beauty
+u66,p8,hour,96,0.26,question,False,0.03,view,1,5,tough,books
+u83,p2,or,19,0.89,campaign,True,0.046,add to cart,10,2,available,electronics
+u7,p10,human,54,0.6,out,True,0.004,purchase,5,3,whether,fashion
+u75,p20,mention,28,0.49,expect,True,0.017,view,4,2,claim,beauty
+u83,p17,you,66,0.35,own,False,0.053,add to cart,1,1,yet,electronics
+u84,p3,court,67,0.17,play,False,0.033,add to cart,4,1,thousand,fashion
+u22,p4,perhaps,9,0.16,light,True,0.061,view,7,3,program,beauty
+u92,p16,own,37,0.75,high,False,0.071,view,6,3,smile,books
+u70,p9,cost,86,0.05,everyone,False,0.041,add to cart,1,5,rate,beauty
+u44,p17,particularly,12,0.36,property,True,0.094,view,6,5,yet,electronics
+u40,p18,more,63,0.89,outside,False,0.041,view,3,2,food,fashion
+u4,p14,my,7,0.03,discuss,False,0.059,purchase,7,4,describe,books
+u94,p20,painting,23,0.54,practice,True,0.059,purchase,4,5,claim,beauty
+u74,p3,maybe,89,0.87,see,False,0.02,view,8,3,thousand,fashion
+u27,p2,wait,95,0.07,to,False,0.094,purchase,5,2,available,electronics
+u60,p1,you,1,0.16,seek,True,0.056,view,7,4,condition,fashion
+u31,p13,future,19,0.98,bill,False,0.026,view,10,4,cover,electronics
+u66,p2,president,21,0.02,outside,False,0.065,add to cart,6,4,available,electronics
+u52,p3,stuff,52,0.98,fight,False,0.072,purchase,6,5,thousand,fashion
+u49,p16,choice,41,0.16,clearly,True,0.02,purchase,7,2,smile,books
+u76,p14,husband,35,0.84,hospital,True,0.027,view,8,5,describe,books
+u40,p7,floor,82,0.87,sport,True,0.07,add to cart,7,5,do,books
+u99,p1,paper,62,0.96,pressure,False,0.075,add to cart,4,4,condition,fashion
+u39,p5,young,8,0.77,speech,False,0.062,purchase,2,1,media,electronics
+u7,p12,every,26,0.92,leg,False,0.009,purchase,10,5,become,home
+u39,p5,create,74,0.77,effect,False,0.095,view,6,3,media,electronics
+u56,p13,finish,12,0.23,attorney,True,0.01,view,5,3,cover,electronics
+u23,p4,spend,85,0.78,structure,False,0.026,view,9,5,program,beauty
+u23,p6,let,16,0.77,cost,True,0.064,purchase,7,3,early,fashion
+u80,p18,this,19,0.24,girl,True,0.085,purchase,6,4,food,fashion
+u40,p9,note,68,0.72,indicate,False,0.094,add to cart,10,4,rate,beauty
+u72,p3,meet,35,0.86,pull,False,0.088,view,2,2,thousand,fashion
+u88,p19,social,61,0.2,kitchen,False,0.067,add to cart,8,1,indicate,home
+u14,p19,plan,4,0.04,why,True,0.098,add to cart,10,3,indicate,home
+u40,p10,story,80,0.75,reality,False,0.084,purchase,3,2,whether,fashion
+u25,p6,identify,80,0.83,form,True,0.068,add to cart,3,2,early,fashion
+u67,p20,song,85,0.05,never,False,0.041,add to cart,5,2,claim,beauty
+u57,p5,common,3,0.82,nation,True,0.082,view,7,3,media,electronics
+u73,p19,use,56,0.73,evening,False,0.084,add to cart,9,1,indicate,home
+u14,p5,glass,29,0.98,child,True,0.063,view,8,1,media,electronics
+u32,p5,site,21,0.95,need,False,0.005,purchase,3,1,media,electronics
+u15,p16,young,46,0.89,analysis,False,0.089,add to cart,4,2,smile,books
+u91,p17,we,3,0.1,seat,True,0.013,view,9,3,yet,electronics
+u94,p3,yet,48,0.05,drive,False,0.033,view,9,2,thousand,fashion
+u30,p8,require,2,0.32,city,True,0.005,view,8,3,tough,books
+u78,p3,debate,48,0.26,most,False,0.043,purchase,4,2,thousand,fashion
+u18,p10,score,46,0.75,reach,False,0.099,add to cart,9,5,whether,fashion
+u80,p18,lay,86,0.25,deal,False,0.016,view,5,1,food,fashion
+u5,p13,bed,20,0.38,character,True,0.077,add to cart,2,2,cover,electronics
+u28,p13,several,28,0.82,western,False,0.045,purchase,8,5,cover,electronics
+u83,p20,do,13,0.98,result,True,0.022,purchase,7,5,claim,beauty
+u20,p20,teacher,98,0.41,character,True,0.083,purchase,8,2,claim,beauty
+u99,p3,president,76,0.81,unit,False,0.073,purchase,10,5,thousand,fashion
+u68,p16,want,18,0.95,really,False,0.024,purchase,6,5,smile,books
+u20,p10,check,91,0.33,hope,False,0.091,purchase,2,5,whether,fashion
+u45,p12,hand,41,0.82,life,True,0.06,purchase,10,5,become,home
+u17,p7,mission,62,0.47,pull,True,0.007,purchase,9,4,do,books
+u75,p1,herself,24,0.2,final,True,0.06,add to cart,6,4,condition,fashion
+u73,p6,like,91,0.29,against,True,0.04,view,6,3,early,fashion
+u17,p19,area,8,0.43,political,False,0.007,add to cart,3,4,indicate,home
+u82,p13,especially,60,0.46,live,False,0.002,purchase,4,3,cover,electronics
+u88,p5,read,64,0.53,thank,False,0.008,view,9,1,media,electronics
+u50,p14,ever,48,0.41,information,True,0.083,purchase,1,2,describe,books
+u59,p12,church,40,0.2,let,False,0.087,add to cart,1,1,become,home
+u84,p20,season,16,0.84,where,True,0.018,purchase,6,2,claim,beauty
+u49,p9,result,27,0.23,suddenly,True,0.053,view,6,4,rate,beauty
+u83,p12,lead,25,0.27,season,False,0.023,view,6,3,become,home
+u59,p3,car,76,0.98,seek,True,0.069,purchase,7,2,thousand,fashion
+u22,p15,too,53,0.54,executive,False,0.082,add to cart,1,3,leg,books
+u16,p16,phone,59,0.66,tree,True,0.068,purchase,6,2,smile,books
+u24,p16,kitchen,65,0.16,include,True,0.073,view,3,2,smile,books
+u57,p16,reality,28,0.72,win,True,0.072,purchase,9,4,smile,books
+u65,p15,sometimes,13,0.53,store,True,0.094,add to cart,1,1,leg,books
+u67,p13,develop,97,0.72,never,False,0.053,view,5,2,cover,electronics
+u23,p6,official,28,0.63,project,True,0.073,purchase,5,3,early,fashion
+u17,p7,nature,37,0.58,girl,False,0.006,add to cart,9,3,do,books
+u88,p6,avoid,99,0.77,will,True,0.006,add to cart,5,2,early,fashion
+u75,p8,experience,26,0.39,stay,False,0.075,view,9,1,tough,books
+u32,p3,free,56,0.41,media,False,0.007,purchase,5,3,thousand,fashion
+u61,p16,determine,93,0.28,people,False,0.024,view,1,2,smile,books
+u86,p4,very,69,0.39,million,True,0.094,add to cart,10,1,program,beauty
+u64,p4,late,82,0.67,score,True,0.068,view,4,2,program,beauty
+u23,p9,responsibility,64,0.03,main,False,0.049,add to cart,5,2,rate,beauty
+u22,p13,pass,73,0.12,agreement,False,0.003,add to cart,6,3,cover,electronics
+u72,p17,build,63,0.89,dinner,True,0.019,add to cart,5,4,yet,electronics
+u61,p5,piece,2,0.23,growth,True,0.024,add to cart,2,3,media,electronics
+u30,p16,song,69,0.41,send,True,0.078,add to cart,9,5,smile,books
+u83,p14,hotel,23,0.28,all,False,0.042,purchase,2,2,describe,books
+u46,p18,because,78,0.05,reflect,True,0.053,purchase,4,3,food,fashion
+u24,p19,brother,60,0.74,may,True,0.012,view,7,2,indicate,home
+u78,p2,blue,98,0.14,rich,True,0.088,purchase,6,5,available,electronics
+u4,p17,reveal,46,0.54,interest,True,0.009,add to cart,10,3,yet,electronics
+u95,p1,risk,17,0.44,rich,True,0.043,add to cart,7,4,condition,fashion
+u48,p2,interview,71,0.93,wall,False,0.044,purchase,6,2,available,electronics
+u43,p8,stay,45,0.47,share,False,0.067,view,9,1,tough,books
+u70,p3,former,63,0.17,across,False,0.078,view,6,4,thousand,fashion
+u41,p7,sister,15,0.46,nice,True,0.041,purchase,2,2,do,books
+u67,p14,light,16,0.48,million,True,0.084,purchase,1,1,describe,books
+u80,p6,fact,65,0.25,name,False,0.075,add to cart,7,5,early,fashion
+u10,p12,adult,32,0.14,shoulder,False,0.037,add to cart,10,3,become,home
+u97,p8,community,15,0.11,down,True,0.069,purchase,9,5,tough,books
+u22,p1,certainly,29,0.29,group,False,0.052,add to cart,1,1,condition,fashion
+u23,p1,senior,97,0.62,society,False,0.024,purchase,6,5,condition,fashion
+u96,p14,forward,62,0.24,report,False,0.008,view,3,3,describe,books
+u98,p5,week,89,0.24,walk,False,0.079,add to cart,10,2,media,electronics
+u4,p12,tend,66,0.46,suffer,False,0.037,view,1,1,become,home
+u73,p18,every,87,0.46,before,True,0.047,view,9,5,food,fashion
+u67,p15,knowledge,58,0.47,join,False,0.024,add to cart,2,3,leg,books
+u62,p13,produce,43,0.27,important,False,0.005,purchase,2,5,cover,electronics
+u55,p5,at,89,0.7,little,False,0.068,view,8,4,media,electronics
+u13,p16,free,32,0.06,part,True,0.05,purchase,6,2,smile,books
+u31,p3,military,29,0.33,most,True,0.055,view,1,2,thousand,fashion
+u91,p19,current,9,0.17,whole,True,0.035,purchase,1,1,indicate,home
+u14,p20,property,73,0.81,rate,False,0.063,purchase,10,5,claim,beauty
+u65,p3,together,58,0.78,get,True,0.01,add to cart,1,4,thousand,fashion
+u82,p12,environment,51,0.08,line,True,0.028,purchase,3,4,become,home
+u6,p5,analysis,48,0.41,better,False,0.098,view,2,3,media,electronics
+u83,p8,with,44,0.25,attention,True,0.046,purchase,10,4,tough,books
+u27,p19,now,36,0.39,night,True,0.011,add to cart,2,2,indicate,home
+u79,p14,south,8,0.09,law,False,0.006,purchase,3,3,describe,books
+u75,p10,couple,73,0.92,safe,False,0.077,add to cart,8,2,whether,fashion
+u100,p20,chance,14,0.88,office,True,0.038,view,3,2,claim,beauty
+u56,p10,Congress,20,0.49,four,False,0.064,purchase,4,4,whether,fashion
+u95,p19,scene,41,0.84,top,True,0.05,add to cart,8,2,indicate,home
+u19,p19,skill,58,0.05,road,False,0.066,view,8,3,indicate,home
+u73,p17,huge,93,0.86,election,False,0.098,add to cart,5,5,yet,electronics
+u24,p4,woman,70,0.08,war,False,0.041,purchase,1,2,program,beauty
+u25,p11,well,20,0.64,big,True,0.009,purchase,1,4,open,beauty
+u34,p5,too,84,0.66,station,False,0.004,add to cart,4,3,media,electronics
+u98,p10,win,52,0.83,listen,True,0.031,add to cart,1,2,whether,fashion
+u93,p16,property,57,0.43,push,False,0.088,purchase,1,3,smile,books
+u25,p3,effort,87,0.62,unit,False,0.071,view,10,3,thousand,fashion
+u8,p9,coach,60,0.8,produce,False,0.089,add to cart,7,4,rate,beauty
+u84,p18,would,11,0.54,set,False,0.023,view,4,3,food,fashion
+u51,p3,stock,6,0.96,drive,True,0.003,view,6,2,thousand,fashion
+u26,p1,item,70,0.62,meeting,False,0.027,purchase,9,4,condition,fashion
+u62,p14,adult,6,0.05,his,False,0.041,purchase,2,1,describe,books
+u68,p18,whole,99,0.03,suggest,True,0.082,add to cart,8,1,food,fashion
+u13,p5,area,83,0.75,strategy,False,0.038,purchase,4,3,media,electronics
+u31,p11,study,1,0.66,service,False,0.057,add to cart,8,1,open,beauty
+u65,p18,part,61,0.32,police,True,0.009,purchase,1,2,food,fashion
+u12,p13,third,14,0.22,grow,True,0.055,view,4,2,cover,electronics
+u42,p4,pick,28,0.7,organization,False,0.078,purchase,4,1,program,beauty
+u13,p5,we,60,0.1,near,False,0.081,purchase,5,1,media,electronics
+u37,p19,expert,44,0.45,final,False,0.039,add to cart,10,4,indicate,home
+u80,p14,low,78,0.28,know,True,0.008,view,5,1,describe,books
+u54,p5,concern,88,0.8,by,True,0.051,add to cart,5,3,media,electronics
+u72,p5,several,97,0.65,cultural,False,0.089,add to cart,4,5,media,electronics
+u100,p16,laugh,18,0.25,car,False,0.075,add to cart,4,5,smile,books
+u72,p19,coach,78,0.18,choice,False,0.077,purchase,8,1,indicate,home
+u85,p7,treat,25,0.96,everyone,False,0.095,view,1,2,do,books
+u3,p16,physical,60,0.81,race,False,0.02,add to cart,7,4,smile,books
+u3,p5,tax,3,0.02,debate,False,0.097,add to cart,2,2,media,electronics
+u75,p19,language,4,0.83,number,False,0.028,add to cart,6,2,indicate,home
+u63,p15,including,3,0.48,station,True,0.022,purchase,1,2,leg,books
+u85,p2,later,90,0.43,manage,True,0.056,purchase,1,5,available,electronics
+u42,p19,adult,35,0.33,none,True,0.087,purchase,3,1,indicate,home
+u28,p1,including,84,0.04,heart,False,0.068,add to cart,4,2,condition,fashion
+u52,p12,policy,85,0.99,able,False,0.057,view,1,1,become,home
+u19,p9,development,11,0.6,war,True,0.068,add to cart,4,1,rate,beauty
+u19,p9,theory,76,0.31,country,True,0.049,add to cart,9,2,rate,beauty
+u57,p15,million,14,0.43,small,True,0.044,add to cart,10,1,leg,books
+u92,p8,over,100,0.46,product,False,0.045,add to cart,8,3,tough,books
+u6,p7,adult,38,0.6,direction,False,0.054,purchase,6,4,do,books
+u76,p7,appear,65,0.73,last,True,0.092,purchase,1,4,do,books
+u5,p8,method,18,0.55,deal,True,0.073,view,6,4,tough,books
+u48,p20,professional,50,0.39,born,True,0.024,purchase,2,4,claim,beauty
+u1,p16,itself,26,0.38,customer,False,0.016,purchase,7,1,smile,books
+u63,p16,clearly,34,0.58,red,False,0.099,add to cart,4,1,smile,books
+u90,p7,billion,76,0.36,seven,False,0.079,view,4,4,do,books
+u48,p19,or,58,0.97,tell,True,0.081,add to cart,9,3,indicate,home
+u40,p5,little,64,0.1,gas,False,0.092,purchase,7,3,media,electronics
+u71,p1,matter,37,0.22,ground,True,0.057,view,1,3,condition,fashion
+u46,p17,right,35,0.11,day,True,0.017,purchase,1,4,yet,electronics
+u1,p18,by,3,0.53,eight,True,0.034,add to cart,6,3,food,fashion
+u58,p12,major,28,0.74,think,True,0.054,purchase,6,2,become,home
+u81,p1,management,32,0.52,maintain,False,0.005,add to cart,10,2,condition,fashion
+u37,p9,wind,31,0.11,road,False,0.018,purchase,9,5,rate,beauty
+u11,p5,price,51,0.08,federal,True,0.028,view,8,4,media,electronics
+u4,p5,four,14,0.63,Democrat,False,0.081,view,6,5,media,electronics
+u6,p19,medical,59,0.78,training,False,0.017,view,7,2,indicate,home
+u89,p18,play,36,0.56,sea,True,0.094,purchase,6,4,food,fashion
+u90,p7,gun,3,0.11,response,True,0.04,add to cart,7,2,do,books
+u16,p20,as,72,0.87,range,False,0.087,purchase,8,1,claim,beauty
+u31,p8,claim,4,0.45,interesting,False,0.05,add to cart,4,5,tough,books
+u69,p2,those,11,0.08,around,True,0.07,add to cart,5,1,available,electronics
+u9,p8,state,18,0.53,his,True,0.068,view,10,2,tough,books
+u14,p3,modern,89,0.56,senior,True,0.044,add to cart,5,5,thousand,fashion
+u19,p1,six,10,0.52,reason,True,0.092,purchase,3,2,condition,fashion
+u4,p19,large,19,0.86,help,True,0.09,view,3,5,indicate,home
+u87,p4,through,89,0.22,wife,False,0.09,purchase,5,5,program,beauty
+u28,p2,chance,24,0.42,front,True,0.067,purchase,7,3,available,electronics
+u69,p9,quickly,11,0.88,address,False,0.002,view,6,5,rate,beauty
+u26,p10,Mrs,36,0.16,person,True,0.067,view,10,5,whether,fashion
+u10,p13,who,17,0.65,against,True,0.037,view,5,4,cover,electronics
+u82,p2,rather,12,0.94,pull,True,0.05,view,1,5,available,electronics
+u63,p9,look,21,0.14,stock,True,0.039,purchase,10,1,rate,beauty
+u6,p13,candidate,78,0.91,modern,False,0.09,purchase,2,3,cover,electronics
+u84,p9,week,5,0.31,structure,False,0.078,purchase,3,4,rate,beauty
+u2,p11,assume,83,0.73,floor,True,0.07,add to cart,4,3,open,beauty
+u89,p17,common,99,0.28,magazine,True,0.068,view,9,2,yet,electronics
+u85,p1,daughter,10,0.68,live,False,0.075,view,3,2,condition,fashion
+u48,p17,piece,41,0.24,inside,True,0.04,add to cart,6,4,yet,electronics
+u33,p20,which,53,0.62,send,True,0.009,purchase,6,3,claim,beauty
+u30,p14,character,89,0.23,customer,False,0.075,add to cart,3,3,describe,books
+u21,p5,behind,11,0.04,material,True,0.075,purchase,3,3,media,electronics
+u64,p15,happen,68,0.84,few,True,0.051,view,6,2,leg,books
+u1,p14,avoid,22,0.16,record,True,0.015,view,2,2,describe,books
+u32,p13,avoid,6,0.93,you,True,0.05,add to cart,6,5,cover,electronics
+u8,p20,prevent,78,0.75,its,True,0.086,purchase,4,1,claim,beauty
+u45,p4,blood,26,0.72,dog,False,0.082,add to cart,6,2,program,beauty
+u7,p8,business,99,0.73,carry,False,0.039,add to cart,6,3,tough,books
+u15,p7,list,36,0.85,sit,True,0.002,add to cart,6,3,do,books
+u91,p14,recent,26,0.42,race,True,0.018,purchase,1,3,describe,books
+u21,p2,reduce,28,0.06,almost,True,0.017,purchase,1,4,available,electronics
+u84,p12,history,56,0.56,safe,True,0.069,add to cart,3,3,become,home
+u79,p14,hundred,44,0.18,better,True,0.015,purchase,5,1,describe,books
+u6,p6,fear,86,0.78,until,False,0.079,view,7,1,early,fashion
+u46,p5,section,48,0.61,realize,False,0.046,purchase,5,3,media,electronics
+u31,p7,mother,55,0.35,claim,True,0.026,view,7,4,do,books
+u76,p1,behavior,28,0.15,less,False,0.062,purchase,3,3,condition,fashion
+u60,p14,myself,54,0.28,should,True,0.061,purchase,3,1,describe,books
+u72,p6,news,48,0.97,piece,True,0.08,add to cart,8,3,early,fashion
+u12,p10,particular,13,0.67,perhaps,False,0.03,view,6,2,whether,fashion
+u64,p15,picture,63,0.77,same,True,0.043,add to cart,1,1,leg,books
+u64,p16,such,100,0.58,between,True,0.001,add to cart,5,5,smile,books
+u12,p9,meet,45,0.31,choose,False,0.097,view,1,1,rate,beauty
+u90,p9,ok,76,0.07,management,True,0.001,view,5,1,rate,beauty
+u78,p13,through,16,0.91,issue,False,0.028,purchase,10,3,cover,electronics
+u59,p19,discover,60,0.26,hair,True,0.099,add to cart,10,4,indicate,home
+u41,p18,believe,83,0.75,loss,False,0.086,view,1,3,food,fashion
+u8,p1,leader,61,0.64,site,False,0.068,view,5,2,condition,fashion
+u51,p15,wait,32,0.94,ask,False,0.014,add to cart,9,3,leg,books
+u98,p6,over,30,0.22,set,False,0.009,view,1,1,early,fashion
+u43,p4,man,65,0.45,film,False,0.008,view,10,3,program,beauty
+u15,p20,edge,47,0.82,election,True,0.016,add to cart,3,1,claim,beauty
+u18,p18,whole,46,0.08,north,False,0.011,add to cart,4,3,food,fashion
+u87,p2,time,64,0.35,wait,True,0.068,view,9,1,available,electronics
+u46,p20,pull,89,0.93,open,True,0.024,view,8,1,claim,beauty
+u16,p15,nature,19,0.12,strategy,True,0.057,add to cart,5,5,leg,books
+u62,p5,bit,12,0.64,strong,True,0.083,add to cart,7,4,media,electronics
+u72,p14,skin,37,0.23,miss,False,0.035,view,3,1,describe,books
+u50,p11,for,62,0.55,identify,True,0.01,view,4,2,open,beauty
+u10,p19,know,66,0.77,grow,False,0.081,purchase,9,2,indicate,home
+u86,p7,task,33,0.41,training,False,0.052,view,9,1,do,books
+u18,p11,out,64,0.3,middle,False,0.03,view,10,5,open,beauty
+u93,p6,teach,50,0.73,consider,False,0.064,purchase,4,2,early,fashion
+u52,p11,speak,90,0.96,wait,True,0.063,view,5,5,open,beauty
+u32,p2,score,30,0.28,ball,True,0.098,view,6,2,available,electronics
+u77,p6,upon,33,0.72,agency,False,0.099,view,8,3,early,fashion
+u45,p7,manager,100,0.09,measure,True,0.061,purchase,7,5,do,books
+u28,p7,during,89,0.92,despite,False,0.079,add to cart,5,5,do,books
+u49,p18,take,79,0.35,education,False,0.079,add to cart,7,3,food,fashion
+u72,p4,entire,9,0.52,return,True,0.05,purchase,1,2,program,beauty
+u50,p19,fire,42,0.03,maintain,False,0.033,view,10,3,indicate,home
+u11,p6,care,11,0.61,within,True,0.09,purchase,3,3,early,fashion
+u40,p10,window,27,0.21,training,True,0.042,purchase,1,4,whether,fashion
+u9,p14,include,63,0.6,set,True,0.055,view,6,4,describe,books
+u16,p9,should,30,0.67,air,True,0.1,view,5,4,rate,beauty
+u32,p2,go,51,0.74,need,True,0.062,add to cart,4,5,available,electronics
+u12,p17,bank,46,0.04,establish,False,0.087,purchase,7,4,yet,electronics
+u78,p1,receive,68,0.27,evidence,False,0.028,purchase,4,4,condition,fashion
+u71,p7,industry,75,0.63,board,False,0.015,view,5,1,do,books
+u86,p13,usually,59,0.97,exist,True,0.036,view,8,5,cover,electronics
+u4,p2,move,50,0.61,vote,True,0.072,purchase,5,1,available,electronics
+u61,p7,point,44,0.52,attorney,False,0.029,purchase,10,2,do,books
+u71,p5,would,79,0.71,rich,True,0.012,add to cart,5,3,media,electronics
+u84,p19,chair,88,0.08,goal,False,0.067,view,10,3,indicate,home
+u15,p1,whose,5,0.05,thus,True,0.048,purchase,8,3,condition,fashion
+u42,p12,lawyer,9,0.9,ago,False,0.028,view,2,2,become,home
+u94,p9,him,94,0.21,market,False,0.096,purchase,8,2,rate,beauty
+u91,p18,face,84,0.61,TV,False,0.049,purchase,4,5,food,fashion
+u50,p10,start,19,0.78,evening,False,0.094,view,10,1,whether,fashion
+u67,p4,party,92,0.73,concern,False,0.09,add to cart,8,1,program,beauty
+u86,p6,power,76,0.47,before,True,0.027,add to cart,5,3,early,fashion
+u86,p6,usually,96,0.52,relationship,True,0.029,add to cart,2,1,early,fashion
+u97,p7,student,24,0.92,office,False,0.032,view,9,1,do,books
+u23,p11,approach,7,0.92,remember,True,0.079,purchase,6,1,open,beauty
+u20,p18,present,56,0.01,difference,False,0.031,add to cart,9,5,food,fashion
+u70,p7,something,29,0.4,state,False,0.033,purchase,4,2,do,books
+u8,p20,throw,86,0.96,call,False,0.046,add to cart,2,3,claim,beauty
+u98,p10,stock,6,0.09,lot,True,0.075,add to cart,8,1,whether,fashion
+u90,p7,next,83,0.12,personal,True,0.037,purchase,3,1,do,books
+u92,p17,soon,25,0.95,eye,True,0.008,add to cart,3,3,yet,electronics
+u34,p1,where,60,0.5,positive,False,0.08,add to cart,10,2,condition,fashion
+u36,p4,director,10,0.51,responsibility,True,0.098,add to cart,2,4,program,beauty
+u56,p11,step,31,0.91,project,True,0.081,add to cart,6,1,open,beauty
+u15,p9,husband,1,0.97,career,False,0.014,view,1,5,rate,beauty
+u53,p7,investment,15,0.07,national,False,0.082,add to cart,3,3,do,books
+u48,p14,bad,90,0.42,hot,False,0.031,view,8,1,describe,books
+u5,p18,bar,39,0.75,treatment,False,0.072,view,4,5,food,fashion
+u62,p1,evidence,74,0.82,probably,True,0.067,add to cart,4,4,condition,fashion
+u41,p12,management,89,0.14,arm,True,0.014,add to cart,3,5,become,home
+u42,p14,kid,46,0.31,despite,True,0.003,purchase,10,3,describe,books
+u46,p9,successful,48,1.0,dark,True,0.06,purchase,10,5,rate,beauty
+u42,p1,by,36,0.08,later,True,0.075,view,3,5,condition,fashion
+u97,p3,find,81,0.95,suggest,True,0.051,add to cart,2,5,thousand,fashion
+u29,p12,stay,77,0.39,say,True,0.039,purchase,1,3,become,home
+u50,p3,audience,20,0.97,drive,False,0.097,add to cart,3,5,thousand,fashion
+u39,p16,particularly,32,0.37,read,False,0.004,add to cart,5,2,smile,books
