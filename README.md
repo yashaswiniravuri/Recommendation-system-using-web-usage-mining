@@ -17,7 +17,7 @@ The hybrid filtering algorithm combines both collaborative and content-based fil
 
 The system includes visualizations of:
 - Association rule Scatter Plot
-![association rule mining](https://github.com/yashaswiniravuri/Recommendation-system-using-web-usage-mining/blob/d4f87fcab1b9ad74498de761da7e932f40acfc5f/association%20rule%20scatter%20plot.png)
+![association rule mining](ASSOCIATION.png)
 - user-item rating matrix for collaborative filtering
 ![user-item rating matrix for collaborative filtering](https://github.com/yashaswiniravuri/Recommendation-system-using-web-usage-mining/blob/a34a517b4bb6bd2867b00aff00cbe9f8718a3a62/collaborative%20filtering%20user-item%20ranking.png)
 - cosine similarity matrix for content-based filtering
