@@ -19,11 +19,11 @@ The system includes visualizations of:
 - Association rule Scatter Plot
 ![association rule mining](ASSOCIATION.png)
 - user-item rating matrix for collaborative filtering
-![user-item rating matrix for collaborative filtering](https://github.com/yashaswiniravuri/Recommendation-system-using-web-usage-mining/blob/a34a517b4bb6bd2867b00aff00cbe9f8718a3a62/collaborative%20filtering%20user-item%20ranking.png)
+![user-item rating matrix for collaborative filtering](COLLABORATIVE.png)
 - cosine similarity matrix for content-based filtering
-![cosine similarity matrix for content-based filtering](https://github.com/yashaswiniravuri/Recommendation-system-using-web-usage-mining/blob/a34a517b4bb6bd2867b00aff00cbe9f8718a3a62/content%20based%20filtering%20cosine%20similarity.png)
+![cosine similarity matrix for content-based filtering](CONTENT.png)
 - sample recommended products for a user using hybrid filtering
-![Sample recommended products for a user](https://github.com/yashaswiniravuri/Recommendation-system-using-web-usage-mining/blob/071132d6f16daae3163478f974f00662b1ec7217/Recommended%20products.png)
+![Sample recommended products for a user](hybrid.py)
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or would like to contribute to the project, please create a pull request or contact the project owner.
