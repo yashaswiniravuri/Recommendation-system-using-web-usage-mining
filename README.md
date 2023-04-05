@@ -23,7 +23,7 @@ The system includes visualizations of:
 - cosine similarity matrix for content-based filtering
 ![cosine similarity matrix for content-based filtering](CONTENT.png)
 - sample recommended products for a user using hybrid filtering
-![Sample recommended products for a user](hybrid.py)
+![Sample recommended products for a user](HYBRID.png)
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or would like to contribute to the project, please create a pull request or contact the project owner.
